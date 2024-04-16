@@ -1,0 +1,194 @@
+SENTPOS 2001-Bush.txt NLTK  A    0   26 President Clinton , distinguished guests and my fellow citizens , the peaceful transfer of authority is rare in history , yet common in our country .
+SENTPOS 2001-Bush.txt NLTK  B    0  26 President_NNP Clinton_NNP ,_COMMA distinguished_VBD guests_NNS and_CC my_PRPDOLLAR fellow_JJ citizens_NNS ,_COMMA the_DT peaceful_JJ transfer_NN of_IN authority_NN is_VBZ rare_JJ in_IN history_NN ,_COMMA yet_RB common_JJ in_IN our_PRPDOLLAR country_NN ._PERIOD
+SENTPOS 2001-Bush.txt NLTK  A    1   14 With a simple oath , we affirm old traditions and make new beginnings .
+SENTPOS 2001-Bush.txt NLTK  B    1  14 With_IN a_DT simple_JJ oath_NN ,_COMMA we_PRP affirm_VBP old_JJ traditions_NNS and_CC make_VB new_JJ beginnings_NNS ._PERIOD
+SENTPOS 2001-Bush.txt NLTK  A    2   15 As I begin , I thank President Clinton for his service to our nation .
+SENTPOS 2001-Bush.txt NLTK  B    2  15 As_IN I_PRP begin_VBP ,_COMMA I_PRP thank_VBP President_NNP Clinton_NNP for_IN his_PRPDOLLAR service_NN to_TO our_PRPDOLLAR nation_NN ._PERIOD
+SENTPOS 2001-Bush.txt NLTK  A    3   17 And I thank Vice President Gore for a contest conducted with spirit and ended with grace .
+SENTPOS 2001-Bush.txt NLTK  B    3  17 And_CC I_PRP thank_VBP Vice_NNP President_NNP Gore_NNP for_IN a_DT contest_NN conducted_VBN with_IN spirit_NN and_CC ended_VBD with_IN grace_NN ._PERIOD
+SENTPOS 2001-Bush.txt NLTK  A    4   28 I am honored and humbled to stand here , where so many of America ' s leaders have come before me , and so many will follow .
+SENTPOS 2001-Bush.txt NLTK  B    4  28 I_PRP am_VBP honored_VBN and_CC humbled_VBN to_TO stand_VB here_RB ,_COMMA where_WRB so_RB many_JJ of_IN America_NNP '_POS s_NN leaders_NNS have_VBP come_VBN before_IN me_PRP ,_COMMA and_CC so_RB many_JJ will_MD follow_VB ._PERIOD
+SENTPOS 2001-Bush.txt NLTK  A    5   27 We have a place , all of us , in a long story -- a story we continue , but whose end we will not see .
+SENTPOS 2001-Bush.txt NLTK  B    5  27 We_PRP have_VBP a_DT place_NN ,_COMMA all_DT of_IN us_PRP ,_COMMA in_IN a_DT long_JJ story_NN --_COLON a_DT story_NN we_PRP continue_VBP ,_COMMA but_CC whose_WPDOLLAR end_NN we_PRP will_MD not_RB see_VB ._PERIOD
+SENTPOS 2001-Bush.txt NLTK  A    6   56 It is the story of a new world that became a friend and liberator of the old , a story of a slave - holding society that became a servant of freedom , the story of a power that went into the world to protect but not possess , to defend but not to conquer .
+SENTPOS 2001-Bush.txt NLTK  B    6  56 It_PRP is_VBZ the_DT story_NN of_IN a_DT new_JJ world_NN that_WDT became_VBD a_DT friend_NN and_CC liberator_NN of_IN the_DT old_JJ ,_COMMA a_DT story_NN of_IN a_DT slave_JJ -_HYPHEN holding_VBG society_NN that_WDT became_VBD a_DT servant_NN of_IN freedom_NN ,_COMMA the_DT story_NN of_IN a_DT power_NN that_WDT went_VBD into_IN the_DT world_NN to_TO protect_VB but_CC not_RB possess_RB ,_COMMA to_TO defend_VB but_CC not_RB to_TO conquer_VB ._PERIOD
+SENTPOS 2001-Bush.txt NLTK  A    7   24 It is the American story -- a story of flawed and fallible people , united across the generations by grand and enduring ideals .
+SENTPOS 2001-Bush.txt NLTK  B    7  24 It_PRP is_VBZ the_DT American_JJ story_NN --_COLON a_DT story_NN of_IN flawed_VBN and_CC fallible_JJ people_NNS ,_COMMA united_JJ across_IN the_DT generations_NNS by_IN grand_JJ and_CC enduring_JJ ideals_NNS ._PERIOD
+SENTPOS 2001-Bush.txt NLTK  A    8   28 The grandest of these ideals is an unfolding American promise that everyone belongs , that everyone deserves a chance , that no insignificant person was ever born .
+SENTPOS 2001-Bush.txt NLTK  B    8  28 The_DT grandest_JJS of_IN these_DT ideals_NNS is_VBZ an_DT unfolding_JJ American_JJ promise_NN that_IN everyone_NN belongs_NNS ,_COMMA that_IN everyone_NN deserves_VBZ a_DT chance_NN ,_COMMA that_IN no_DT insignificant_JJ person_NN was_VBD ever_RB born_VBN ._PERIOD
+SENTPOS 2001-Bush.txt NLTK  A    9   15 Americans are called to enact this promise in our lives and in our laws .
+SENTPOS 2001-Bush.txt NLTK  B    9  15 Americans_NNPS are_VBP called_VBN to_TO enact_VB this_DT promise_NN in_IN our_PRPDOLLAR lives_NNS and_CC in_IN our_PRPDOLLAR laws_NNS ._PERIOD
+SENTPOS 2001-Bush.txt NLTK  A   10   19 And though our nation has sometimes halted , and sometimes delayed , we must follow no other course .
+SENTPOS 2001-Bush.txt NLTK  B   10  19 And_CC though_IN our_PRPDOLLAR nation_NN has_VBZ sometimes_RB halted_VBN ,_COMMA and_CC sometimes_RB delayed_VBN ,_COMMA we_PRP must_MD follow_VB no_DT other_JJ course_NN ._PERIOD
+SENTPOS 2001-Bush.txt NLTK  A   11   23 Through much of the last century , America ' s faith in freedom and democracy was a rock in a raging sea .
+SENTPOS 2001-Bush.txt NLTK  B   11  23 Through_IN much_RB of_IN the_DT last_JJ century_NN ,_COMMA America_NNP '_POS s_NN faith_NN in_IN freedom_NN and_CC democracy_NN was_VBD a_DT rock_NN in_IN a_DT raging_NN sea_NN ._PERIOD
+SENTPOS 2001-Bush.txt NLTK  A   12   15 Now it is a seed upon the wind , taking root in many nations .
+SENTPOS 2001-Bush.txt NLTK  B   12  15 Now_RB it_PRP is_VBZ a_DT seed_NN upon_IN the_DT wind_NN ,_COMMA taking_VBG root_NN in_IN many_JJ nations_NNS ._PERIOD
+SENTPOS 2001-Bush.txt NLTK  A   13   38 Our democratic faith is more than the creed of our country , it is the inborn hope of our humanity , an ideal we carry but do not own , a trust we bear and pass along .
+SENTPOS 2001-Bush.txt NLTK  B   13  38 Our_PRPDOLLAR democratic_JJ faith_NN is_VBZ more_JJR than_IN the_DT creed_NN of_IN our_PRPDOLLAR country_NN ,_COMMA it_PRP is_VBZ the_DT inborn_JJ hope_NN of_IN our_PRPDOLLAR humanity_NN ,_COMMA an_DT ideal_NN we_PRP carry_VBP but_CC do_VBP not_RB own_VB ,_COMMA a_DT trust_NN we_PRP bear_VBP and_CC pass_VBP along_RB ._PERIOD
+SENTPOS 2001-Bush.txt NLTK  A   14   16 And even after nearly 225 years , we have a long way yet to travel .
+SENTPOS 2001-Bush.txt NLTK  B   14  16 And_CC even_RB after_IN nearly_RB 225_CD years_NNS ,_COMMA we_PRP have_VBP a_DT long_JJ way_NN yet_RB to_TO travel_NN ._PERIOD
+SENTPOS 2001-Bush.txt NLTK  A   15   21 While many of our citizens prosper , others doubt the promise , even the justice , of our own country .
+SENTPOS 2001-Bush.txt NLTK  B   15  21 While_IN many_JJ of_IN our_PRPDOLLAR citizens_NNS prosper_NN ,_COMMA others_NNS doubt_VBP the_DT promise_NN ,_COMMA even_RB the_DT justice_NN ,_COMMA of_IN our_PRPDOLLAR own_JJ country_NN ._PERIOD
+SENTPOS 2001-Bush.txt NLTK  A   16   20 The ambitions of some Americans are limited by failing schools and hidden prejudice and the circumstances of their birth .
+SENTPOS 2001-Bush.txt NLTK  B   16  20 The_DT ambitions_NNS of_IN some_DT Americans_NNS are_VBP limited_VBN by_IN failing_VBG schools_NNS and_CC hidden_JJ prejudice_NN and_CC the_DT circumstances_NNS of_IN their_PRPDOLLAR birth_NN ._PERIOD
+SENTPOS 2001-Bush.txt NLTK  A   17   20 And sometimes our differences run so deep , it seems we share a continent , but not a country .
+SENTPOS 2001-Bush.txt NLTK  B   17  20 And_CC sometimes_RB our_PRPDOLLAR differences_NNS run_VBP so_RB deep_RB ,_COMMA it_PRP seems_VBZ we_PRP share_NN a_DT continent_NN ,_COMMA but_CC not_RB a_DT country_NN ._PERIOD
+SENTPOS 2001-Bush.txt NLTK  A   18   13 We do not accept this , and we will not allow it .
+SENTPOS 2001-Bush.txt NLTK  B   18  13 We_PRP do_VBP not_RB accept_VB this_DT ,_COMMA and_CC we_PRP will_MD not_RB allow_VB it_PRP ._PERIOD
+SENTPOS 2001-Bush.txt NLTK  A   19   18 Our unity , our union , is the serious work of leaders and citizens in every generation .
+SENTPOS 2001-Bush.txt NLTK  B   19  18 Our_PRPDOLLAR unity_NN ,_COMMA our_PRPDOLLAR union_NN ,_COMMA is_VBZ the_DT serious_JJ work_NN of_IN leaders_NNS and_CC citizens_NNS in_IN every_DT generation_NN ._PERIOD
+SENTPOS 2001-Bush.txt NLTK  A   20   20 And this is my solemn pledge : I will work to build a single nation of justice and opportunity .
+SENTPOS 2001-Bush.txt NLTK  B   20  20 And_CC this_DT is_VBZ my_PRPDOLLAR solemn_JJ pledge_NN :_COLON I_PRP will_MD work_VB to_TO build_VB a_DT single_JJ nation_NN of_IN justice_NN and_CC opportunity_NN ._PERIOD
+SENTPOS 2001-Bush.txt NLTK  A   21   25 I know this is in our reach because we are guided by a power larger than ourselves who creates us equal in His image .
+SENTPOS 2001-Bush.txt NLTK  B   21  25 I_PRP know_VBP this_DT is_VBZ in_IN our_PRPDOLLAR reach_NN because_IN we_PRP are_VBP guided_VBN by_IN a_DT power_NN larger_JJR than_IN ourselves_NNS who_WP creates_VBZ us_PRP equal_JJ in_IN His_PRPDOLLAR image_NN ._PERIOD
+SENTPOS 2001-Bush.txt NLTK  A   22   13 And we are confident in principles that unite and lead us onward .
+SENTPOS 2001-Bush.txt NLTK  B   22  13 And_CC we_PRP are_VBP confident_JJ in_IN principles_NNS that_IN unite_JJ and_CC lead_JJ us_PRP onward_RB ._PERIOD
+SENTPOS 2001-Bush.txt NLTK  A   23   12 America has never been united by blood or birth or soil .
+SENTPOS 2001-Bush.txt NLTK  B   23  12 America_NNP has_VBZ never_RB been_VBN united_VBN by_IN blood_NN or_CC birth_NN or_CC soil_NN ._PERIOD
+SENTPOS 2001-Bush.txt NLTK  A   24   27 We are bound by ideals that move us beyond our backgrounds , lift us above our interests and teach us what it means to be citizens .
+SENTPOS 2001-Bush.txt NLTK  B   24  27 We_PRP are_VBP bound_VBN by_IN ideals_NNS that_WDT move_VBP us_PRP beyond_IN our_PRPDOLLAR backgrounds_NNS ,_COMMA lift_VB us_PRP above_IN our_PRPDOLLAR interests_NNS and_CC teach_VB us_PRP what_WP it_PRP means_VBZ to_TO be_VB citizens_NNS ._PERIOD
+SENTPOS 2001-Bush.txt NLTK  A   25    8 Every child must be taught these principles .
+SENTPOS 2001-Bush.txt NLTK  B   25   8 Every_DT child_NN must_MD be_VB taught_VBN these_DT principles_NNS ._PERIOD
+SENTPOS 2001-Bush.txt NLTK  A   26    6 Every citizen must uphold them .
+SENTPOS 2001-Bush.txt NLTK  B   26   6 Every_DT citizen_NN must_MD uphold_VB them_PRP ._PERIOD
+SENTPOS 2001-Bush.txt NLTK  A   27   19 And every immigrant , by embracing these ideals , makes our country more , not less , American .
+SENTPOS 2001-Bush.txt NLTK  B   27  19 And_CC every_DT immigrant_NN ,_COMMA by_IN embracing_VBG these_DT ideals_NNS ,_COMMA makes_VBZ our_PRPDOLLAR country_NN more_RBR ,_COMMA not_RB less_RBR ,_COMMA American_NNP ._PERIOD
+SENTPOS 2001-Bush.txt NLTK  A   28   24 Today , we affirm a new commitment to live out our nation ' s promise through civility , courage , compassion and character .
+SENTPOS 2001-Bush.txt NLTK  B   28  24 Today_NN ,_COMMA we_PRP affirm_VBP a_DT new_JJ commitment_NN to_TO live_VB out_RP our_PRPDOLLAR nation_NN '_POS s_NN promise_NN through_IN civility_NN ,_COMMA courage_NN ,_COMMA compassion_NN and_CC character_NN ._PERIOD
+SENTPOS 2001-Bush.txt NLTK  A   29   17 America , at its best , matches a commitment to principle with a concern for civility .
+SENTPOS 2001-Bush.txt NLTK  B   29  17 America_NNP ,_COMMA at_IN its_PRPDOLLAR best_JJS ,_COMMA matches_VBZ a_DT commitment_NN to_TO principle_VB with_IN a_DT concern_NN for_IN civility_NN ._PERIOD
+SENTPOS 2001-Bush.txt NLTK  A   30   18 A civil society demands from each of us good will and respect , fair dealing and forgiveness .
+SENTPOS 2001-Bush.txt NLTK  B   30  18 A_DT civil_JJ society_NN demands_NNS from_IN each_DT of_IN us_PRP good_JJ will_MD and_CC respect_VB ,_COMMA fair_JJ dealing_VBG and_CC forgiveness_NN ._PERIOD
+SENTPOS 2001-Bush.txt NLTK  A   31   28 Some seem to believe that our politics can afford to be petty because , in a time of peace , the stakes of our debates appear small .
+SENTPOS 2001-Bush.txt NLTK  B   31  28 Some_DT seem_VBP to_TO believe_VB that_IN our_PRPDOLLAR politics_NNS can_MD afford_VB to_TO be_VB petty_JJ because_IN ,_COMMA in_IN a_DT time_NN of_IN peace_NN ,_COMMA the_DT stakes_NNS of_IN our_PRPDOLLAR debates_NNS appear_VBP small_JJ ._PERIOD
+SENTPOS 2001-Bush.txt NLTK  A   32    9 But the stakes for America are never small .
+SENTPOS 2001-Bush.txt NLTK  B   32   9 But_CC the_DT stakes_NNS for_IN America_NNP are_VBP never_RB small_JJ ._PERIOD
+SENTPOS 2001-Bush.txt NLTK  A   33   17 If our country does not lead the cause of freedom , it will not be led .
+SENTPOS 2001-Bush.txt NLTK  B   33  17 If_IN our_PRPDOLLAR country_NN does_VBZ not_RB lead_VB the_DT cause_NN of_IN freedom_NN ,_COMMA it_PRP will_MD not_RB be_VB led_VBN ._PERIOD
+SENTPOS 2001-Bush.txt NLTK  A   34   24 If we do not turn the hearts of children toward knowledge and character , we will lose their gifts and undermine their idealism .
+SENTPOS 2001-Bush.txt NLTK  B   34  24 If_IN we_PRP do_VBP not_RB turn_VB the_DT hearts_NNS of_IN children_NNS toward_IN knowledge_NN and_CC character_NN ,_COMMA we_PRP will_MD lose_VB their_PRPDOLLAR gifts_NNS and_CC undermine_VB their_PRPDOLLAR idealism_NN ._PERIOD
+SENTPOS 2001-Bush.txt NLTK  A   35   16 If we permit our economy to drift and decline , the vulnerable will suffer most .
+SENTPOS 2001-Bush.txt NLTK  B   35  16 If_IN we_PRP permit_VBP our_PRPDOLLAR economy_NN to_TO drift_VB and_CC decline_VB ,_COMMA the_DT vulnerable_NN will_MD suffer_VB most_RBS ._PERIOD
+SENTPOS 2001-Bush.txt NLTK  A   36   10 We must live up to the calling we share .
+SENTPOS 2001-Bush.txt NLTK  B   36  10 We_PRP must_MD live_VB up_RP to_TO the_DT calling_VBG we_PRP share_NN ._PERIOD
+SENTPOS 2001-Bush.txt NLTK  A   37    9 Civility is not a tactic or a sentiment .
+SENTPOS 2001-Bush.txt NLTK  B   37   9 Civility_NN is_VBZ not_RB a_DT tactic_JJ or_CC a_DT sentiment_NN ._PERIOD
+SENTPOS 2001-Bush.txt NLTK  A   38   15 It is the determined choice of trust over cynicism , of community over chaos .
+SENTPOS 2001-Bush.txt NLTK  B   38  15 It_PRP is_VBZ the_DT determined_JJ choice_NN of_IN trust_NN over_IN cynicism_NN ,_COMMA of_IN community_NN over_IN chaos_NN ._PERIOD
+SENTPOS 2001-Bush.txt NLTK  A   39   16 And this commitment , if we keep it , is a way to shared accomplishment .
+SENTPOS 2001-Bush.txt NLTK  B   39  16 And_CC this_DT commitment_NN ,_COMMA if_IN we_PRP keep_VBP it_PRP ,_COMMA is_VBZ a_DT way_NN to_TO shared_VBN accomplishment_NN ._PERIOD
+SENTPOS 2001-Bush.txt NLTK  A   40   10 America , at its best , is also courageous .
+SENTPOS 2001-Bush.txt NLTK  B   40  10 America_NNP ,_COMMA at_IN its_PRPDOLLAR best_JJS ,_COMMA is_VBZ also_RB courageous_JJ ._PERIOD
+SENTPOS 2001-Bush.txt NLTK  A   41   22 Our national courage has been clear in times of depression and war , when defending common dangers defined our common good .
+SENTPOS 2001-Bush.txt NLTK  B   41  22 Our_PRPDOLLAR national_JJ courage_NN has_VBZ been_VBN clear_JJ in_IN times_NNS of_IN depression_NN and_CC war_NN ,_COMMA when_WRB defending_VBG common_JJ dangers_NNS defined_VBD our_PRPDOLLAR common_JJ good_JJ ._PERIOD
+SENTPOS 2001-Bush.txt NLTK  A   42   19 Now we must choose if the example of our fathers and mothers will inspire us or condemn us .
+SENTPOS 2001-Bush.txt NLTK  B   42  19 Now_RB we_PRP must_MD choose_VB if_IN the_DT example_NN of_IN our_PRPDOLLAR fathers_NNS and_CC mothers_NNS will_MD inspire_VB us_PRP or_CC condemn_VB us_PRP ._PERIOD
+SENTPOS 2001-Bush.txt NLTK  A   43   21 We must show courage in a time of blessing by confronting problems instead of passing them on to future generations .
+SENTPOS 2001-Bush.txt NLTK  B   43  21 We_PRP must_MD show_VB courage_NN in_IN a_DT time_NN of_IN blessing_NN by_IN confronting_VBG problems_NNS instead_RB of_IN passing_VBG them_PRP on_IN to_TO future_JJ generations_NNS ._PERIOD
+SENTPOS 2001-Bush.txt NLTK  A   44   19 Together , we will reclaim America ' s schools , before ignorance and apathy claim more young lives .
+SENTPOS 2001-Bush.txt NLTK  B   44  19 Together_RB ,_COMMA we_PRP will_MD reclaim_VB America_NNP '_POS s_NN schools_NNS ,_COMMA before_IN ignorance_NN and_CC apathy_JJ claim_NN more_RBR young_JJ lives_NNS ._PERIOD
+SENTPOS 2001-Bush.txt NLTK  A   45   20 We will reform Social Security and Medicare , sparing our children from struggles we have the power to prevent .
+SENTPOS 2001-Bush.txt NLTK  B   45  20 We_PRP will_MD reform_VB Social_NNP Security_NNP and_CC Medicare_NNP ,_COMMA sparing_VBG our_PRPDOLLAR children_NNS from_IN struggles_NNS we_PRP have_VBP the_DT power_NN to_TO prevent_VB ._PERIOD
+SENTPOS 2001-Bush.txt NLTK  A   46   23 And we will reduce taxes , to recover the momentum of our economy and reward the effort and enterprise of working Americans .
+SENTPOS 2001-Bush.txt NLTK  B   46  23 And_CC we_PRP will_MD reduce_VB taxes_NNS ,_COMMA to_TO recover_VB the_DT momentum_NN of_IN our_PRPDOLLAR economy_NN and_CC reward_VB the_DT effort_NN and_CC enterprise_NN of_IN working_VBG Americans_NNPS ._PERIOD
+SENTPOS 2001-Bush.txt NLTK  A   47   13 We will build our defenses beyond challenge , lest weakness invite challenge .
+SENTPOS 2001-Bush.txt NLTK  B   47  13 We_PRP will_MD build_VB our_PRPDOLLAR defenses_NNS beyond_IN challenge_NN ,_COMMA lest_JJS weakness_NN invite_NN challenge_NN ._PERIOD
+SENTPOS 2001-Bush.txt NLTK  A   48   18 We will confront weapons of mass destruction , so that a new century is spared new horrors .
+SENTPOS 2001-Bush.txt NLTK  B   48  18 We_PRP will_MD confront_VB weapons_NNS of_IN mass_NN destruction_NN ,_COMMA so_IN that_IN a_DT new_JJ century_NN is_VBZ spared_VBN new_JJ horrors_NNS ._PERIOD
+SENTPOS 2001-Bush.txt NLTK  A   49   33 The enemies of liberty and our country should make no mistake : America remains engaged in the world by history and by choice , shaping a balance of power that favors freedom .
+SENTPOS 2001-Bush.txt NLTK  B   49  33 The_DT enemies_NNS of_IN liberty_NN and_CC our_PRPDOLLAR country_NN should_MD make_VB no_DT mistake_NN :_COLON America_NNP remains_VBZ engaged_VBN in_IN the_DT world_NN by_IN history_NN and_CC by_IN choice_NN ,_COMMA shaping_VBG a_DT balance_NN of_IN power_NN that_IN favors_NNS freedom_RB ._PERIOD
+SENTPOS 2001-Bush.txt NLTK  A   50    9 We will defend our allies and our interests .
+SENTPOS 2001-Bush.txt NLTK  B   50   9 We_PRP will_MD defend_VB our_PRPDOLLAR allies_NNS and_CC our_PRPDOLLAR interests_NNS ._PERIOD
+SENTPOS 2001-Bush.txt NLTK  A   51    7 We will show purpose without arrogance .
+SENTPOS 2001-Bush.txt NLTK  B   51   7 We_PRP will_MD show_VB purpose_VB without_IN arrogance_NN ._PERIOD
+SENTPOS 2001-Bush.txt NLTK  A   52   12 We will meet aggression and bad faith with resolve and strength .
+SENTPOS 2001-Bush.txt NLTK  B   52  12 We_PRP will_MD meet_VB aggression_NN and_CC bad_JJ faith_NN with_IN resolve_NN and_CC strength_NN ._PERIOD
+SENTPOS 2001-Bush.txt NLTK  A   53   17 And to all nations , we will speak for the values that gave our nation birth .
+SENTPOS 2001-Bush.txt NLTK  B   53  17 And_CC to_TO all_DT nations_NNS ,_COMMA we_PRP will_MD speak_VB for_IN the_DT values_NNS that_WDT gave_VBD our_PRPDOLLAR nation_NN birth_NN ._PERIOD
+SENTPOS 2001-Bush.txt NLTK  A   54    9 America , at its best , is compassionate .
+SENTPOS 2001-Bush.txt NLTK  B   54   9 America_NNP ,_COMMA at_IN its_PRPDOLLAR best_JJS ,_COMMA is_VBZ compassionate_NN ._PERIOD
+SENTPOS 2001-Bush.txt NLTK  A   55   23 In the quiet of American conscience , we know that deep , persistent poverty is unworthy of our nation ' s promise .
+SENTPOS 2001-Bush.txt NLTK  B   55  23 In_IN the_DT quiet_NN of_IN American_JJ conscience_NN ,_COMMA we_PRP know_VBP that_DT deep_JJ ,_COMMA persistent_JJ poverty_NN is_VBZ unworthy_JJ of_IN our_PRPDOLLAR nation_NN '_POS s_JJ promise_NN ._PERIOD
+SENTPOS 2001-Bush.txt NLTK  A   56   20 And whatever our views of its cause , we can agree that children at risk are not at fault .
+SENTPOS 2001-Bush.txt NLTK  B   56  20 And_CC whatever_WDT our_PRPDOLLAR views_NNS of_IN its_PRPDOLLAR cause_NN ,_COMMA we_PRP can_MD agree_VB that_IN children_NNS at_IN risk_NN are_VBP not_RB at_IN fault_NN ._PERIOD
+SENTPOS 2001-Bush.txt NLTK  A   57   15 Abandonment and abuse are not acts of God , they are failures of love .
+SENTPOS 2001-Bush.txt NLTK  B   57  15 Abandonment_NN and_CC abuse_NN are_VBP not_RB acts_NNS of_IN God_NNP ,_COMMA they_PRP are_VBP failures_NNS of_IN love_NN ._PERIOD
+SENTPOS 2001-Bush.txt NLTK  A   58   20 And the proliferation of prisons , however necessary , is no substitute for hope and order in our souls .
+SENTPOS 2001-Bush.txt NLTK  B   58  20 And_CC the_DT proliferation_NN of_IN prisons_NNS ,_COMMA however_RB necessary_JJ ,_COMMA is_VBZ no_DT substitute_NN for_IN hope_NN and_CC order_NN in_IN our_PRPDOLLAR souls_NNS ._PERIOD
+SENTPOS 2001-Bush.txt NLTK  A   59    9 Where there is suffering , there is duty .
+SENTPOS 2001-Bush.txt NLTK  B   59   9 Where_WRB there_EX is_VBZ suffering_VBG ,_COMMA there_EX is_VBZ duty_NN ._PERIOD
+SENTPOS 2001-Bush.txt NLTK  A   60   17 Americans in need are not strangers , they are citizens , not problems , but priorities .
+SENTPOS 2001-Bush.txt NLTK  B   60  17 Americans_NNPS in_IN need_NN are_VBP not_RB strangers_NNS ,_COMMA they_PRP are_VBP citizens_NNS ,_COMMA not_RB problems_NNS ,_COMMA but_CC priorities_NNS ._PERIOD
+SENTPOS 2001-Bush.txt NLTK  A   61   11 And all of us are diminished when any are hopeless .
+SENTPOS 2001-Bush.txt NLTK  B   61  11 And_CC all_DT of_IN us_PRP are_VBP diminished_VBN when_WRB any_DT are_VBP hopeless_JJ ._PERIOD
+SENTPOS 2001-Bush.txt NLTK  A   62   18 Government has great responsibilities for public safety and public health , for civil rights and common schools .
+SENTPOS 2001-Bush.txt NLTK  B   62  18 Government_NN has_VBZ great_JJ responsibilities_NNS for_IN public_JJ safety_NN and_CC public_JJ health_NN ,_COMMA for_IN civil_JJ rights_NNS and_CC common_JJ schools_NNS ._PERIOD
+SENTPOS 2001-Bush.txt NLTK  A   63   14 Yet compassion is the work of a nation , not just a government .
+SENTPOS 2001-Bush.txt NLTK  B   63  14 Yet_CC compassion_NN is_VBZ the_DT work_NN of_IN a_DT nation_NN ,_COMMA not_RB just_RB a_DT government_NN ._PERIOD
+SENTPOS 2001-Bush.txt NLTK  A   64   25 And some needs and hurts are so deep they will only respond to a mentor ' s touch or a pastor ' s prayer .
+SENTPOS 2001-Bush.txt NLTK  B   64  25 And_CC some_DT needs_NNS and_CC hurts_NNS are_VBP so_RB deep_JJ they_PRP will_MD only_RB respond_VB to_TO a_DT mentor_NN '_POS s_JJ touch_NN or_CC a_DT pastor_NN '_POS s_NN prayer_NN ._PERIOD
+SENTPOS 2001-Bush.txt NLTK  A   65   28 Church and charity , synagogue and mosque lend our communities their humanity , and they will have an honored place in our plans and in our laws .
+SENTPOS 2001-Bush.txt NLTK  B   65  28 Church_NN and_CC charity_NN ,_COMMA synagogue_NN and_CC mosque_NN lend_VBP our_PRPDOLLAR communities_NNS their_PRPDOLLAR humanity_NN ,_COMMA and_CC they_PRP will_MD have_VB an_DT honored_JJ place_NN in_IN our_PRPDOLLAR plans_NNS and_CC in_IN our_PRPDOLLAR laws_NNS ._PERIOD
+SENTPOS 2001-Bush.txt NLTK  A   66   21 Many in our country do not know the pain of poverty , but we can listen to those who do .
+SENTPOS 2001-Bush.txt NLTK  B   66  21 Many_JJ in_IN our_PRPDOLLAR country_NN do_VB not_RB know_VB the_DT pain_NN of_IN poverty_NN ,_COMMA but_CC we_PRP can_MD listen_VB to_TO those_DT who_WP do_VBP ._PERIOD
+SENTPOS 2001-Bush.txt NLTK  A   67   31 And I can pledge our nation to a goal : When we see that wounded traveler on the road to Jericho , we will not pass to the other side .
+SENTPOS 2001-Bush.txt NLTK  B   67  31 And_CC I_PRP can_MD pledge_VB our_PRPDOLLAR nation_NN to_TO a_DT goal_NN :_COLON When_WRB we_PRP see_VBP that_DT wounded_VBD traveler_NN on_IN the_DT road_NN to_TO Jericho_NNP ,_COMMA we_PRP will_MD not_RB pass_VB to_TO the_DT other_JJ side_NN ._PERIOD
+SENTPOS 2001-Bush.txt NLTK  A   68   17 America , at its best , is a place where personal responsibility is valued and expected .
+SENTPOS 2001-Bush.txt NLTK  B   68  17 America_NNP ,_COMMA at_IN its_PRPDOLLAR best_JJS ,_COMMA is_VBZ a_DT place_NN where_WRB personal_JJ responsibility_NN is_VBZ valued_VBN and_CC expected_VBN ._PERIOD
+SENTPOS 2001-Bush.txt NLTK  A   69   16 Encouraging responsibility is not a search for scapegoats , it is a call to conscience .
+SENTPOS 2001-Bush.txt NLTK  B   69  16 Encouraging_JJ responsibility_NN is_VBZ not_RB a_DT search_NN for_IN scapegoats_NNS ,_COMMA it_PRP is_VBZ a_DT call_NN to_TO conscience_NN ._PERIOD
+SENTPOS 2001-Bush.txt NLTK  A   70   12 And though it requires sacrifice , it brings a deeper fulfillment .
+SENTPOS 2001-Bush.txt NLTK  B   70  12 And_CC though_IN it_PRP requires_VBZ sacrifice_RB ,_COMMA it_PRP brings_VBZ a_DT deeper_JJ fulfillment_NN ._PERIOD
+SENTPOS 2001-Bush.txt NLTK  A   71   15 We find the fullness of life not only in options , but in commitments .
+SENTPOS 2001-Bush.txt NLTK  B   71  15 We_PRP find_VBP the_DT fullness_NN of_IN life_NN not_RB only_RB in_IN options_NNS ,_COMMA but_CC in_IN commitments_NNS ._PERIOD
+SENTPOS 2001-Bush.txt NLTK  A   72   15 And we find that children and community are the commitments that set us free .
+SENTPOS 2001-Bush.txt NLTK  B   72  15 And_CC we_PRP find_VBP that_IN children_NNS and_CC community_NN are_VBP the_DT commitments_NNS that_WDT set_VBP us_PRP free_JJ ._PERIOD
+SENTPOS 2001-Bush.txt NLTK  A   73   32 Our public interest depends on private character , on civic duty and family bonds and basic fairness , on uncounted , unhonored acts of decency which give direction to our freedom .
+SENTPOS 2001-Bush.txt NLTK  B   73  32 Our_PRPDOLLAR public_JJ interest_NN depends_VBZ on_IN private_JJ character_NN ,_COMMA on_IN civic_JJ duty_NN and_CC family_NN bonds_NNS and_CC basic_JJ fairness_NN ,_COMMA on_IN uncounted_JJ ,_COMMA unhonored_JJ acts_NNS of_IN decency_NN which_WDT give_VBP direction_NN to_TO our_PRPDOLLAR freedom_NN ._PERIOD
+SENTPOS 2001-Bush.txt NLTK  A   74   11 Sometimes in life we are called to do great things .
+SENTPOS 2001-Bush.txt NLTK  B   74  11 Sometimes_RB in_IN life_NN we_PRP are_VBP called_VBN to_TO do_VB great_JJ things_NNS ._PERIOD
+SENTPOS 2001-Bush.txt NLTK  A   75   23 But as a saint of our times has said , every day we are called to do small things with great love .
+SENTPOS 2001-Bush.txt NLTK  B   75  23 But_CC as_IN a_DT saint_NN of_IN our_PRPDOLLAR times_NNS has_VBZ said_VBD ,_COMMA every_DT day_NN we_PRP are_VBP called_VBN to_TO do_VB small_JJ things_NNS with_IN great_JJ love_NN ._PERIOD
+SENTPOS 2001-Bush.txt NLTK  A   76   12 The most important tasks of a democracy are done by everyone .
+SENTPOS 2001-Bush.txt NLTK  B   76  12 The_DT most_RBS important_JJ tasks_NNS of_IN a_DT democracy_NN are_VBP done_VBN by_IN everyone_NN ._PERIOD
+SENTPOS 2001-Bush.txt NLTK  A   77   44 I will live and lead by these principles : to advance my convictions with civility , to pursue the public interest with courage , to speak for greater justice and compassion , to call for responsibility and try to live it as well .
+SENTPOS 2001-Bush.txt NLTK  B   77  44 I_PRP will_MD live_VB and_CC lead_VB by_IN these_DT principles_NNS :_COLON to_TO advance_VB my_PRPDOLLAR convictions_NNS with_IN civility_NN ,_COMMA to_TO pursue_VB the_DT public_JJ interest_NN with_IN courage_NN ,_COMMA to_TO speak_VB for_IN greater_JJR justice_NN and_CC compassion_NN ,_COMMA to_TO call_VB for_IN responsibility_NN and_CC try_VB to_TO live_VB it_PRP as_RB well_RB ._PERIOD
+SENTPOS 2001-Bush.txt NLTK  A   78   20 In all these ways , I will bring the values of our history to the care of our times .
+SENTPOS 2001-Bush.txt NLTK  B   78  20 In_IN all_PDT these_DT ways_NNS ,_COMMA I_PRP will_MD bring_VB the_DT values_NNS of_IN our_PRPDOLLAR history_NN to_TO the_DT care_NN of_IN our_PRPDOLLAR times_NNS ._PERIOD
+SENTPOS 2001-Bush.txt NLTK  A   79   11 What you do is as important as anything government does .
+SENTPOS 2001-Bush.txt NLTK  B   79  11 What_WP you_PRP do_VBP is_VBZ as_RB important_JJ as_IN anything_NN government_NN does_VBZ ._PERIOD
+SENTPOS 2001-Bush.txt NLTK  A   80   30 I ask you to seek a common good beyond your comfort ; to defend needed reforms against easy attacks ; to serve your nation , beginning with your neighbor .
+SENTPOS 2001-Bush.txt NLTK  B   80  30 I_PRP ask_VBP you_PRP to_TO seek_VB a_DT common_JJ good_JJ beyond_IN your_PRPDOLLAR comfort_NN ;_SEMICOLON to_TO defend_VB needed_JJ reforms_NNS against_IN easy_JJ attacks_NNS ;_SEMICOLON to_TO serve_VB your_PRPDOLLAR nation_NN ,_COMMA beginning_VBG with_IN your_PRPDOLLAR neighbor_NN ._PERIOD
+SENTPOS 2001-Bush.txt NLTK  A   81   30 I ask you to be citizens : citizens , not spectators ; citizens , not subjects ; responsible citizens , building communities of service and a nation of character .
+SENTPOS 2001-Bush.txt NLTK  B   81  30 I_PRP ask_VBP you_PRP to_TO be_VB citizens_NNS :_COLON citizens_NNS ,_COMMA not_RB spectators_NNS ;_SEMICOLON citizens_NNS ,_COMMA not_RB subjects_VBZ ;_SEMICOLON responsible_JJ citizens_NNS ,_COMMA building_VBG communities_NNS of_IN service_NN and_CC a_DT nation_NN of_IN character_NN ._PERIOD
+SENTPOS 2001-Bush.txt NLTK  A   82   23 Americans are generous and strong and decent , not because we believe in ourselves , but because we hold beliefs beyond ourselves .
+SENTPOS 2001-Bush.txt NLTK  B   82  23 Americans_NNPS are_VBP generous_JJ and_CC strong_JJ and_CC decent_JJ ,_COMMA not_RB because_IN we_PRP believe_VBP in_IN ourselves_PRP ,_COMMA but_CC because_IN we_PRP hold_VBP beliefs_JJ beyond_IN ourselves_NNS ._PERIOD
+SENTPOS 2001-Bush.txt NLTK  A   83   15 When this spirit of citizenship is missing , no government program can replace it .
+SENTPOS 2001-Bush.txt NLTK  B   83  15 When_WRB this_DT spirit_NN of_IN citizenship_NN is_VBZ missing_VBG ,_COMMA no_DT government_NN program_NN can_MD replace_VB it_PRP ._PERIOD
+SENTPOS 2001-Bush.txt NLTK  A   84   13 When this spirit is present , no wrong can stand against it .
+SENTPOS 2001-Bush.txt NLTK  B   84  13 When_WRB this_DT spirit_NN is_VBZ present_JJ ,_COMMA no_DT wrong_JJ can_MD stand_VB against_IN it_PRP ._PERIOD
+SENTPOS 2001-Bush.txt NLTK  A   85   34 After the Declaration of Independence was signed , Virginia statesman John Page wrote to Thomas Jefferson : " We know the race is not to the swift nor the battle to the strong .
+SENTPOS 2001-Bush.txt NLTK  B   85  34 After_IN the_DT Declaration_NNP of_IN Independence_NNP was_VBD signed_VBN ,_COMMA Virginia_NNP statesman_NNP John_NNP Page_NNP wrote_VBD to_TO Thomas_NNP Jefferson_NNP :_COLON "_QUOTE We_PRP know_VBP the_DT race_NN is_VBZ not_RB to_TO the_DT swift_NN nor_CC the_DT battle_NN to_TO the_DT strong_JJ ._PERIOD
+SENTPOS 2001-Bush.txt NLTK  A   86   15 Do you not think an angel rides in the whirlwind and directs this storm ?"
+SENTPOS 2001-Bush.txt NLTK  B   86  15 Do_VB you_PRP not_RB think_VB an_DT angel_NN rides_NNS in_IN the_DT whirlwind_NN and_CC directs_VBZ this_DT storm_NN ?"_NN
+SENTPOS 2001-Bush.txt NLTK  A   87   11 Much time has passed since Jefferson arrived for his inauguration .
+SENTPOS 2001-Bush.txt NLTK  B   87  11 Much_JJ time_NN has_VBZ passed_VBN since_IN Jefferson_NNP arrived_VBD for_IN his_PRPDOLLAR inauguration_NN ._PERIOD
+SENTPOS 2001-Bush.txt NLTK  A   88    6 The years and changes accumulate .
+SENTPOS 2001-Bush.txt NLTK  B   88   6 The_DT years_NNS and_CC changes_NNS accumulate_VBP ._PERIOD
+SENTPOS 2001-Bush.txt NLTK  A   89   25 But the themes of this day he would know : our nation ' s grand story of courage and its simple dream of dignity .
+SENTPOS 2001-Bush.txt NLTK  B   89  25 But_CC the_DT themes_NNS of_IN this_DT day_NN he_PRP would_MD know_VB :_COLON our_PRPDOLLAR nation_NN '_POS s_JJ grand_JJ story_NN of_IN courage_NN and_CC its_PRPDOLLAR simple_JJ dream_NN of_IN dignity_NN ._PERIOD
+SENTPOS 2001-Bush.txt NLTK  A   90   18 We are not this story ' s author , who fills time and eternity with his purpose .
+SENTPOS 2001-Bush.txt NLTK  B   90  18 We_PRP are_VBP not_RB this_DT story_NN '_QUOTE s_JJ author_NN ,_COMMA who_WP fills_VBZ time_NN and_CC eternity_NN with_IN his_PRPDOLLAR purpose_NN ._PERIOD
+SENTPOS 2001-Bush.txt NLTK  A   91   20 Yet his purpose is achieved in our duty , and our duty is fulfilled in service to one another .
+SENTPOS 2001-Bush.txt NLTK  B   91  20 Yet_RB his_PRPDOLLAR purpose_NN is_VBZ achieved_VBN in_IN our_PRPDOLLAR duty_NN ,_COMMA and_CC our_PRPDOLLAR duty_NN is_VBZ fulfilled_VBN in_IN service_NN to_TO one_CD another_DT ._PERIOD
+SENTPOS 2001-Bush.txt NLTK  A   92   35 Never tiring , never yielding , never finishing , we renew that purpose today , to make our country more just and generous , to affirm the dignity of our lives and every life .
+SENTPOS 2001-Bush.txt NLTK  B   92  35 Never_RB tiring_NN ,_COMMA never_RB yielding_NN ,_COMMA never_RB finishing_VBG ,_COMMA we_PRP renew_VBP that_IN purpose_NN today_NN ,_COMMA to_TO make_VB our_PRPDOLLAR country_NN more_RBR just_RB and_CC generous_JJ ,_COMMA to_TO affirm_VB the_DT dignity_NN of_IN our_PRPDOLLAR lives_NNS and_CC every_DT life_NN ._PERIOD
+SENTPOS 2001-Bush.txt NLTK  A   93    4 This work continues .
+SENTPOS 2001-Bush.txt NLTK  B   93   4 This_DT work_NN continues_VBZ ._PERIOD
+SENTPOS 2001-Bush.txt NLTK  A   94    5 This story goes on .
+SENTPOS 2001-Bush.txt NLTK  B   94   5 This_DT story_NN goes_VBZ on_IN ._PERIOD
+SENTPOS 2001-Bush.txt NLTK  A   95   13 And an angel still rides in the whirlwind and directs this storm .
+SENTPOS 2001-Bush.txt NLTK  B   95  13 And_CC an_DT angel_NN still_RB rides_VBZ in_IN the_DT whirlwind_NN and_CC directs_VBZ this_DT storm_NN ._PERIOD
+SENTPOS 2001-Bush.txt NLTK  A   96   10 God bless you all , and God bless America .
+SENTPOS 2001-Bush.txt NLTK  B   96  10 God_NNP bless_NN you_PRP all_DT ,_COMMA and_CC God_NNP bless_NN America_NNP ._PERIOD

@@ -1,0 +1,334 @@
+SENTPOS 2021-Biden.txt NLTK  A    0   38 Chief Justice Roberts , Vice President Harris , Speaker Pelosi , Leader Schumer , Leader McConnell , Vice President Pence , and my distinguished guests , and my fellow Americans : This is America ' s day .
+SENTPOS 2021-Biden.txt NLTK  B    0  38 Chief_JJ Justice_NNP Roberts_NNP ,_COMMA Vice_NNP President_NNP Harris_NNP ,_COMMA Speaker_NNP Pelosi_NNP ,_COMMA Leader_NNP Schumer_NNP ,_COMMA Leader_NNP McConnell_NNP ,_COMMA Vice_NNP President_NNP Pence_NNP ,_COMMA and_CC my_PRPDOLLAR distinguished_JJ guests_NNS ,_COMMA and_CC my_PRPDOLLAR fellow_JJ Americans_NNPS :_COLON This_DT is_VBZ America_NNP '_POS s_JJ day_NN ._PERIOD
+SENTPOS 2021-Biden.txt NLTK  A    1   19 This is democracy ' s day , a day of history and hope , of renewal and resolve .
+SENTPOS 2021-Biden.txt NLTK  B    1  19 This_DT is_VBZ democracy_NN '_QUOTE s_JJ day_NN ,_COMMA a_DT day_NN of_IN history_NN and_CC hope_NN ,_COMMA of_IN renewal_NN and_CC resolve_NN ._PERIOD
+SENTPOS 2021-Biden.txt NLTK  A    2   20 Through a crucible for the ages America has been tested anew , and America has risen to the challenge .
+SENTPOS 2021-Biden.txt NLTK  B    2  20 Through_IN a_DT crucible_JJ for_IN the_DT ages_NNS America_NNP has_VBZ been_VBN tested_VBN anew_RB ,_COMMA and_CC America_NNP has_VBZ risen_VBN to_TO the_DT challenge_NN ._PERIOD
+SENTPOS 2021-Biden.txt NLTK  A    3   20 Today we celebrate the triumph not of a candidate , but of a cause , the cause of democracy .
+SENTPOS 2021-Biden.txt NLTK  B    3  20 Today_NN we_PRP celebrate_VBP the_DT triumph_NN not_RB of_IN a_DT candidate_NN ,_COMMA but_CC of_IN a_DT cause_NN ,_COMMA the_DT cause_NN of_IN democracy_NN ._PERIOD
+SENTPOS 2021-Biden.txt NLTK  A    4   22 The people — the will of the people has been heard , and the will of the people has been heeded .
+SENTPOS 2021-Biden.txt NLTK  B    4  22 The_DT people_NNS —_VBP the_DT will_MD of_IN the_DT people_NNS has_VBZ been_VBN heard_VBN ,_COMMA and_CC the_DT will_MD of_IN the_DT people_NNS has_VBZ been_VBN heeded_VBN ._PERIOD
+SENTPOS 2021-Biden.txt NLTK  A    5   14 We ' ve learned again that democracy is precious , democracy is fragile .
+SENTPOS 2021-Biden.txt NLTK  B    5  14 We_PRP '_QUOTE ve_NNS learned_VBD again_RB that_IN democracy_NN is_VBZ precious_JJ ,_COMMA democracy_NN is_VBZ fragile_JJ ._PERIOD
+SENTPOS 2021-Biden.txt NLTK  A    6   12 And at this hour , my friends , democracy has prevailed .
+SENTPOS 2021-Biden.txt NLTK  B    6  12 And_CC at_IN this_DT hour_NN ,_COMMA my_PRPDOLLAR friends_NNS ,_COMMA democracy_NN has_VBZ prevailed_VBN ._PERIOD
+SENTPOS 2021-Biden.txt NLTK  A    7   52 So now , on this hallowed ground where just a few days ago violence sought to shake the Capitol ' s very foundation , we come together as one Nation under God , indivisible , to carry out the peaceful transfer of power as we have for more than two centuries .
+SENTPOS 2021-Biden.txt NLTK  B    7  52 So_RB now_RB ,_COMMA on_IN this_DT hallowed_VBN ground_NN where_WRB just_RB a_DT few_JJ days_NNS ago_RB violence_NN sought_VBD to_TO shake_VB the_DT Capitol_NNP '_POS s_JJ very_RB foundation_NN ,_COMMA we_PRP come_VBP together_RB as_IN one_CD Nation_NN under_IN God_NNP ,_COMMA indivisible_JJ ,_COMMA to_TO carry_VB out_RP the_DT peaceful_JJ transfer_NN of_IN power_NN as_IN we_PRP have_VBP for_IN more_JJR than_IN two_CD centuries_NNS ._PERIOD
+SENTPOS 2021-Biden.txt NLTK  A    8   46 As we look ahead in our uniquely American way — restless , bold , optimistic — and set our sights on the Nation we know we can be and we must be , I thank my predecessors of both parties for their presence here today .
+SENTPOS 2021-Biden.txt NLTK  B    8  46 As_IN we_PRP look_VBP ahead_RB in_IN our_PRPDOLLAR uniquely_JJ American_JJ way_NN —_NNP restless_NN ,_COMMA bold_RB ,_COMMA optimistic_JJ —_NN and_CC set_VB our_PRPDOLLAR sights_NNS on_IN the_DT Nation_NN we_PRP know_VBP we_PRP can_MD be_VB and_CC we_PRP must_MD be_VB ,_COMMA I_PRP thank_VBP my_PRPDOLLAR predecessors_NNS of_IN both_DT parties_NNS for_IN their_PRPDOLLAR presence_NN here_RB today_NN ._PERIOD
+SENTPOS 2021-Biden.txt NLTK  A    9   10 I thank them from the bottom of my heart .
+SENTPOS 2021-Biden.txt NLTK  B    9  10 I_PRP thank_VBP them_PRP from_IN the_DT bottom_NN of_IN my_PRPDOLLAR heart_NN ._PERIOD
+SENTPOS 2021-Biden.txt NLTK  A   10   47 And I know the resilience of our Constitution and the strength , the strength of our Nation , as does President Carter , who I spoke with last night , who cannot be with us today , but whom we salute for his lifetime of service .
+SENTPOS 2021-Biden.txt NLTK  B   10  47 And_CC I_PRP know_VBP the_DT resilience_NN of_IN our_PRPDOLLAR Constitution_NN and_CC the_DT strength_NN ,_COMMA the_DT strength_NN of_IN our_PRPDOLLAR Nation_NN ,_COMMA as_IN does_VBZ President_NNP Carter_NNP ,_COMMA who_WP I_PRP spoke_VBD with_IN last_JJ night_NN ,_COMMA who_WP cannot_VBD be_VB with_IN us_PRP today_NN ,_COMMA but_CC whom_WP we_PRP salute_VBP for_IN his_PRPDOLLAR lifetime_NN of_IN service_NN ._PERIOD
+SENTPOS 2021-Biden.txt NLTK  A   11   22 I have just taken the sacred oath each of these patriots have taken , the oath first sworn by George Washington .
+SENTPOS 2021-Biden.txt NLTK  B   11  22 I_PRP have_VBP just_RB taken_VBN the_DT sacred_JJ oath_IN each_DT of_IN these_DT patriots_NNS have_VBP taken_VBN ,_COMMA the_DT oath_NN first_RB sworn_VBN by_IN George_NNP Washington_NNP ._PERIOD
+SENTPOS 2021-Biden.txt NLTK  A   12   37 But the American story depends not on any one of us , not on some of us , but on all of us , on " We the People ," who seek a more perfect Union .
+SENTPOS 2021-Biden.txt NLTK  B   12  37 But_CC the_DT American_JJ story_NN depends_VBZ not_RB on_IN any_DT one_CD of_IN us_PRP ,_COMMA not_RB on_IN some_DT of_IN us_PRP ,_COMMA but_CC on_IN all_DT of_IN us_PRP ,_COMMA on_IN "_QUOTE We_PRP the_DT People_NNPS ,"_NNP who_WP seek_VBP a_DT more_RBR perfect_JJ Union_NNP ._PERIOD
+SENTPOS 2021-Biden.txt NLTK  A   13   11 This is a great Nation ; we are good people .
+SENTPOS 2021-Biden.txt NLTK  B   13  11 This_DT is_VBZ a_DT great_JJ Nation_NN ;_SEMICOLON we_PRP are_VBP good_JJ people_NNS ._PERIOD
+SENTPOS 2021-Biden.txt NLTK  A   14   22 Over the centuries , through storm and strife , in peace and in war , we ' ve come so far .
+SENTPOS 2021-Biden.txt NLTK  B   14  22 Over_IN the_DT centuries_NNS ,_COMMA through_IN storm_NN and_CC strife_NN ,_COMMA in_IN peace_NN and_CC in_IN war_NN ,_COMMA we_PRP '_QUOTE ve_JJ come_VBP so_RB far_RB ._PERIOD
+SENTPOS 2021-Biden.txt NLTK  A   15    8 But we still have far to go .
+SENTPOS 2021-Biden.txt NLTK  B   15   8 But_CC we_PRP still_RB have_VBP far_RB to_TO go_VB ._PERIOD
+SENTPOS 2021-Biden.txt NLTK  A   16   46 We ' ll press forward with speed and urgency , for we have much to do in this winter of peril and significant possibilities : much to repair , much to restore , much to heal , much to build , and much to gain .
+SENTPOS 2021-Biden.txt NLTK  B   16  46 We_PRP '_QUOTE ll_JJ press_NN forward_NN with_IN speed_NN and_CC urgency_NN ,_COMMA for_IN we_PRP have_VBP much_JJ to_TO do_VB in_IN this_DT winter_NN of_IN peril_NN and_CC significant_JJ possibilities_NNS :_COLON much_RB to_TO repair_VB ,_COMMA much_RB to_TO restore_VB ,_COMMA much_RB to_TO heal_VB ,_COMMA much_RB to_TO build_VB ,_COMMA and_CC much_RB to_TO gain_VB ._PERIOD
+SENTPOS 2021-Biden.txt NLTK  A   17   29 Few people in our Nation ' s history have been more challenged or found a time more challenging or difficult than the time we ' re in now .
+SENTPOS 2021-Biden.txt NLTK  B   17  29 Few_JJ people_NNS in_IN our_PRPDOLLAR Nation_NN '_POS s_JJ history_NN have_VBP been_VBN more_RBR challenged_JJ or_CC found_VBD a_DT time_NN more_RBR challenging_JJ or_CC difficult_JJ than_IN the_DT time_NN we_PRP '_QUOTE re_NNS in_IN now_RB ._PERIOD
+SENTPOS 2021-Biden.txt NLTK  A   18   32 A once - in - a - century virus that silently stalks the country has taken as many lives in one year as America lost in all of World War II .
+SENTPOS 2021-Biden.txt NLTK  B   18  32 A_DT once_RB -_HYPHEN in_IN -_HYPHEN a_DT -_HYPHEN century_NN virus_NN that_WDT silently_RB stalks_VBZ the_DT country_NN has_VBZ taken_VBN as_IN many_JJ lives_NNS in_IN one_CD year_NN as_IN America_NNP lost_VBD in_IN all_DT of_IN World_NNP War_NNP II_NNP ._PERIOD
+SENTPOS 2021-Biden.txt NLTK  A   19   14 Millions of jobs have been lost ; hundreds of thousands of businesses closed .
+SENTPOS 2021-Biden.txt NLTK  B   19  14 Millions_NNS of_IN jobs_NNS have_VBP been_VBN lost_VBN ;_SEMICOLON hundreds_NNS of_IN thousands_NNS of_IN businesses_NNS closed_VBD ._PERIOD
+SENTPOS 2021-Biden.txt NLTK  A   20   14 A cry for racial justice some 400 years in the making moves us .
+SENTPOS 2021-Biden.txt NLTK  B   20  14 A_DT cry_NN for_IN racial_JJ justice_NN some_DT 400_CD years_NNS in_IN the_DT making_NN moves_VBZ us_PRP ._PERIOD
+SENTPOS 2021-Biden.txt NLTK  A   21   12 The dream of justice for all will be deferred no longer .
+SENTPOS 2021-Biden.txt NLTK  B   21  12 The_DT dream_NN of_IN justice_NN for_IN all_DT will_MD be_VB deferred_VBN no_DT longer_RBR ._PERIOD
+SENTPOS 2021-Biden.txt NLTK  A   22   25 A cry for survival comes from the planet itself , a cry that can ' t be any more desperate or any more clear .
+SENTPOS 2021-Biden.txt NLTK  B   22  25 A_DT cry_NN for_IN survival_NN comes_VBZ from_IN the_DT planet_NN itself_PRP ,_COMMA a_DT cry_NN that_WDT can_MD '_QUOTE t_RB be_VB any_DT more_JJR desperate_JJ or_CC any_DT more_JJR clear_JJ ._PERIOD
+SENTPOS 2021-Biden.txt NLTK  A   23   23 And now , a rise of political extremism , White supremacy , domestic terrorism that we must confront and we will defeat .
+SENTPOS 2021-Biden.txt NLTK  B   23  23 And_CC now_RB ,_COMMA a_DT rise_NN of_IN political_JJ extremism_NN ,_COMMA White_NNP supremacy_NN ,_COMMA domestic_JJ terrorism_NN that_IN we_PRP must_MD confront_VB and_CC we_PRP will_MD defeat_VB ._PERIOD
+SENTPOS 2021-Biden.txt NLTK  A   24   23 To overcome these challenges — to restore the soul and secure the future of America — requires so much more than words .
+SENTPOS 2021-Biden.txt NLTK  B   24  23 To_TO overcome_VB these_DT challenges_NNS —_VBP to_TO restore_VB the_DT soul_NN and_CC secure_VB the_DT future_NN of_IN America_NNP —_NNP requires_VBZ so_RB much_RB more_JJR than_IN words_NNS ._PERIOD
+SENTPOS 2021-Biden.txt NLTK  A   25   14 It requires the most elusive of all things in a democracy : unity .
+SENTPOS 2021-Biden.txt NLTK  B   25  14 It_PRP requires_VBZ the_DT most_RBS elusive_JJ of_IN all_DT things_NNS in_IN a_DT democracy_NN :_COLON unity_NN ._PERIOD
+SENTPOS 2021-Biden.txt NLTK  A   26    2 Unity .
+SENTPOS 2021-Biden.txt NLTK  B   26   2 Unity_NN ._PERIOD
+SENTPOS 2021-Biden.txt NLTK  A   27   19 In another January on New Year ' s Day in 1863 , Abraham Lincoln signed the Emancipation Proclamation .
+SENTPOS 2021-Biden.txt NLTK  B   27  19 In_IN another_DT January_NNP on_IN New_NNP Year_NNP '_POS s_JJ Day_NNP in_IN 1863_CD ,_COMMA Abraham_NNP Lincoln_NNP signed_VBD the_DT Emancipation_NNP Proclamation_NNP ._PERIOD
+SENTPOS 2021-Biden.txt NLTK  A   28   39 When he put pen to paper , the President said , and I quote , " If my name ever goes down into history it will be for this act , and my whole soul is in it ."
+SENTPOS 2021-Biden.txt NLTK  B   28  39 When_WRB he_PRP put_VBD pen_JJ to_TO paper_NN ,_COMMA the_DT President_NNP said_VBD ,_COMMA and_CC I_PRP quote_VBP ,_COMMA "_QUOTE If_IN my_PRPDOLLAR name_NN ever_RB goes_VBZ down_RB into_IN history_NN it_PRP will_MD be_VB for_IN this_DT act_NN ,_COMMA and_CC my_PRPDOLLAR whole_JJ soul_NN is_VBZ in_IN it_PRP ."_VBD
+SENTPOS 2021-Biden.txt NLTK  A   29    7 My whole soul is in it .
+SENTPOS 2021-Biden.txt NLTK  B   29   7 My_PRPDOLLAR whole_JJ soul_NN is_VBZ in_IN it_PRP ._PERIOD
+SENTPOS 2021-Biden.txt NLTK  A   30   26 Today , on this January day , my whole soul is in this : bringing America together , uniting our people , uniting our Nation .
+SENTPOS 2021-Biden.txt NLTK  B   30  26 Today_NN ,_COMMA on_IN this_DT January_NNP day_NN ,_COMMA my_PRPDOLLAR whole_JJ soul_NN is_VBZ in_IN this_DT :_COLON bringing_NN America_NNP together_RB ,_COMMA uniting_VBG our_PRPDOLLAR people_NNS ,_COMMA uniting_VBG our_PRPDOLLAR Nation_NN ._PERIOD
+SENTPOS 2021-Biden.txt NLTK  A   31   40 And I ask every American to join me in this cause : uniting to fight the foes we face : anger , resentment , and hatred ; extremism , lawlessness , violence ; disease , joblessness , and hopelessness .
+SENTPOS 2021-Biden.txt NLTK  B   31  40 And_CC I_PRP ask_VBP every_DT American_JJ to_TO join_VB me_PRP in_IN this_DT cause_NN :_COLON uniting_NN to_TO fight_VB the_DT foes_NNS we_PRP face_VBP :_COLON anger_NN ,_COMMA resentment_NN ,_COMMA and_CC hatred_VBD ;_SEMICOLON extremism_NN ,_COMMA lawlessness_NN ,_COMMA violence_NN ;_SEMICOLON disease_NN ,_COMMA joblessness_NN ,_COMMA and_CC hopelessness_NN ._PERIOD
+SENTPOS 2021-Biden.txt NLTK  A   32   11 With unity we can do great things , important things .
+SENTPOS 2021-Biden.txt NLTK  B   32  11 With_IN unity_NN we_PRP can_MD do_VB great_JJ things_NNS ,_COMMA important_JJ things_NNS ._PERIOD
+SENTPOS 2021-Biden.txt NLTK  A   33    5 We can right wrongs .
+SENTPOS 2021-Biden.txt NLTK  B   33   5 We_PRP can_MD right_VB wrongs_NNS ._PERIOD
+SENTPOS 2021-Biden.txt NLTK  A   34   10 We can put people to work in good jobs .
+SENTPOS 2021-Biden.txt NLTK  B   34  10 We_PRP can_MD put_VB people_NNS to_TO work_VB in_IN good_JJ jobs_NNS ._PERIOD
+SENTPOS 2021-Biden.txt NLTK  A   35    9 We can teach our children in safe schools .
+SENTPOS 2021-Biden.txt NLTK  B   35   9 We_PRP can_MD teach_VB our_PRPDOLLAR children_NNS in_IN safe_JJ schools_NNS ._PERIOD
+SENTPOS 2021-Biden.txt NLTK  A   36    7 We can overcome the deadly virus .
+SENTPOS 2021-Biden.txt NLTK  B   36   7 We_PRP can_MD overcome_VB the_DT deadly_JJ virus_NN ._PERIOD
+SENTPOS 2021-Biden.txt NLTK  A   37   17 We can reward work and rebuild the middle class and make health care secure for all .
+SENTPOS 2021-Biden.txt NLTK  B   37  17 We_PRP can_MD reward_VB work_NN and_CC rebuild_VB the_DT middle_JJ class_NN and_CC make_VB health_NN care_NN secure_NN for_IN all_DT ._PERIOD
+SENTPOS 2021-Biden.txt NLTK  A   38   24 We can deliver racial justice , and we can make America , once again , the leading force for good in the world .
+SENTPOS 2021-Biden.txt NLTK  B   38  24 We_PRP can_MD deliver_VB racial_JJ justice_NN ,_COMMA and_CC we_PRP can_MD make_VB America_NNP ,_COMMA once_RB again_RB ,_COMMA the_DT leading_VBG force_NN for_IN good_JJ in_IN the_DT world_NN ._PERIOD
+SENTPOS 2021-Biden.txt NLTK  A   39   16 I know speaking of unity can sound to some like a foolish fantasy these days .
+SENTPOS 2021-Biden.txt NLTK  B   39  16 I_PRP know_VBP speaking_VBG of_IN unity_NN can_MD sound_VB to_TO some_DT like_IN a_DT foolish_JJ fantasy_NN these_DT days_NNS ._PERIOD
+SENTPOS 2021-Biden.txt NLTK  A   40   14 I know the forces that divide us are deep and they are real .
+SENTPOS 2021-Biden.txt NLTK  B   40  14 I_PRP know_VBP the_DT forces_NNS that_WDT divide_VBP us_PRP are_VBP deep_JJ and_CC they_PRP are_VBP real_JJ ._PERIOD
+SENTPOS 2021-Biden.txt NLTK  A   41    9 But I also know they are not new .
+SENTPOS 2021-Biden.txt NLTK  B   41   9 But_CC I_PRP also_RB know_VBP they_PRP are_VBP not_RB new_JJ ._PERIOD
+SENTPOS 2021-Biden.txt NLTK  A   42   37 Our history has been a constant struggle between the American ideal that we all are created equal and the harsh , ugly reality that racism , nativism , fear , demonization have long torn us apart .
+SENTPOS 2021-Biden.txt NLTK  B   42  37 Our_PRPDOLLAR history_NN has_VBZ been_VBN a_DT constant_JJ struggle_NN between_IN the_DT American_NNP ideal_NN that_IN we_PRP all_DT are_VBP created_VBN equal_JJ and_CC the_DT harsh_NN ,_COMMA ugly_RB reality_NN that_IN racism_NN ,_COMMA nativism_NN ,_COMMA fear_NN ,_COMMA demonization_NN have_VBP long_JJ torn_JJ us_PRP apart_RB ._PERIOD
+SENTPOS 2021-Biden.txt NLTK  A   43    5 The battle is perennial .
+SENTPOS 2021-Biden.txt NLTK  B   43   5 The_DT battle_NN is_VBZ perennial_JJ ._PERIOD
+SENTPOS 2021-Biden.txt NLTK  A   44    6 And victory is never assured .
+SENTPOS 2021-Biden.txt NLTK  B   44   6 And_CC victory_NN is_VBZ never_RB assured_VBN ._PERIOD
+SENTPOS 2021-Biden.txt NLTK  A   45   33 Through the Civil War , the Great Depression , World War , 9 / 11 , through struggle , sacrifice , and setbacks , our " better angels " have always prevailed .
+SENTPOS 2021-Biden.txt NLTK  B   45  33 Through_IN the_DT Civil_NNP War_NNP ,_COMMA the_DT Great_NNP Depression_NNP ,_COMMA World_NNP War_NNP ,_COMMA 9_CD /_NN 11_CD ,_COMMA through_IN struggle_NN ,_COMMA sacrifice_NN ,_COMMA and_CC setbacks_NNS ,_COMMA our_PRPDOLLAR "_QUOTE better_JJR angels_NNS "_QUOTE have_VBP always_RB prevailed_VBN ._PERIOD
+SENTPOS 2021-Biden.txt NLTK  A   46   24 In each of these moments , enough of us — enough of us — have come together to carry all of us forward .
+SENTPOS 2021-Biden.txt NLTK  B   46  24 In_IN each_DT of_IN these_DT moments_NNS ,_COMMA enough_NN of_IN us_PRP —_VBP enough_RB of_IN us_PRP —_WDT have_VBP come_VBN together_RB to_TO carry_VB all_DT of_IN us_PRP forward_VBP ._PERIOD
+SENTPOS 2021-Biden.txt NLTK  A   47    7 And we can do that now .
+SENTPOS 2021-Biden.txt NLTK  B   47   7 And_CC we_PRP can_MD do_VB that_DT now_RB ._PERIOD
+SENTPOS 2021-Biden.txt NLTK  A   48   15 History , faith , and reason show the way : the way of unity .
+SENTPOS 2021-Biden.txt NLTK  B   48  15 History_NN ,_COMMA faith_NN ,_COMMA and_CC reason_NN show_VBP the_DT way_NN :_COLON the_DT way_NN of_IN unity_NN ._PERIOD
+SENTPOS 2021-Biden.txt NLTK  A   49   13 We can see each other not as adversaries , but as neighbors .
+SENTPOS 2021-Biden.txt NLTK  B   49  13 We_PRP can_MD see_VB each_DT other_JJ not_RB as_IN adversaries_NNS ,_COMMA but_CC as_IN neighbors_NNS ._PERIOD
+SENTPOS 2021-Biden.txt NLTK  A   50   10 We can treat each other with dignity and respect .
+SENTPOS 2021-Biden.txt NLTK  B   50  10 We_PRP can_MD treat_VB each_DT other_JJ with_IN dignity_NN and_CC respect_NN ._PERIOD
+SENTPOS 2021-Biden.txt NLTK  A   51   14 We can join forces , stop the shouting , and lower the temperature .
+SENTPOS 2021-Biden.txt NLTK  B   51  14 We_PRP can_MD join_VB forces_NNS ,_COMMA stop_VB the_DT shouting_NN ,_COMMA and_CC lower_JJR the_DT temperature_NN ._PERIOD
+SENTPOS 2021-Biden.txt NLTK  A   52   14 For without unity , there is no peace , only bitterness and fury .
+SENTPOS 2021-Biden.txt NLTK  B   52  14 For_IN without_IN unity_NN ,_COMMA there_EX is_VBZ no_DT peace_NN ,_COMMA only_RB bitterness_NN and_CC fury_NN ._PERIOD
+SENTPOS 2021-Biden.txt NLTK  A   53    7 No progress , only exhausting outrage .
+SENTPOS 2021-Biden.txt NLTK  B   53   7 No_DT progress_NN ,_COMMA only_RB exhausting_VBG outrage_NN ._PERIOD
+SENTPOS 2021-Biden.txt NLTK  A   54    9 No nation , only a state of chaos .
+SENTPOS 2021-Biden.txt NLTK  B   54   9 No_DT nation_NN ,_COMMA only_RB a_DT state_NN of_IN chaos_NN ._PERIOD
+SENTPOS 2021-Biden.txt NLTK  A   55   17 This is our historic moment of crisis and challenge , and unity is the path forward .
+SENTPOS 2021-Biden.txt NLTK  B   55  17 This_DT is_VBZ our_PRPDOLLAR historic_JJ moment_NN of_IN crisis_NN and_CC challenge_NN ,_COMMA and_CC unity_NN is_VBZ the_DT path_NN forward_NN ._PERIOD
+SENTPOS 2021-Biden.txt NLTK  A   56   13 And we must meet this moment as the United States of America .
+SENTPOS 2021-Biden.txt NLTK  B   56  13 And_CC we_PRP must_MD meet_VB this_DT moment_NN as_IN the_DT United_NNP States_NNPS of_IN America_NNP ._PERIOD
+SENTPOS 2021-Biden.txt NLTK  A   57   14 If we do that , I guarantee you , we will not fail .
+SENTPOS 2021-Biden.txt NLTK  B   57  14 If_IN we_PRP do_VBP that_IN ,_COMMA I_PRP guarantee_VBP you_PRP ,_COMMA we_PRP will_MD not_RB fail_VB ._PERIOD
+SENTPOS 2021-Biden.txt NLTK  A   58   18 We have never , ever , ever , ever failed in America when we have acted together .
+SENTPOS 2021-Biden.txt NLTK  B   58  18 We_PRP have_VBP never_RB ,_COMMA ever_RB ,_COMMA ever_RB ,_COMMA ever_RB failed_VBD in_IN America_NNP when_WRB we_PRP have_VBP acted_VBN together_RB ._PERIOD
+SENTPOS 2021-Biden.txt NLTK  A   59   22 And so today , at this time , in this place , let ' s start afresh , all of us .
+SENTPOS 2021-Biden.txt NLTK  B   59  22 And_CC so_RB today_NN ,_COMMA at_IN this_DT time_NN ,_COMMA in_IN this_DT place_NN ,_COMMA let_VB '_QUOTE s_JJ start_NN afresh_NN ,_COMMA all_DT of_IN us_PRP ._PERIOD
+SENTPOS 2021-Biden.txt NLTK  A   60   24 Let ' s begin to listen to one another , hear one another , see one another , show respect to one another .
+SENTPOS 2021-Biden.txt NLTK  B   60  24 Let_VB '_QUOTE s_JJ begin_NN to_TO listen_VB to_TO one_CD another_DT ,_COMMA hear_VBP one_CD another_DT ,_COMMA see_VBP one_CD another_DT ,_COMMA show_VBP respect_NN to_TO one_CD another_DT ._PERIOD
+SENTPOS 2021-Biden.txt NLTK  A   61   16 Politics doesn ' t have to be a raging fire destroying everything in its path .
+SENTPOS 2021-Biden.txt NLTK  B   61  16 Politics_NNS doesn_VBP '_QUOTE t_NNS have_VBP to_TO be_VB a_DT raging_NN fire_NN destroying_VBG everything_NN in_IN its_PRPDOLLAR path_NN ._PERIOD
+SENTPOS 2021-Biden.txt NLTK  A   62   14 Every disagreement doesn ' t have to be a cause for total war .
+SENTPOS 2021-Biden.txt NLTK  B   62  14 Every_DT disagreement_NN doesn_NN '_QUOTE t_NNS have_VBP to_TO be_VB a_DT cause_NN for_IN total_JJ war_NN ._PERIOD
+SENTPOS 2021-Biden.txt NLTK  A   63   16 And we must reject the culture in which facts themselves are manipulated and even manufactured .
+SENTPOS 2021-Biden.txt NLTK  B   63  16 And_CC we_PRP must_MD reject_VB the_DT culture_NN in_IN which_WDT facts_VBZ themselves_PRP are_VBP manipulated_VBN and_CC even_RB manufactured_VBD ._PERIOD
+SENTPOS 2021-Biden.txt NLTK  A   64   12 My fellow Americans , we have to be different than this .
+SENTPOS 2021-Biden.txt NLTK  B   64  12 My_PRPDOLLAR fellow_JJ Americans_NNPS ,_COMMA we_PRP have_VBP to_TO be_VB different_JJ than_IN this_DT ._PERIOD
+SENTPOS 2021-Biden.txt NLTK  A   65    8 America has to be better than this .
+SENTPOS 2021-Biden.txt NLTK  B   65   8 America_NNP has_VBZ to_TO be_VB better_JJR than_IN this_DT ._PERIOD
+SENTPOS 2021-Biden.txt NLTK  A   66   11 And I believe America is so much better than this .
+SENTPOS 2021-Biden.txt NLTK  B   66  11 And_CC I_PRP believe_VBP America_NNP is_VBZ so_RB much_JJ better_JJR than_IN this_DT ._PERIOD
+SENTPOS 2021-Biden.txt NLTK  A   67    4 Just look around .
+SENTPOS 2021-Biden.txt NLTK  B   67   4 Just_RB look_NN around_RP ._PERIOD
+SENTPOS 2021-Biden.txt NLTK  A   68   34 Here we stand , in the shadow of the Capitol dome , as was mentioned earlier , completed amid the Civil War , when the Union itself was literally hanging in the balance .
+SENTPOS 2021-Biden.txt NLTK  B   68  34 Here_RB we_PRP stand_VBP ,_COMMA in_IN the_DT shadow_NN of_IN the_DT Capitol_NNP dome_NN ,_COMMA as_IN was_VBD mentioned_VBN earlier_RB ,_COMMA completed_VBD amid_IN the_DT Civil_NNP War_NNP ,_COMMA when_WRB the_DT Union_NNP itself_PRP was_VBD literally_RB hanging_VBG in_IN the_DT balance_NN ._PERIOD
+SENTPOS 2021-Biden.txt NLTK  A   69    7 Yet we endured , we prevailed .
+SENTPOS 2021-Biden.txt NLTK  B   69   7 Yet_RB we_PRP endured_VBD ,_COMMA we_PRP prevailed_VBD ._PERIOD
+SENTPOS 2021-Biden.txt NLTK  A   70   18 Here we stand looking out on the great Mall where Dr . King spoke of his dream .
+SENTPOS 2021-Biden.txt NLTK  B   70  18 Here_RB we_PRP stand_VBP looking_VBG out_RP on_IN the_DT great_JJ Mall_NNP where_WRB Dr_NNP ._PERIOD King_NNP spoke_NN of_IN his_PRPDOLLAR dream_NN ._PERIOD
+SENTPOS 2021-Biden.txt NLTK  A   71   28 Here we stand , where 108 years ago , at another Inaugural , thousands of protesters tried to block brave women marching for the right to vote .
+SENTPOS 2021-Biden.txt NLTK  B   71  28 Here_RB we_PRP stand_VBP ,_COMMA where_WRB 108_CD years_NNS ago_RB ,_COMMA at_IN another_DT Inaugural_NNP ,_COMMA thousands_NNS of_IN protesters_NNS tried_VBN to_TO block_VB brave_VB women_NNS marching_VBG for_IN the_DT right_NN to_TO vote_VB ._PERIOD
+SENTPOS 2021-Biden.txt NLTK  A   72   25 And today we mark the swearing - in of the first woman in American history elected to national office : Vice President Kamala Harris .
+SENTPOS 2021-Biden.txt NLTK  B   72  25 And_CC today_NN we_PRP mark_VBP the_DT swearing_VBG -_HYPHEN in_IN of_IN the_DT first_JJ woman_NN in_IN American_JJ history_NN elected_VBN to_TO national_JJ office_NN :_COLON Vice_NNP President_NNP Kamala_NNP Harris_NNP ._PERIOD
+SENTPOS 2021-Biden.txt NLTK  A   73   11 Don ' t tell me things can ' t change .
+SENTPOS 2021-Biden.txt NLTK  B   73  11 Don_NNP '_POS t_NN tell_IN me_PRP things_NNS can_MD '_QUOTE t_JJ change_NN ._PERIOD
+SENTPOS 2021-Biden.txt NLTK  A   74   25 Here we stand across the Potomac from Arlington Cemetery , where heroes who gave the last full measure of devotion rest in eternal peace .
+SENTPOS 2021-Biden.txt NLTK  B   74  25 Here_RB we_PRP stand_VBP across_IN the_DT Potomac_NNP from_IN Arlington_NNP Cemetery_NNP ,_COMMA where_WRB heroes_NNS who_WP gave_VBD the_DT last_JJ full_JJ measure_NN of_IN devotion_NN rest_NN in_IN eternal_JJ peace_NN ._PERIOD
+SENTPOS 2021-Biden.txt NLTK  A   75   40 And here we stand , just days after a riotous mob thought they could use violence to silence the will of the people , to stop the work of our democracy , to drive us from this sacred ground .
+SENTPOS 2021-Biden.txt NLTK  B   75  40 And_CC here_RB we_PRP stand_VBP ,_COMMA just_RB days_NNS after_IN a_DT riotous_JJ mob_NN thought_NN they_PRP could_MD use_VB violence_NN to_TO silence_VB the_DT will_MD of_IN the_DT people_NNS ,_COMMA to_TO stop_VB the_DT work_NN of_IN our_PRPDOLLAR democracy_NN ,_COMMA to_TO drive_VB us_PRP from_IN this_DT sacred_VBN ground_NN ._PERIOD
+SENTPOS 2021-Biden.txt NLTK  A   76    5 It did not happen .
+SENTPOS 2021-Biden.txt NLTK  B   76   5 It_PRP did_VBD not_RB happen_VB ._PERIOD
+SENTPOS 2021-Biden.txt NLTK  A   77   17 It will never happen , not today , not tomorrow , not ever — not ever .
+SENTPOS 2021-Biden.txt NLTK  B   77  17 It_PRP will_MD never_RB happen_VB ,_COMMA not_RB today_NN ,_COMMA not_RB tomorrow_NN ,_COMMA not_RB ever_RB —_VBZ not_RB ever_RB ._PERIOD
+SENTPOS 2021-Biden.txt NLTK  A   78   21 To all those who supported our campaign , I am humbled by the faith you ' ve placed in us .
+SENTPOS 2021-Biden.txt NLTK  B   78  21 To_TO all_PDT those_DT who_WP supported_VBD our_PRPDOLLAR campaign_NN ,_COMMA I_PRP am_VBP humbled_VBN by_IN the_DT faith_NN you_PRP '_QUOTE ve_NN placed_VBD in_IN us_PRP ._PERIOD
+SENTPOS 2021-Biden.txt NLTK  A   79   22 To all those who did not support us , let me say this : Hear me out as we move forward .
+SENTPOS 2021-Biden.txt NLTK  B   79  22 To_TO all_PDT those_DT who_WP did_VBD not_RB support_VB us_PRP ,_COMMA let_VB me_PRP say_VB this_DT :_COLON Hear_VB me_PRP out_RP as_IN we_PRP move_VBP forward_RB ._PERIOD
+SENTPOS 2021-Biden.txt NLTK  A   80    9 Take a measure of me and my heart .
+SENTPOS 2021-Biden.txt NLTK  B   80   9 Take_VB a_DT measure_NN of_IN me_PRP and_CC my_PRPDOLLAR heart_NN ._PERIOD
+SENTPOS 2021-Biden.txt NLTK  A   81   10 And if you still disagree , so be it .
+SENTPOS 2021-Biden.txt NLTK  B   81  10 And_CC if_IN you_PRP still_RB disagree_VBP ,_COMMA so_RB be_VB it_PRP ._PERIOD
+SENTPOS 2021-Biden.txt NLTK  A   82    5 That ' s democracy .
+SENTPOS 2021-Biden.txt NLTK  B   82   5 That_DT '_QUOTE s_JJ democracy_NN ._PERIOD
+SENTPOS 2021-Biden.txt NLTK  A   83    5 That ' s America .
+SENTPOS 2021-Biden.txt NLTK  B   83   5 That_DT '_QUOTE s_NN America_NNP ._PERIOD
+SENTPOS 2021-Biden.txt NLTK  A   84   22 The right to dissent peaceably , within the guardrails of our Republic , is perhaps this Nation ' s greatest strength .
+SENTPOS 2021-Biden.txt NLTK  B   84  22 The_DT right_NN to_TO dissent_VB peaceably_RB ,_COMMA within_IN the_DT guardrails_NNS of_IN our_PRPDOLLAR Republic_NNP ,_COMMA is_VBZ perhaps_RB this_DT Nation_NNP '_POS s_NN greatest_JJS strength_NN ._PERIOD
+SENTPOS 2021-Biden.txt NLTK  A   85   12 Yet hear me clearly : Disagreement must not lead to disunion .
+SENTPOS 2021-Biden.txt NLTK  B   85  12 Yet_RB hear_VB me_PRP clearly_RB :_COLON Disagreement_NN must_MD not_RB lead_VB to_TO disunion_NN ._PERIOD
+SENTPOS 2021-Biden.txt NLTK  A   86   19 And I pledge this to you : I will be a President for all Americans — all Americans .
+SENTPOS 2021-Biden.txt NLTK  B   86  19 And_CC I_PRP pledge_VBP this_DT to_TO you_PRP :_COLON I_PRP will_MD be_VB a_DT President_NNP for_IN all_DT Americans_NNPS —_VBP all_DT Americans_NNPS ._PERIOD
+SENTPOS 2021-Biden.txt NLTK  A   87   23 And I promise you , I will fight as hard for those who did not support me as for those who did .
+SENTPOS 2021-Biden.txt NLTK  B   87  23 And_CC I_PRP promise_VBP you_PRP ,_COMMA I_PRP will_MD fight_VB as_RB hard_JJ for_IN those_DT who_WP did_VBD not_RB support_VB me_PRP as_IN for_IN those_DT who_WP did_VBD ._PERIOD
+SENTPOS 2021-Biden.txt NLTK  A   88   38 Many centuries ago , Saint Augustine , a saint of my church , wrote that a people was a multitude defined by the common objects of their love — defined by the common objects of their love .
+SENTPOS 2021-Biden.txt NLTK  B   88  38 Many_JJ centuries_NNS ago_RB ,_COMMA Saint_NNP Augustine_NNP ,_COMMA a_DT saint_NN of_IN my_PRPDOLLAR church_NN ,_COMMA wrote_VBD that_IN a_DT people_NNS was_VBD a_DT multitude_NN defined_VBN by_IN the_DT common_JJ objects_NNS of_IN their_PRPDOLLAR love_NN —_NN defined_VBN by_IN the_DT common_JJ objects_NNS of_IN their_PRPDOLLAR love_NN ._PERIOD
+SENTPOS 2021-Biden.txt NLTK  A   89   10 What are the common objects we as Americans love ?
+SENTPOS 2021-Biden.txt NLTK  B   89  10 What_WP are_VBP the_DT common_JJ objects_VBZ we_PRP as_IN Americans_NNPS love_NN ?_QUERY
+SENTPOS 2021-Biden.txt NLTK  A   90    6 That define us as Americans ?
+SENTPOS 2021-Biden.txt NLTK  B   90   6 That_DT define_VBZ us_PRP as_IN Americans_NNPS ?_QUERY
+SENTPOS 2021-Biden.txt NLTK  A   91   23 I think we know : opportunity , security , liberty , dignity , respect , honor , and yes , the truth .
+SENTPOS 2021-Biden.txt NLTK  B   91  23 I_PRP think_VBP we_PRP know_VBP :_COLON opportunity_NN ,_COMMA security_NN ,_COMMA liberty_NN ,_COMMA dignity_NN ,_COMMA respect_NN ,_COMMA honor_NN ,_COMMA and_CC yes_UH ,_COMMA the_DT truth_NN ._PERIOD
+SENTPOS 2021-Biden.txt NLTK  A   92   11 Recent weeks and months have taught us a painful lesson .
+SENTPOS 2021-Biden.txt NLTK  B   92  11 Recent_JJ weeks_NNS and_CC months_NNS have_VBP taught_VBN us_PRP a_DT painful_JJ lesson_NN ._PERIOD
+SENTPOS 2021-Biden.txt NLTK  A   93   17 There is truth , and there are lies : lies told for power and for profit .
+SENTPOS 2021-Biden.txt NLTK  B   93  17 There_EX is_VBZ truth_NN ,_COMMA and_CC there_EX are_VBP lies_NNS :_COLON lies_NNS told_VBD for_IN power_NN and_CC for_IN profit_NN ._PERIOD
+SENTPOS 2021-Biden.txt NLTK  A   94   44 And each of us has a duty and a responsibility , as citizens , as Americans , and especially as leaders — leaders who have pledged to honor our Constitution and protect our Nation — to defend the truth and defeat the lies .
+SENTPOS 2021-Biden.txt NLTK  B   94  44 And_CC each_DT of_IN us_PRP has_VBZ a_DT duty_NN and_CC a_DT responsibility_NN ,_COMMA as_IN citizens_NNS ,_COMMA as_IN Americans_NNPS ,_COMMA and_CC especially_RB as_IN leaders_NNS —_VBP leaders_NNS who_WP have_VBP pledged_VBN to_TO honor_VB our_PRPDOLLAR Constitution_NNP and_CC protect_VB our_PRPDOLLAR Nation_NNP —_NN to_TO defend_VB the_DT truth_NN and_CC defeat_VB the_DT lies_NNS ._PERIOD
+SENTPOS 2021-Biden.txt NLTK  A   95   18 Look , I understand that many of my fellow Americans view the future with fear and trepidation .
+SENTPOS 2021-Biden.txt NLTK  B   95  18 Look_NNP ,_COMMA I_PRP understand_VBP that_IN many_JJ of_IN my_PRPDOLLAR fellow_JJ Americans_NNPS view_VBP the_DT future_NN with_IN fear_NN and_CC trepidation_NN ._PERIOD
+SENTPOS 2021-Biden.txt NLTK  A   96    8 I understand they worry about their jobs .
+SENTPOS 2021-Biden.txt NLTK  B   96   8 I_PRP understand_VBP they_PRP worry_VBP about_IN their_PRPDOLLAR jobs_NNS ._PERIOD
+SENTPOS 2021-Biden.txt NLTK  A   97   28 I understand , like my dad , they lay at bed at night staring at the ceiling , wondering : " Can I keep my health care ?
+SENTPOS 2021-Biden.txt NLTK  B   97  28 I_PRP understand_VBP ,_COMMA like_IN my_PRPDOLLAR dad_NN ,_COMMA they_PRP lay_VBD at_IN bed_NN at_IN night_NN staring_VBG at_IN the_DT ceiling_NN ,_COMMA wondering_NN :_COLON "_QUOTE Can_MD I_PRP keep_VB my_PRPDOLLAR health_NN care_NN ?_QUERY
+SENTPOS 2021-Biden.txt NLTK  A   98    6 Can I pay my mortgage ?"
+SENTPOS 2021-Biden.txt NLTK  B   98   6 Can_MD I_PRP pay_VB my_PRPDOLLAR mortgage_NN ?"_NN
+SENTPOS 2021-Biden.txt NLTK  A   99   10 Thinking about their families , about what comes next .
+SENTPOS 2021-Biden.txt NLTK  B   99  10 Thinking_VBG about_IN their_PRPDOLLAR families_NNS ,_COMMA about_IN what_WP comes_VBZ next_JJ ._PERIOD
+SENTPOS 2021-Biden.txt NLTK  A  100    8 I promise you , I get it .
+SENTPOS 2021-Biden.txt NLTK  B  100   8 I_PRP promise_VBP you_PRP ,_COMMA I_PRP get_VBP it_PRP ._PERIOD
+SENTPOS 2021-Biden.txt NLTK  A  101   44 But the answer is not to turn inward , to retreat into competing factions , distrusting those who don ' t look like you or worship the way you do or don ' t get their news from the same sources you do .
+SENTPOS 2021-Biden.txt NLTK  B  101  44 But_CC the_DT answer_NN is_VBZ not_RB to_TO turn_VB inward_RB ,_COMMA to_TO retreat_VB into_IN competing_VBG factions_NNS ,_COMMA distrusting_VBG those_DT who_WP don_VBP '_QUOTE t_JJ look_VBP like_IN you_PRP or_CC worship_VB the_DT way_NN you_PRP do_VBP or_CC don_VB '_QUOTE t_JJ get_VBP their_PRPDOLLAR news_NN from_IN the_DT same_JJ sources_NNS you_PRP do_VBP ._PERIOD
+SENTPOS 2021-Biden.txt NLTK  A  102   20 We must end this uncivil war that pits red against blue , rural versus urban , conservative versus liberal .
+SENTPOS 2021-Biden.txt NLTK  B  102  20 We_PRP must_MD end_VB this_DT uncivil_JJ war_NN that_IN pits_VBZ red_VBN against_IN blue_JJ ,_COMMA rural_JJ versus_NN urban_JJ ,_COMMA conservative_JJ versus_NN liberal_JJ ._PERIOD
+SENTPOS 2021-Biden.txt NLTK  A  103   51 We can do this if we open our souls instead of hardening our hearts , if we show a little tolerance and humility , and if we ' re willing to stand in the other person ' s shoes , as my mom would say , just for a moment .
+SENTPOS 2021-Biden.txt NLTK  B  103  51 We_PRP can_MD do_VB this_DT if_IN we_PRP open_VBP our_PRPDOLLAR souls_JJ instead_RB of_IN hardening_VBG our_PRPDOLLAR hearts_NNS ,_COMMA if_IN we_PRP show_VBP a_DT little_JJ tolerance_NN and_CC humility_NN ,_COMMA and_CC if_IN we_PRP '_QUOTE re_JJ willing_JJ to_TO stand_VB in_IN the_DT other_JJ person_NN '_POS s_NN shoes_NNS ,_COMMA as_IN my_PRPDOLLAR mom_NN would_MD say_VB ,_COMMA just_RB for_IN a_DT moment_NN ._PERIOD
+SENTPOS 2021-Biden.txt NLTK  A  104    5 Stand in their shoes .
+SENTPOS 2021-Biden.txt NLTK  B  104   5 Stand_NNP in_IN their_PRPDOLLAR shoes_NNS ._PERIOD
+SENTPOS 2021-Biden.txt NLTK  A  105   19 Because here is the thing about life : There is no accounting for what fate will deal you .
+SENTPOS 2021-Biden.txt NLTK  B  105  19 Because_IN here_RB is_VBZ the_DT thing_NN about_IN life_NN :_COLON There_EX is_VBZ no_DT accounting_NN for_IN what_WP fate_NN will_MD deal_VB you_PRP ._PERIOD
+SENTPOS 2021-Biden.txt NLTK  A  106    8 Some days when you need a hand .
+SENTPOS 2021-Biden.txt NLTK  B  106   8 Some_DT days_NNS when_WRB you_PRP need_VBP a_DT hand_NN ._PERIOD
+SENTPOS 2021-Biden.txt NLTK  A  107   14 There are other days when we ' re called to lend a hand .
+SENTPOS 2021-Biden.txt NLTK  B  107  14 There_EX are_VBP other_JJ days_NNS when_WRB we_PRP '_QUOTE re_NN called_VBN to_TO lend_VB a_DT hand_NN ._PERIOD
+SENTPOS 2021-Biden.txt NLTK  A  108    9 That ' s how it has to be .
+SENTPOS 2021-Biden.txt NLTK  B  108   9 That_DT '_QUOTE s_VBZ how_WRB it_PRP has_VBZ to_TO be_VB ._PERIOD
+SENTPOS 2021-Biden.txt NLTK  A  109    9 That is what we do for one another .
+SENTPOS 2021-Biden.txt NLTK  B  109   9 That_DT is_VBZ what_WP we_PRP do_VBP for_IN one_CD another_DT ._PERIOD
+SENTPOS 2021-Biden.txt NLTK  A  110   22 And if we are this way , our country will be stronger , more prosperous , more ready for the future .
+SENTPOS 2021-Biden.txt NLTK  B  110  22 And_CC if_IN we_PRP are_VBP this_DT way_NN ,_COMMA our_PRPDOLLAR country_NN will_MD be_VB stronger_JJR ,_COMMA more_RBR prosperous_JJ ,_COMMA more_RBR ready_JJ for_IN the_DT future_NN ._PERIOD
+SENTPOS 2021-Biden.txt NLTK  A  111    6 And we can still disagree .
+SENTPOS 2021-Biden.txt NLTK  B  111   6 And_CC we_PRP can_MD still_RB disagree_VB ._PERIOD
+SENTPOS 2021-Biden.txt NLTK  A  112   20 My fellow Americans , in the work ahead of us , we ' re going to need each other .
+SENTPOS 2021-Biden.txt NLTK  B  112  20 My_PRPDOLLAR fellow_JJ Americans_NNPS ,_COMMA in_IN the_DT work_NN ahead_RB of_IN us_PRP ,_COMMA we_PRP '_QUOTE re_NN going_VBG to_TO need_VB each_DT other_JJ ._PERIOD
+SENTPOS 2021-Biden.txt NLTK  A  113   12 We need all our strength to persevere through this dark winter .
+SENTPOS 2021-Biden.txt NLTK  B  113  12 We_PRP need_VBP all_DT our_PRPDOLLAR strength_NN to_TO persevere_VB through_IN this_DT dark_JJ winter_NN ._PERIOD
+SENTPOS 2021-Biden.txt NLTK  A  114   16 We ' re entering what may be the toughest and deadliest period of the virus .
+SENTPOS 2021-Biden.txt NLTK  B  114  16 We_PRP '_QUOTE re_JJ entering_VBG what_WP may_MD be_VB the_DT toughest_JJS and_CC deadliest_JJ period_NN of_IN the_DT virus_NN ._PERIOD
+SENTPOS 2021-Biden.txt NLTK  A  115   14 We must set aside politics and finally face this pandemic as one Nation .
+SENTPOS 2021-Biden.txt NLTK  B  115  14 We_PRP must_MD set_VB aside_RP politics_NNS and_CC finally_RB face_VB this_DT pandemic_JJ as_IN one_CD Nation_NN ._PERIOD
+SENTPOS 2021-Biden.txt NLTK  A  116    3 One Nation .
+SENTPOS 2021-Biden.txt NLTK  B  116   3 One_CD Nation_NN ._PERIOD
+SENTPOS 2021-Biden.txt NLTK  A  117   26 And I promise you this : As the Bible says , " Weeping may endure for a night , but joy cometh in the morning ."
+SENTPOS 2021-Biden.txt NLTK  B  117  26 And_CC I_PRP promise_VBP you_PRP this_DT :_COLON As_IN the_DT Bible_NNP says_VBZ ,_COMMA "_QUOTE Weeping_NNP may_MD endure_VB for_IN a_DT night_NN ,_COMMA but_CC joy_NN cometh_NNS in_IN the_DT morning_NN ."_NN
+SENTPOS 2021-Biden.txt NLTK  A  118   10 We will get through this , together — together .
+SENTPOS 2021-Biden.txt NLTK  B  118  10 We_PRP will_MD get_VB through_IN this_DT ,_COMMA together_RB —_JJ together_RB ._PERIOD
+SENTPOS 2021-Biden.txt NLTK  A  119   20 Look , folks , all my colleagues that I served with in the House and the Senate up here .
+SENTPOS 2021-Biden.txt NLTK  B  119  20 Look_NNP ,_COMMA folks_NNS ,_COMMA all_DT my_PRPDOLLAR colleagues_NNS that_IN I_PRP served_VBD with_IN in_IN the_DT House_NNP and_CC the_DT Senate_NNP up_RP here_RB ._PERIOD
+SENTPOS 2021-Biden.txt NLTK  A  120   14 We all understand the world is watching , watching all of us today .
+SENTPOS 2021-Biden.txt NLTK  B  120  14 We_PRP all_DT understand_VBP the_DT world_NN is_VBZ watching_VBG ,_COMMA watching_VBG all_DT of_IN us_PRP today_NN ._PERIOD
+SENTPOS 2021-Biden.txt NLTK  A  121   25 So here is my message to those beyond our borders : America has been tested , and we have come out stronger for it .
+SENTPOS 2021-Biden.txt NLTK  B  121  25 So_RB here_RB is_VBZ my_PRPDOLLAR message_NN to_TO those_DT beyond_IN our_PRPDOLLAR borders_NNS :_COLON America_NNP has_VBZ been_VBN tested_VBN ,_COMMA and_CC we_PRP have_VBP come_VBN out_RP stronger_JJR for_IN it_PRP ._PERIOD
+SENTPOS 2021-Biden.txt NLTK  A  122   31 We will repair our alliances and engage with the world once again , not to meet yesterday ' s challenges , but today ' s and tomorrow ' s challenges .
+SENTPOS 2021-Biden.txt NLTK  B  122  31 We_PRP will_MD repair_VB our_PRPDOLLAR alliances_NNS and_CC engage_NN with_IN the_DT world_NN once_RB again_RB ,_COMMA not_RB to_TO meet_VB yesterday_NN '_QUOTE s_JJ challenges_NNS ,_COMMA but_CC today_NN '_QUOTE s_NN and_CC tomorrow_NN '_QUOTE s_JJ challenges_NNS ._PERIOD
+SENTPOS 2021-Biden.txt NLTK  A  123   22 And we ' ll lead not merely by the example of our power , but by the power of our example .
+SENTPOS 2021-Biden.txt NLTK  B  123  22 And_CC we_PRP '_QUOTE ll_JJ lead_NN not_RB merely_RB by_IN the_DT example_NN of_IN our_PRPDOLLAR power_NN ,_COMMA but_CC by_IN the_DT power_NN of_IN our_PRPDOLLAR example_NN ._PERIOD
+SENTPOS 2021-Biden.txt NLTK  A  124   16 We will be a strong and trusted partner for peace , progress , and security .
+SENTPOS 2021-Biden.txt NLTK  B  124  16 We_PRP will_MD be_VB a_DT strong_JJ and_CC trusted_JJ partner_NN for_IN peace_NN ,_COMMA progress_NN ,_COMMA and_CC security_NN ._PERIOD
+SENTPOS 2021-Biden.txt NLTK  A  125   16 Look , you all know , we have been through so much in this Nation .
+SENTPOS 2021-Biden.txt NLTK  B  125  16 Look_NNP ,_COMMA you_PRP all_DT know_VBP ,_COMMA we_PRP have_VBP been_VBN through_IN so_RB much_JJ in_IN this_DT Nation_NN ._PERIOD
+SENTPOS 2021-Biden.txt NLTK  A  126   64 And , in my first act as President , I ' d like to ask you to join me in a moment of silent prayer to remember all those we lost this past year to the pandemic , those 400 , 000 fellow Americans : moms , dads , husbands , wives , sons , daughters , friends , neighbors , and coworkers .
+SENTPOS 2021-Biden.txt NLTK  B  126  64 And_CC ,_COMMA in_IN my_PRPDOLLAR first_JJ act_NN as_IN President_NNP ,_COMMA I_PRP '_QUOTE d_NNS like_IN to_TO ask_VB you_PRP to_TO join_VB me_PRP in_IN a_DT moment_NN of_IN silent_JJ prayer_NN to_TO remember_VB all_PDT those_DT we_PRP lost_VBD this_DT past_JJ year_NN to_TO the_DT pandemic_JJ ,_COMMA those_DT 400_CD ,_COMMA 000_CD fellow_JJ Americans_NNPS :_COLON moms_NNS ,_COMMA dads_NNS ,_COMMA husbands_NNS ,_COMMA wives_NNS ,_COMMA sons_NNS ,_COMMA daughters_NNS ,_COMMA friends_NNS ,_COMMA neighbors_NNS ,_COMMA and_CC coworkers_NNS ._PERIOD
+SENTPOS 2021-Biden.txt NLTK  A  127   18 We will honor them by becoming the people and Nation we know we can and should be .
+SENTPOS 2021-Biden.txt NLTK  B  127  18 We_PRP will_MD honor_VB them_PRP by_IN becoming_VBG the_DT people_NNS and_CC Nation_NNP we_PRP know_VBP we_PRP can_MD and_CC should_MD be_VB ._PERIOD
+SENTPOS 2021-Biden.txt NLTK  A  128   31 So I ask you , let ' s say a silent prayer for those who have lost their lives , for those they left behind , and for our country .
+SENTPOS 2021-Biden.txt NLTK  B  128  31 So_RB I_PRP ask_VBP you_PRP ,_COMMA let_VB '_QUOTE s_NNS say_VBP a_DT silent_JJ prayer_NN for_IN those_DT who_WP have_VBP lost_VBN their_PRPDOLLAR lives_NNS ,_COMMA for_IN those_DT they_PRP left_VBD behind_NN ,_COMMA and_CC for_IN our_PRPDOLLAR country_NN ._PERIOD
+SENTPOS 2021-Biden.txt NLTK  A  129   12 [ At this point , a moment of silence was observed .]
+SENTPOS 2021-Biden.txt NLTK  B  129  12 [_NN At_IN this_DT point_NN ,_COMMA a_DT moment_NN of_IN silence_NN was_VBD observed_VBN .]_NN
+SENTPOS 2021-Biden.txt NLTK  A  130    2 Amen .
+SENTPOS 2021-Biden.txt NLTK  B  130   2 Amen_NNS ._PERIOD
+SENTPOS 2021-Biden.txt NLTK  A  131    9 Folks , this is a time of testing .
+SENTPOS 2021-Biden.txt NLTK  B  131   9 Folks_NNS ,_COMMA this_DT is_VBZ a_DT time_NN of_IN testing_VBG ._PERIOD
+SENTPOS 2021-Biden.txt NLTK  A  132   37 We face an attack on our democracy and on truth , a raging virus , growing inequity , the sting of systemic racism , a climate in crisis , America ' s role in the world .
+SENTPOS 2021-Biden.txt NLTK  B  132  37 We_PRP face_VBP an_DT attack_NN on_IN our_PRPDOLLAR democracy_NN and_CC on_IN truth_NN ,_COMMA a_DT raging_VBG virus_NN ,_COMMA growing_VBG inequity_NN ,_COMMA the_DT sting_NN of_IN systemic_JJ racism_NN ,_COMMA a_DT climate_NN in_IN crisis_NN ,_COMMA America_NNP '_POS s_JJ role_NN in_IN the_DT world_NN ._PERIOD
+SENTPOS 2021-Biden.txt NLTK  A  133   14 Any one of these would be enough to challenge us in profound ways .
+SENTPOS 2021-Biden.txt NLTK  B  133  14 Any_DT one_CD of_IN these_DT would_MD be_VB enough_JJ to_TO challenge_VB us_PRP in_IN profound_NN ways_NNS ._PERIOD
+SENTPOS 2021-Biden.txt NLTK  A  134   27 But the fact is , we face them all at once , presenting this Nation with one of the gravest of responsibilities we ' ve had .
+SENTPOS 2021-Biden.txt NLTK  B  134  27 But_CC the_DT fact_NN is_VBZ ,_COMMA we_PRP face_VBP them_PRP all_DT at_IN once_RB ,_COMMA presenting_VBG this_DT Nation_NN with_IN one_CD of_IN the_DT gravest_JJS of_IN responsibilities_NNS we_PRP '_QUOTE ve_NN had_VBD ._PERIOD
+SENTPOS 2021-Biden.txt NLTK  A  135    9 Now we ' re going to be tested .
+SENTPOS 2021-Biden.txt NLTK  B  135   9 Now_RB we_PRP '_QUOTE re_NN going_VBG to_TO be_VB tested_VBN ._PERIOD
+SENTPOS 2021-Biden.txt NLTK  A  136    7 Are we going to step up ?
+SENTPOS 2021-Biden.txt NLTK  B  136   7 Are_IN we_PRP going_VBG to_TO step_VB up_RP ?_QUERY
+SENTPOS 2021-Biden.txt NLTK  A  137    4 All of us ?
+SENTPOS 2021-Biden.txt NLTK  B  137   4 All_DT of_IN us_PRP ?_QUERY
+SENTPOS 2021-Biden.txt NLTK  A  138   14 It is time for boldness , for there is so much to do .
+SENTPOS 2021-Biden.txt NLTK  B  138  14 It_PRP is_VBZ time_NN for_IN boldness_NN ,_COMMA for_IN there_EX is_VBZ so_RB much_JJ to_TO do_VB ._PERIOD
+SENTPOS 2021-Biden.txt NLTK  A  139   29 And this is certain , I promise you : We will be judged , you and I , by how we resolve these cascading crises of our era .
+SENTPOS 2021-Biden.txt NLTK  B  139  29 And_CC this_DT is_VBZ certain_JJ ,_COMMA I_PRP promise_VBP you_PRP :_COLON We_PRP will_MD be_VB judged_VBN ,_COMMA you_PRP and_CC I_PRP ,_COMMA by_IN how_WRB we_PRP resolve_VBP these_DT cascading_VBG crises_NNS of_IN our_PRPDOLLAR era_NN ._PERIOD
+SENTPOS 2021-Biden.txt NLTK  A  140   11 Will we rise to the occasion , is the question .
+SENTPOS 2021-Biden.txt NLTK  B  140  11 Will_MD we_PRP rise_VB to_TO the_DT occasion_NN ,_COMMA is_VBZ the_DT question_NN ._PERIOD
+SENTPOS 2021-Biden.txt NLTK  A  141    9 Will we master this rare and difficult hour ?
+SENTPOS 2021-Biden.txt NLTK  B  141   9 Will_MD we_PRP master_VB this_DT rare_JJ and_CC difficult_JJ hour_NN ?_QUERY
+SENTPOS 2021-Biden.txt NLTK  A  142   17 Will we meet our obligations and pass along a new and better world to our children ?
+SENTPOS 2021-Biden.txt NLTK  B  142  17 Will_MD we_PRP meet_VB our_PRPDOLLAR obligations_NNS and_CC pass_NN along_IN a_DT new_JJ and_CC better_JJR world_NN to_TO our_PRPDOLLAR children_NNS ?_QUERY
+SENTPOS 2021-Biden.txt NLTK  A  143   14 I believe we must ; I ' m sure you do as well .
+SENTPOS 2021-Biden.txt NLTK  B  143  14 I_PRP believe_VBP we_PRP must_MD ;_SEMICOLON I_PRP '_QUOTE m_JJ sure_NN you_PRP do_VBP as_RB well_RB ._PERIOD
+SENTPOS 2021-Biden.txt NLTK  A  144    5 I believe we will .
+SENTPOS 2021-Biden.txt NLTK  B  144   5 I_PRP believe_VBP we_PRP will_MD ._PERIOD
+SENTPOS 2021-Biden.txt NLTK  A  145   42 And when we do , we will write the next great chapter in the history of the United States of America : the American story , a story that might sound something like a song that means a lot to me .
+SENTPOS 2021-Biden.txt NLTK  B  145  42 And_CC when_WRB we_PRP do_VBP ,_COMMA we_PRP will_MD write_VB the_DT next_JJ great_JJ chapter_NN in_IN the_DT history_NN of_IN the_DT United_NNP States_NNPS of_IN America_NNP :_COLON the_DT American_NNP story_NN ,_COMMA a_DT story_NN that_WDT might_MD sound_VB something_NN like_IN a_DT song_NN that_WDT means_VBZ a_DT lot_NN to_TO me_PRP ._PERIOD
+SENTPOS 2021-Biden.txt NLTK  A  146   29 It ' s called " American Anthem ," and there ' s one verse that stands out , at least for me , and it goes like this :
+SENTPOS 2021-Biden.txt NLTK  B  146  29 It_PRP '_QUOTE s_NN called_VBD "_QUOTE American_NNP Anthem_NNP ,"_NNP and_CC there_EX '_QUOTE s_NN one_CD verse_NN that_WDT stands_VBZ out_RP ,_COMMA at_IN least_JJS for_IN me_PRP ,_COMMA and_CC it_PRP goes_VBZ like_IN this_DT :_COLON
+SENTPOS 2021-Biden.txt NLTK  A  147   19 " The work and prayers of centuries have brought us to this day What shall be our legacy ?
+SENTPOS 2021-Biden.txt NLTK  B  147  19 "_QUOTE The_DT work_NN and_CC prayers_NNS of_IN centuries_NNS have_VBP brought_VBN us_PRP to_TO this_DT day_NN What_WP shall_MD be_VB our_PRPDOLLAR legacy_NN ?_QUERY
+SENTPOS 2021-Biden.txt NLTK  A  148    7 What will our children say ? .
+SENTPOS 2021-Biden.txt NLTK  B  148   7 What_WP will_MD our_PRPDOLLAR children_NNS say_VB ?_QUERY ._PERIOD
+SENTPOS 2021-Biden.txt NLTK  A  149   24 . . Let me know in my heart when my days are through America , America , I gave my best to you ."
+SENTPOS 2021-Biden.txt NLTK  B  149  24 ._PERIOD ._PERIOD Let_VB me_PRP know_VB in_IN my_PRPDOLLAR heart_NN when_WRB my_PRPDOLLAR days_NNS are_VBP through_IN America_NNP ,_COMMA America_NNP ,_COMMA I_PRP gave_VBD my_PRPDOLLAR best_JJS to_TO you_PRP ."_VB
+SENTPOS 2021-Biden.txt NLTK  A  150   24 Let ' s add — let ' s us add our own work and prayers to the unfolding story of our great Nation .
+SENTPOS 2021-Biden.txt NLTK  B  150  24 Let_VB '_QUOTE s_JJ add_VBP —_JJ let_NN '_QUOTE s_VB us_PRP add_VB our_PRPDOLLAR own_JJ work_NN and_CC prayers_NNS to_TO the_DT unfolding_JJ story_NN of_IN our_PRPDOLLAR great_JJ Nation_NN ._PERIOD
+SENTPOS 2021-Biden.txt NLTK  A  151   31 If we do this , then when our days are through , our children and our children ' s children will say of us : " They gave their best .
+SENTPOS 2021-Biden.txt NLTK  B  151  31 If_IN we_PRP do_VBP this_DT ,_COMMA then_RB when_WRB our_PRPDOLLAR days_NNS are_VBP through_IN ,_COMMA our_PRPDOLLAR children_NNS and_CC our_PRPDOLLAR children_NNS '_POS s_NN children_NNS will_MD say_VB of_IN us_PRP :_COLON "_QUOTE They_PRP gave_VBD their_PRPDOLLAR best_JJS ._PERIOD
+SENTPOS 2021-Biden.txt NLTK  A  152    5 They did their duty .
+SENTPOS 2021-Biden.txt NLTK  B  152   5 They_PRP did_VBD their_PRPDOLLAR duty_NN ._PERIOD
+SENTPOS 2021-Biden.txt NLTK  A  153    6 They healed a broken land ."
+SENTPOS 2021-Biden.txt NLTK  B  153   6 They_PRP healed_VBD a_DT broken_JJ land_NN ."_NN
+SENTPOS 2021-Biden.txt NLTK  A  154   16 My fellow Americans , I close today where I began , with a sacred oath .
+SENTPOS 2021-Biden.txt NLTK  B  154  16 My_PRPDOLLAR fellow_JJ Americans_NNPS ,_COMMA I_PRP close_VBP today_NN where_WRB I_PRP began_VBD ,_COMMA with_IN a_DT sacred_JJ oath_NN ._PERIOD
+SENTPOS 2021-Biden.txt NLTK  A  155   19 Before God and all of you I give you my word : I will always level with you .
+SENTPOS 2021-Biden.txt NLTK  B  155  19 Before_IN God_NNP and_CC all_DT of_IN you_PRP I_PRP give_VBP you_PRP my_PRPDOLLAR word_NN :_COLON I_PRP will_MD always_RB level_VB with_IN you_PRP ._PERIOD
+SENTPOS 2021-Biden.txt NLTK  A  156    6 I will defend the Constitution .
+SENTPOS 2021-Biden.txt NLTK  B  156   6 I_PRP will_MD defend_VB the_DT Constitution_NNP ._PERIOD
+SENTPOS 2021-Biden.txt NLTK  A  157    6 I will defend our democracy .
+SENTPOS 2021-Biden.txt NLTK  B  157   6 I_PRP will_MD defend_VB our_PRPDOLLAR democracy_NN ._PERIOD
+SENTPOS 2021-Biden.txt NLTK  A  158    5 I will defend America .
+SENTPOS 2021-Biden.txt NLTK  B  158   5 I_PRP will_MD defend_VB America_NNP ._PERIOD
+SENTPOS 2021-Biden.txt NLTK  A  159   41 And I will give all , all of you , keep everything you — I do , in your service , thinking not of power , but of possibilities ; not of personal interest , but of the public good .
+SENTPOS 2021-Biden.txt NLTK  B  159  41 And_CC I_PRP will_MD give_VB all_DT ,_COMMA all_DT of_IN you_PRP ,_COMMA keep_VB everything_NN you_PRP —_VBP I_PRP do_VBP ,_COMMA in_IN your_PRPDOLLAR service_NN ,_COMMA thinking_VBG not_RB of_IN power_NN ,_COMMA but_CC of_IN possibilities_NNS ;_SEMICOLON not_RB of_IN personal_JJ interest_NN ,_COMMA but_CC of_IN the_DT public_JJ good_NN ._PERIOD
+SENTPOS 2021-Biden.txt NLTK  A  160   27 And together , we shall write an American story of hope , not fear ; of unity , not division ; of light , not darkness .
+SENTPOS 2021-Biden.txt NLTK  B  160  27 And_CC together_RB ,_COMMA we_PRP shall_MD write_VB an_DT American_JJ story_NN of_IN hope_NN ,_COMMA not_RB fear_JJ ;_SEMICOLON of_IN unity_NN ,_COMMA not_RB division_NN ;_SEMICOLON of_IN light_NN ,_COMMA not_RB darkness_NN ._PERIOD
+SENTPOS 2021-Biden.txt NLTK  A  161   15 A story of decency and dignity , love and healing , greatness and goodness .
+SENTPOS 2021-Biden.txt NLTK  B  161  15 A_DT story_NN of_IN decency_NN and_CC dignity_NN ,_COMMA love_NN and_CC healing_NN ,_COMMA greatness_NN and_CC goodness_NN ._PERIOD
+SENTPOS 2021-Biden.txt NLTK  A  162   72 May this be the story that guides us , the story that inspires us , and the story that tells ages yet to come that we answered the call of history , we met the moment ; democracy and hope , truth and justice , did not die on our watch , but thrived ; that America secured liberty at home and stood once again as a beacon to the world .
+SENTPOS 2021-Biden.txt NLTK  B  162  72 May_NNP this_DT be_VB the_DT story_NN that_WDT guides_VBZ us_PRP ,_COMMA the_DT story_NN that_WDT inspires_VBZ us_PRP ,_COMMA and_CC the_DT story_NN that_WDT tells_VBZ ages_VBZ yet_RB to_TO come_VB that_IN we_PRP answered_VBD the_DT call_NN of_IN history_NN ,_COMMA we_PRP met_VBD the_DT moment_NN ;_SEMICOLON democracy_NN and_CC hope_NN ,_COMMA truth_NN and_CC justice_NN ,_COMMA did_VBD not_RB die_VB on_IN our_PRPDOLLAR watch_NN ,_COMMA but_CC thrived_VBD ;_SEMICOLON that_IN America_NNP secured_VBD liberty_NN at_IN home_NN and_CC stood_VBD once_RB again_RB as_IN a_DT beacon_NN to_TO the_DT world_NN ._PERIOD
+SENTPOS 2021-Biden.txt NLTK  A  163   16 That is what we owe our forebearers , one another , and generations to follow .
+SENTPOS 2021-Biden.txt NLTK  B  163  16 That_DT is_VBZ what_WP we_PRP owe_VBP our_PRPDOLLAR forebearers_NNS ,_COMMA one_CD another_DT ,_COMMA and_CC generations_NNS to_TO follow_VB ._PERIOD
+SENTPOS 2021-Biden.txt NLTK  A  164   37 So with purpose and resolve we turn to those tasks of our time , sustained by faith , driven by conviction , and devoted to one another and the country we love with all our hearts .
+SENTPOS 2021-Biden.txt NLTK  B  164  37 So_RB with_IN purpose_NN and_CC resolve_NN we_PRP turn_VBP to_TO those_DT tasks_NNS of_IN our_PRPDOLLAR time_NN ,_COMMA sustained_VBN by_IN faith_NN ,_COMMA driven_VBN by_IN conviction_NN ,_COMMA and_CC devoted_VBD to_TO one_CD another_DT and_CC the_DT country_NN we_PRP love_VBP with_IN all_DT our_PRPDOLLAR hearts_NNS ._PERIOD
+SENTPOS 2021-Biden.txt NLTK  A  165   12 May God bless America , and may God protect our troops .
+SENTPOS 2021-Biden.txt NLTK  B  165  12 May_NNP God_NNP bless_NN America_NNP ,_COMMA and_CC may_MD God_VB protect_VB our_PRPDOLLAR troops_NNS ._PERIOD
+SENTPOS 2021-Biden.txt NLTK  A  166    5 Thank you , America .
+SENTPOS 2021-Biden.txt NLTK  B  166   5 Thank_NNP you_PRP ,_COMMA America_NNP ._PERIOD

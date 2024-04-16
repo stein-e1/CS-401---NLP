@@ -1,0 +1,212 @@
+SENTPOS 1969-Nixon.txt NLTK  A    0   33 Senator Dirksen , Mr . Chief Justice , Mr . Vice President , President Johnson , Vice President Humphrey , my fellow Americans -- and my fellow citizens of the world community :
+SENTPOS 1969-Nixon.txt NLTK  B    0  33 Senator_NNP Dirksen_NNP ,_COMMA Mr_NNP ._PERIOD Chief_NNP Justice_NNP ,_COMMA Mr_NNP ._PERIOD Vice_NNP President_NNP ,_COMMA President_NNP Johnson_NNP ,_COMMA Vice_NNP President_NNP Humphrey_NNP ,_COMMA my_PRPDOLLAR fellow_JJ Americans_NNPS --_COLON and_CC my_PRPDOLLAR fellow_JJ citizens_NNS of_IN the_DT world_NN community_NN :_COLON
+SENTPOS 1969-Nixon.txt NLTK  A    1   14 I ask you to share with me today the majesty of this moment .
+SENTPOS 1969-Nixon.txt NLTK  B    1  14 I_PRP ask_VBP you_PRP to_TO share_NN with_IN me_PRP today_NN the_DT majesty_NN of_IN this_DT moment_NN ._PERIOD
+SENTPOS 1969-Nixon.txt NLTK  A    2   16 In the orderly transfer of power , we celebrate the unity that keeps us free .
+SENTPOS 1969-Nixon.txt NLTK  B    2  16 In_IN the_DT orderly_JJ transfer_NN of_IN power_NN ,_COMMA we_PRP celebrate_VBP the_DT unity_NN that_WDT keeps_VBZ us_PRP free_JJ ._PERIOD
+SENTPOS 1969-Nixon.txt NLTK  A    3   13 Each moment in history is a fleeting time , precious and unique .
+SENTPOS 1969-Nixon.txt NLTK  B    3  13 Each_DT moment_NN in_IN history_NN is_VBZ a_DT fleeting_JJ time_NN ,_COMMA precious_JJ and_CC unique_JJ ._PERIOD
+SENTPOS 1969-Nixon.txt NLTK  A    4   20 But some stand out as moments of beginning , in which courses are set that shape decades or centuries .
+SENTPOS 1969-Nixon.txt NLTK  B    4  20 But_CC some_DT stand_VBP out_RP as_IN moments_NNS of_IN beginning_VBG ,_COMMA in_IN which_WDT courses_NNS are_VBP set_VBN that_IN shape_NN decades_NNS or_CC centuries_NNS ._PERIOD
+SENTPOS 1969-Nixon.txt NLTK  A    5    7 This can be such a moment .
+SENTPOS 1969-Nixon.txt NLTK  B    5   7 This_DT can_MD be_VB such_JJ a_DT moment_NN ._PERIOD
+SENTPOS 1969-Nixon.txt NLTK  A    6   29 Forces now are converging that make possible , for the first time , the hope that many of man ' s deepest aspirations can at last be realized .
+SENTPOS 1969-Nixon.txt NLTK  B    6  29 Forces_NNS now_RB are_VBP converging_VBG that_IN make_NN possible_JJ ,_COMMA for_IN the_DT first_JJ time_NN ,_COMMA the_DT hope_NN that_IN many_JJ of_IN man_NN '_QUOTE s_JJ deepest_JJS aspirations_NNS can_MD at_IN last_JJ be_VB realized_VBN ._PERIOD
+SENTPOS 1969-Nixon.txt NLTK  A    7   23 The spiraling pace of change allows us to contemplate , within our own lifetime , advances that once would have taken centuries .
+SENTPOS 1969-Nixon.txt NLTK  B    7  23 The_DT spiraling_VBG pace_NN of_IN change_NN allows_VBZ us_PRP to_TO contemplate_VB ,_COMMA within_IN our_PRPDOLLAR own_JJ lifetime_NN ,_COMMA advances_NNS that_IN once_RB would_MD have_VB taken_VBN centuries_NNS ._PERIOD
+SENTPOS 1969-Nixon.txt NLTK  A    8   16 In throwing wide the horizons of space , we have discovered new horizons on earth .
+SENTPOS 1969-Nixon.txt NLTK  B    8  16 In_IN throwing_VBG wide_JJ the_DT horizons_NNS of_IN space_NN ,_COMMA we_PRP have_VBP discovered_VBN new_JJ horizons_NNS on_IN earth_NN ._PERIOD
+SENTPOS 1969-Nixon.txt NLTK  A    9   34 For the first time , because the people of the world want peace , and the leaders of the world are afraid of war , the times are on the side of peace .
+SENTPOS 1969-Nixon.txt NLTK  B    9  34 For_IN the_DT first_JJ time_NN ,_COMMA because_IN the_DT people_NNS of_IN the_DT world_NN want_VBP peace_NN ,_COMMA and_CC the_DT leaders_NNS of_IN the_DT world_NN are_VBP afraid_JJ of_IN war_NN ,_COMMA the_DT times_NNS are_VBP on_IN the_DT side_NN of_IN peace_NN ._PERIOD
+SENTPOS 1969-Nixon.txt NLTK  A   10   14 Eight years from now America will celebrate its 200th anniversary as a nation .
+SENTPOS 1969-Nixon.txt NLTK  B   10  14 Eight_CD years_NNS from_IN now_RB America_NNP will_MD celebrate_VB its_PRPDOLLAR 200th_JJ anniversary_NN as_IN a_DT nation_NN ._PERIOD
+SENTPOS 1969-Nixon.txt NLTK  A   11   32 Within the lifetime of most people now living , mankind will celebrate that great new year which comes only once in a thousand years -- the beginning of the third millennium .
+SENTPOS 1969-Nixon.txt NLTK  B   11  32 Within_IN the_DT lifetime_NN of_IN most_JJS people_NNS now_RB living_VBG ,_COMMA mankind_NN will_MD celebrate_VB that_IN great_JJ new_JJ year_NN which_WDT comes_VBZ only_RB once_RB in_IN a_DT thousand_CD years_NNS --_COLON the_DT beginning_NN of_IN the_DT third_JJ millennium_NN ._PERIOD
+SENTPOS 1969-Nixon.txt NLTK  A   12   40 What kind of nation we will be , what kind of world we will live in , whether we shape the future in the image of our hopes , is ours to determine by our actions and our choices .
+SENTPOS 1969-Nixon.txt NLTK  B   12  40 What_WP kind_NN of_IN nation_NN we_PRP will_MD be_VB ,_COMMA what_WP kind_NN of_IN world_NN we_PRP will_MD live_VB in_IN ,_COMMA whether_IN we_PRP shape_VBP the_DT future_NN in_IN the_DT image_NN of_IN our_PRPDOLLAR hopes_NNS ,_COMMA is_VBZ ours_VBN to_TO determine_VB by_IN our_PRPDOLLAR actions_NNS and_CC our_PRPDOLLAR choices_NNS ._PERIOD
+SENTPOS 1969-Nixon.txt NLTK  A   13   12 The greatest honor history can bestow is the title of peacemaker .
+SENTPOS 1969-Nixon.txt NLTK  B   13  12 The_DT greatest_JJS honor_JJ history_NN can_MD bestow_VB is_VBZ the_DT title_NN of_IN peacemaker_NN ._PERIOD
+SENTPOS 1969-Nixon.txt NLTK  A   14   40 This honor now beckons America -- the chance to help lead the world at last out of the valley of turmoil , and onto that high ground of peace that man has dreamed of since the dawn of civilization .
+SENTPOS 1969-Nixon.txt NLTK  B   14  40 This_DT honor_NN now_RB beckons_VBZ America_NNP --_COLON the_DT chance_NN to_TO help_VB lead_VB the_DT world_NN at_IN last_JJ out_IN of_IN the_DT valley_NN of_IN turmoil_NN ,_COMMA and_CC onto_IN that_DT high_JJ ground_NN of_IN peace_NN that_IN man_NN has_VBZ dreamed_VBN of_IN since_IN the_DT dawn_NN of_IN civilization_NN ._PERIOD
+SENTPOS 1969-Nixon.txt NLTK  A   15   29 If we succeed , generations to come will say of us now living that we mastered our moment , that we helped make the world safe for mankind .
+SENTPOS 1969-Nixon.txt NLTK  B   15  29 If_IN we_PRP succeed_VB ,_COMMA generations_NNS to_TO come_VB will_MD say_VB of_IN us_PRP now_RB living_VBG that_IN we_PRP mastered_VBD our_PRPDOLLAR moment_NN ,_COMMA that_IN we_PRP helped_VBD make_VB the_DT world_NN safe_NN for_IN mankind_NN ._PERIOD
+SENTPOS 1969-Nixon.txt NLTK  A   16    7 This is our summons to greatness .
+SENTPOS 1969-Nixon.txt NLTK  B   16   7 This_DT is_VBZ our_PRPDOLLAR summons_NNS to_TO greatness_VB ._PERIOD
+SENTPOS 1969-Nixon.txt NLTK  A   17   12 I believe the American people are ready to answer this call .
+SENTPOS 1969-Nixon.txt NLTK  B   17  12 I_PRP believe_VBP the_DT American_JJ people_NNS are_VBP ready_JJ to_TO answer_VB this_DT call_NN ._PERIOD
+SENTPOS 1969-Nixon.txt NLTK  A   18   14 The second third of this century has been a time of proud achievement .
+SENTPOS 1969-Nixon.txt NLTK  B   18  14 The_DT second_JJ third_NN of_IN this_DT century_NN has_VBZ been_VBN a_DT time_NN of_IN proud_JJ achievement_NN ._PERIOD
+SENTPOS 1969-Nixon.txt NLTK  A   19   12 We have made enormous strides in science and industry and agriculture .
+SENTPOS 1969-Nixon.txt NLTK  B   19  12 We_PRP have_VBP made_VBN enormous_JJ strides_NNS in_IN science_NN and_CC industry_NN and_CC agriculture_NN ._PERIOD
+SENTPOS 1969-Nixon.txt NLTK  A   20   10 We have shared our wealth more broadly than ever .
+SENTPOS 1969-Nixon.txt NLTK  B   20  10 We_PRP have_VBP shared_VBN our_PRPDOLLAR wealth_NN more_RBR broadly_RB than_IN ever_RB ._PERIOD
+SENTPOS 1969-Nixon.txt NLTK  A   21   16 We have learned at last to manage a modern economy to assure its continued growth .
+SENTPOS 1969-Nixon.txt NLTK  B   21  16 We_PRP have_VBP learned_VBN at_IN last_JJ to_TO manage_VB a_DT modern_JJ economy_NN to_TO assure_VB its_PRPDOLLAR continued_JJ growth_NN ._PERIOD
+SENTPOS 1969-Nixon.txt NLTK  A   22   24 We have given freedom new reach , and we have begun to make its promise real for black as well as for white .
+SENTPOS 1969-Nixon.txt NLTK  B   22  24 We_PRP have_VBP given_VBN freedom_RP new_JJ reach_NN ,_COMMA and_CC we_PRP have_VBP begun_VBN to_TO make_VB its_PRPDOLLAR promise_NN real_JJ for_IN black_JJ as_RB well_RB as_IN for_IN white_JJ ._PERIOD
+SENTPOS 1969-Nixon.txt NLTK  A   23   12 We see the hope of tomorrow in the youth of today .
+SENTPOS 1969-Nixon.txt NLTK  B   23  12 We_PRP see_VBP the_DT hope_NN of_IN tomorrow_NN in_IN the_DT youth_NN of_IN today_NN ._PERIOD
+SENTPOS 1969-Nixon.txt NLTK  A   24    7 I know America ' s youth .
+SENTPOS 1969-Nixon.txt NLTK  B   24   7 I_PRP know_VBP America_NNP '_POS s_NN youth_NN ._PERIOD
+SENTPOS 1969-Nixon.txt NLTK  A   25    5 I believe in them .
+SENTPOS 1969-Nixon.txt NLTK  B   25   5 I_PRP believe_VBP in_IN them_PRP ._PERIOD
+SENTPOS 1969-Nixon.txt NLTK  A   26   25 We can be proud that they are better educated , more committed , more passionately driven by conscience than any generation in our history .
+SENTPOS 1969-Nixon.txt NLTK  B   26  25 We_PRP can_MD be_VB proud_JJ that_IN they_PRP are_VBP better_RB educated_VBN ,_COMMA more_RBR committed_JJ ,_COMMA more_RBR passionately_RB driven_VBN by_IN conscience_NN than_IN any_DT generation_NN in_IN our_PRPDOLLAR history_NN ._PERIOD
+SENTPOS 1969-Nixon.txt NLTK  A   27   27 No people has ever been so close to the achievement of a just and abundant society , or so possessed of the will to achieve it .
+SENTPOS 1969-Nixon.txt NLTK  B   27  27 No_DT people_NNS has_VBZ ever_RB been_VBN so_RB close_RB to_TO the_DT achievement_NN of_IN a_DT just_RB and_CC abundant_JJ society_NN ,_COMMA or_CC so_RB possessed_JJ of_IN the_DT will_MD to_TO achieve_VB it_PRP ._PERIOD
+SENTPOS 1969-Nixon.txt NLTK  A   28   23 Because our strengths are so great , we can afford to appraise our weaknesses with candor and to approach them with hope .
+SENTPOS 1969-Nixon.txt NLTK  B   28  23 Because_IN our_PRPDOLLAR strengths_NNS are_VBP so_RB great_JJ ,_COMMA we_PRP can_MD afford_VB to_TO appraise_VB our_PRPDOLLAR weaknesses_NNS with_IN candor_NN and_CC to_TO approach_VB them_PRP with_IN hope_NN ._PERIOD
+SENTPOS 1969-Nixon.txt NLTK  A   29   26 Standing in this same place a third of a century ago , Franklin Delano Roosevelt addressed a Nation ravaged by depression and gripped in fear .
+SENTPOS 1969-Nixon.txt NLTK  B   29  26 Standing_VBG in_IN this_DT same_JJ place_NN a_DT third_NN of_IN a_DT century_NN ago_RB ,_COMMA Franklin_NNP Delano_NNP Roosevelt_NNP addressed_VBD a_DT Nation_NN ravaged_VBN by_IN depression_NN and_CC gripped_VBD in_IN fear_NN ._PERIOD
+SENTPOS 1969-Nixon.txt NLTK  A   30   22 He could say in surveying the Nation ' s troubles : " They concern , thank God , only material things ."
+SENTPOS 1969-Nixon.txt NLTK  B   30  22 He_PRP could_MD say_VB in_IN surveying_VBG the_DT Nation_NNP '_POS s_NN troubles_NNS :_COLON "_QUOTE They_PRP concern_NN ,_COMMA thank_NN God_NNP ,_COMMA only_RB material_JJ things_NNS ."_VBP
+SENTPOS 1969-Nixon.txt NLTK  A   31    7 Our crisis today is the reverse .
+SENTPOS 1969-Nixon.txt NLTK  B   31   7 Our_PRPDOLLAR crisis_NN today_NN is_VBZ the_DT reverse_NN ._PERIOD
+SENTPOS 1969-Nixon.txt NLTK  A   32   29 We have found ourselves rich in goods , but ragged in spirit ; reaching with magnificent precision for the moon , but falling into raucous discord on earth .
+SENTPOS 1969-Nixon.txt NLTK  B   32  29 We_PRP have_VBP found_VBN ourselves_PRP rich_JJ in_IN goods_NNS ,_COMMA but_CC ragged_VBD in_IN spirit_NN ;_SEMICOLON reaching_VBG with_IN magnificent_JJ precision_NN for_IN the_DT moon_NN ,_COMMA but_CC falling_VBG into_IN raucous_JJ discord_NN on_IN earth_NN ._PERIOD
+SENTPOS 1969-Nixon.txt NLTK  A   33    9 We are caught in war , wanting peace .
+SENTPOS 1969-Nixon.txt NLTK  B   33   9 We_PRP are_VBP caught_VBN in_IN war_NN ,_COMMA wanting_VBG peace_NN ._PERIOD
+SENTPOS 1969-Nixon.txt NLTK  A   34    9 We are torn by division , wanting unity .
+SENTPOS 1969-Nixon.txt NLTK  B   34   9 We_PRP are_VBP torn_VBN by_IN division_NN ,_COMMA wanting_VBG unity_NN ._PERIOD
+SENTPOS 1969-Nixon.txt NLTK  A   35   10 We see around us empty lives , wanting fulfillment .
+SENTPOS 1969-Nixon.txt NLTK  B   35  10 We_PRP see_VBP around_IN us_PRP empty_VBP lives_NNS ,_COMMA wanting_VBG fulfillment_NN ._PERIOD
+SENTPOS 1969-Nixon.txt NLTK  A   36   14 We see tasks that need doing , waiting for hands to do them .
+SENTPOS 1969-Nixon.txt NLTK  B   36  14 We_PRP see_VBP tasks_NNS that_WDT need_VBP doing_VBG ,_COMMA waiting_VBG for_IN hands_NNS to_TO do_VB them_PRP ._PERIOD
+SENTPOS 1969-Nixon.txt NLTK  A   37   15 To a crisis of the spirit , we need an answer of the spirit .
+SENTPOS 1969-Nixon.txt NLTK  B   37  15 To_TO a_DT crisis_NN of_IN the_DT spirit_NN ,_COMMA we_PRP need_VBP an_DT answer_NN of_IN the_DT spirit_NN ._PERIOD
+SENTPOS 1969-Nixon.txt NLTK  A   38   12 To find that answer , we need only look within ourselves .
+SENTPOS 1969-Nixon.txt NLTK  B   38  12 To_TO find_VB that_DT answer_NN ,_COMMA we_PRP need_VBP only_RB look_VB within_IN ourselves_PRP ._PERIOD
+SENTPOS 1969-Nixon.txt NLTK  A   39   35 When we listen to " the better angels of our nature ," we find that they celebrate the simple things , the basic things -- such as goodness , decency , love , kindness .
+SENTPOS 1969-Nixon.txt NLTK  B   39  35 When_WRB we_PRP listen_VBP to_TO "_QUOTE the_DT better_JJR angels_NNS of_IN our_PRPDOLLAR nature_NN ,"_IN we_PRP find_VBP that_IN they_PRP celebrate_VBP the_DT simple_JJ things_NNS ,_COMMA the_DT basic_JJ things_NNS --_COLON such_JJ as_IN goodness_NN ,_COMMA decency_NN ,_COMMA love_NN ,_COMMA kindness_NN ._PERIOD
+SENTPOS 1969-Nixon.txt NLTK  A   40    6 Greatness comes in simple trappings .
+SENTPOS 1969-Nixon.txt NLTK  B   40   6 Greatness_NNP comes_VBZ in_IN simple_JJ trappings_NNS ._PERIOD
+SENTPOS 1969-Nixon.txt NLTK  A   41   24 The simple things are the ones most needed today if we are to surmount what divides us , and cement what unites us .
+SENTPOS 1969-Nixon.txt NLTK  B   41  24 The_DT simple_JJ things_NNS are_VBP the_DT ones_NNS most_RBS needed_VBN today_NN if_IN we_PRP are_VBP to_TO surmount_VB what_WP divides_VBZ us_PRP ,_COMMA and_CC cement_NN what_WP unites_VBZ us_PRP ._PERIOD
+SENTPOS 1969-Nixon.txt NLTK  A   42   10 To lower our voices would be a simple thing .
+SENTPOS 1969-Nixon.txt NLTK  B   42  10 To_TO lower_VB our_PRPDOLLAR voices_NNS would_MD be_VB a_DT simple_JJ thing_NN ._PERIOD
+SENTPOS 1969-Nixon.txt NLTK  A   43   43 In these difficult years , America has suffered from a fever of words ; from inflated rhetoric that promises more than it can deliver ; from angry rhetoric that fans discontents into hatreds ; from bombastic rhetoric that postures instead of persuading .
+SENTPOS 1969-Nixon.txt NLTK  B   43  43 In_IN these_DT difficult_JJ years_NNS ,_COMMA America_NNP has_VBZ suffered_VBN from_IN a_DT fever_NN of_IN words_NNS ;_SEMICOLON from_IN inflated_VBN rhetoric_NN that_WDT promises_VBZ more_JJR than_IN it_PRP can_MD deliver_VB ;_SEMICOLON from_IN angry_JJ rhetoric_NN that_WDT fans_VBZ discontents_NNS into_IN hatreds_NNS ;_SEMICOLON from_IN bombastic_JJ rhetoric_NN that_WDT postures_VBZ instead_RB of_IN persuading_VBG ._PERIOD
+SENTPOS 1969-Nixon.txt NLTK  A   44   32 We cannot learn from one another until we stop shouting at one another -- until we speak quietly enough so that our words can be heard as well as our voices .
+SENTPOS 1969-Nixon.txt NLTK  B   44  32 We_PRP cannot_VBP learn_RB from_IN one_CD another_DT until_IN we_PRP stop_VBP shouting_VBG at_IN one_CD another_DT --_COLON until_IN we_PRP speak_VBP quietly_RB enough_RB so_IN that_IN our_PRPDOLLAR words_NNS can_MD be_VB heard_VBN as_RB well_RB as_IN our_PRPDOLLAR voices_NNS ._PERIOD
+SENTPOS 1969-Nixon.txt NLTK  A   45    8 For its part , government will listen .
+SENTPOS 1969-Nixon.txt NLTK  B   45   8 For_IN its_PRPDOLLAR part_NN ,_COMMA government_NN will_MD listen_VB ._PERIOD
+SENTPOS 1969-Nixon.txt NLTK  A   46   47 We will strive to listen in new ways -- to the voices of quiet anguish , the voices that speak without words , the voices of the heart -- to the injured voices , the anxious voices , the voices that have despaired of being heard .
+SENTPOS 1969-Nixon.txt NLTK  B   46  47 We_PRP will_MD strive_VB to_TO listen_VB in_IN new_JJ ways_NNS --_COLON to_TO the_DT voices_NNS of_IN quiet_JJ anguish_JJ ,_COMMA the_DT voices_NNS that_WDT speak_VBP without_IN words_NNS ,_COMMA the_DT voices_NNS of_IN the_DT heart_NN --_COLON to_TO the_DT injured_JJ voices_NNS ,_COMMA the_DT anxious_JJ voices_NNS ,_COMMA the_DT voices_NNS that_WDT have_VBP despaired_VBN of_IN being_VBG heard_VBN ._PERIOD
+SENTPOS 1969-Nixon.txt NLTK  A   47   14 Those who have been left out , we will try to bring in .
+SENTPOS 1969-Nixon.txt NLTK  B   47  14 Those_DT who_WP have_VBP been_VBN left_VBN out_RP ,_COMMA we_PRP will_MD try_VB to_TO bring_VB in_IN ._PERIOD
+SENTPOS 1969-Nixon.txt NLTK  A   48   11 Those left behind , we will help to catch up .
+SENTPOS 1969-Nixon.txt NLTK  B   48  11 Those_DT left_VBD behind_RP ,_COMMA we_PRP will_MD help_VB to_TO catch_VB up_RP ._PERIOD
+SENTPOS 1969-Nixon.txt NLTK  A   49   24 For all of our people , we will set as our goal the decent order that makes progress possible and our lives secure .
+SENTPOS 1969-Nixon.txt NLTK  B   49  24 For_IN all_DT of_IN our_PRPDOLLAR people_NNS ,_COMMA we_PRP will_MD set_VB as_IN our_PRPDOLLAR goal_NN the_DT decent_JJ order_NN that_WDT makes_VBZ progress_NN possible_JJ and_CC our_PRPDOLLAR lives_NNS secure_NN ._PERIOD
+SENTPOS 1969-Nixon.txt NLTK  A   50   31 As we reach toward our hopes , our task is to build on what has gone before -- not turning away from the old , but turning toward the new .
+SENTPOS 1969-Nixon.txt NLTK  B   50  31 As_IN we_PRP reach_VBP toward_IN our_PRPDOLLAR hopes_NNS ,_COMMA our_PRPDOLLAR task_NN is_VBZ to_TO build_VB on_IN what_WDT has_VBZ gone_VBN before_RB --_COLON not_RB turning_VBG away_RB from_IN the_DT old_JJ ,_COMMA but_CC turning_VBG toward_IN the_DT new_JJ ._PERIOD
+SENTPOS 1969-Nixon.txt NLTK  A   51   29 In this past third of a century , government has passed more laws , spent more money , initiated more programs , than in all our previous history .
+SENTPOS 1969-Nixon.txt NLTK  B   51  29 In_IN this_DT past_JJ third_NN of_IN a_DT century_NN ,_COMMA government_NN has_VBZ passed_VBN more_JJR laws_NNS ,_COMMA spent_VBD more_JJR money_NN ,_COMMA initiated_VBN more_RBR programs_NNS ,_COMMA than_IN in_IN all_DT our_PRPDOLLAR previous_JJ history_NN ._PERIOD
+SENTPOS 1969-Nixon.txt NLTK  A   52   50 In pursuing our goals of full employment , better housing , excellence in education ; in rebuilding our cities and improving our rural areas ; in protecting our environment and enhancing the quality of life -- in all these and more , we will and must pres urgently forward .
+SENTPOS 1969-Nixon.txt NLTK  B   52  50 In_IN pursuing_VBG our_PRPDOLLAR goals_NNS of_IN full_JJ employment_NN ,_COMMA better_JJR housing_NN ,_COMMA excellence_NN in_IN education_NN ;_SEMICOLON in_IN rebuilding_VBG our_PRPDOLLAR cities_NNS and_CC improving_VBG our_PRPDOLLAR rural_JJ areas_NNS ;_SEMICOLON in_IN protecting_VBG our_PRPDOLLAR environment_NN and_CC enhancing_VBG the_DT quality_NN of_IN life_NN --_COLON in_IN all_DT these_DT and_CC more_JJR ,_COMMA we_PRP will_MD and_CC must_MD pres_NNS urgently_RB forward_RB ._PERIOD
+SENTPOS 1969-Nixon.txt NLTK  A   53   29 We shall plan now for the day when our wealth can be transferred from the destruction of war abroad to the urgent needs of our people at home .
+SENTPOS 1969-Nixon.txt NLTK  B   53  29 We_PRP shall_MD plan_VB now_RB for_IN the_DT day_NN when_WRB our_PRPDOLLAR wealth_NN can_MD be_VB transferred_VBN from_IN the_DT destruction_NN of_IN war_NN abroad_RB to_TO the_DT urgent_JJ needs_NNS of_IN our_PRPDOLLAR people_NNS at_IN home_NN ._PERIOD
+SENTPOS 1969-Nixon.txt NLTK  A   54   12 The American dream does not come to those who fall asleep .
+SENTPOS 1969-Nixon.txt NLTK  B   54  12 The_DT American_JJ dream_NN does_VBZ not_RB come_VBN to_TO those_DT who_WP fall_VBP asleep_RB ._PERIOD
+SENTPOS 1969-Nixon.txt NLTK  A   55   13 But we are approaching the limits of what government alone can do .
+SENTPOS 1969-Nixon.txt NLTK  B   55  13 But_CC we_PRP are_VBP approaching_VBG the_DT limits_NNS of_IN what_WP government_NN alone_RB can_MD do_VB ._PERIOD
+SENTPOS 1969-Nixon.txt NLTK  A   56   22 Our greatest need now is to reach beyond government , and to enlist the legions of the concerned and the committed .
+SENTPOS 1969-Nixon.txt NLTK  B   56  22 Our_PRPDOLLAR greatest_JJS need_NN now_RB is_VBZ to_TO reach_VB beyond_IN government_NN ,_COMMA and_CC to_TO enlist_VB the_DT legions_NNS of_IN the_DT concerned_JJ and_CC the_DT committed_VBN ._PERIOD
+SENTPOS 1969-Nixon.txt NLTK  A   57   24 What has to be done , has to be done by government and people together or it will not be done at all .
+SENTPOS 1969-Nixon.txt NLTK  B   57  24 What_WP has_VBZ to_TO be_VB done_VBN ,_COMMA has_VBZ to_TO be_VB done_VBN by_IN government_NN and_CC people_NNS together_RB or_CC it_PRP will_MD not_RB be_VB done_VBN at_IN all_DT ._PERIOD
+SENTPOS 1969-Nixon.txt NLTK  A   58   23 The lesson of past agony is that without the people we can do nothing ; with the people we can do everything .
+SENTPOS 1969-Nixon.txt NLTK  B   58  23 The_DT lesson_NN of_IN past_JJ agony_NN is_VBZ that_IN without_IN the_DT people_NNS we_PRP can_MD do_VB nothing_NN ;_SEMICOLON with_IN the_DT people_NNS we_PRP can_MD do_VB everything_NN ._PERIOD
+SENTPOS 1969-Nixon.txt NLTK  A   59   45 To match the magnitude of our tasks , we need the energies of our people -- enlisted not only in grand enterprises , but more importantly in those small , splendid efforts that make headlines in the neighborhood newspaper instead of the national journal .
+SENTPOS 1969-Nixon.txt NLTK  B   59  45 To_TO match_VB the_DT magnitude_NN of_IN our_PRPDOLLAR tasks_NNS ,_COMMA we_PRP need_VBP the_DT energies_NNS of_IN our_PRPDOLLAR people_NNS --_COLON enlisted_VBD not_RB only_RB in_IN grand_JJ enterprises_NNS ,_COMMA but_CC more_RBR importantly_RB in_IN those_DT small_JJ ,_COMMA splendid_JJ efforts_NNS that_WDT make_VBP headlines_NNS in_IN the_DT neighborhood_NN newspaper_NN instead_RB of_IN the_DT national_JJ journal_NN ._PERIOD
+SENTPOS 1969-Nixon.txt NLTK  A   60   38 With these , we can build a great cathedral of the spirit -- each of us raising it one stone at a time , as he reaches out to his neighbor , helping , caring , doing .
+SENTPOS 1969-Nixon.txt NLTK  B   60  38 With_IN these_DT ,_COMMA we_PRP can_MD build_VB a_DT great_JJ cathedral_NN of_IN the_DT spirit_NN --_COLON each_DT of_IN us_PRP raising_VBG it_PRP one_CD stone_NN at_IN a_DT time_NN ,_COMMA as_IN he_PRP reaches_VBZ out_RP to_TO his_PRPDOLLAR neighbor_NN ,_COMMA helping_VBG ,_COMMA caring_VBG ,_COMMA doing_VBG ._PERIOD
+SENTPOS 1969-Nixon.txt NLTK  A   61   10 I do not offer a life of uninspiring ease .
+SENTPOS 1969-Nixon.txt NLTK  B   61  10 I_PRP do_VBP not_RB offer_VB a_DT life_NN of_IN uninspiring_JJ ease_NN ._PERIOD
+SENTPOS 1969-Nixon.txt NLTK  A   62   11 I do not call for a life of grim sacrifice .
+SENTPOS 1969-Nixon.txt NLTK  B   62  11 I_PRP do_VBP not_RB call_VB for_IN a_DT life_NN of_IN grim_JJ sacrifice_NN ._PERIOD
+SENTPOS 1969-Nixon.txt NLTK  A   63   27 I ask you to join in a high adventure -- one as rich as humanity itself , and as exciting as the times we live in .
+SENTPOS 1969-Nixon.txt NLTK  B   63  27 I_PRP ask_VBP you_PRP to_TO join_VB in_IN a_DT high_JJ adventure_NN --_COLON one_CD as_RB rich_JJ as_IN humanity_NN itself_PRP ,_COMMA and_CC as_RB exciting_JJ as_IN the_DT times_NNS we_PRP live_VBP in_IN ._PERIOD
+SENTPOS 1969-Nixon.txt NLTK  A   64   18 The essence of freedom is that each of us shares in the shaping of his own destiny .
+SENTPOS 1969-Nixon.txt NLTK  B   64  18 The_DT essence_NN of_IN freedom_NN is_VBZ that_IN each_DT of_IN us_PRP shares_NNS in_IN the_DT shaping_NN of_IN his_PRPDOLLAR own_JJ destiny_NN ._PERIOD
+SENTPOS 1969-Nixon.txt NLTK  A   65   18 Until he has been part of a cause larger than himself , no man is truly whole .
+SENTPOS 1969-Nixon.txt NLTK  B   65  18 Until_IN he_PRP has_VBZ been_VBN part_NN of_IN a_DT cause_NN larger_JJR than_IN himself_PRP ,_COMMA no_DT man_NN is_VBZ truly_JJ whole_JJ ._PERIOD
+SENTPOS 1969-Nixon.txt NLTK  A   66   23 The way to fulfillment is in the use of our talents ; we achieve nobility in the spirit that inspires that use .
+SENTPOS 1969-Nixon.txt NLTK  B   66  23 The_DT way_NN to_TO fulfillment_NN is_VBZ in_IN the_DT use_NN of_IN our_PRPDOLLAR talents_NNS ;_SEMICOLON we_PRP achieve_VBP nobility_NN in_IN the_DT spirit_NN that_WDT inspires_VBZ that_IN use_NN ._PERIOD
+SENTPOS 1969-Nixon.txt NLTK  A   67   33 As we measure what can be done , we shall promise only what we know we can produce , but as we chart our goals we shall be lifted by our dreams .
+SENTPOS 1969-Nixon.txt NLTK  B   67  33 As_IN we_PRP measure_VBP what_WP can_MD be_VB done_VBN ,_COMMA we_PRP shall_MD promise_VB only_RB what_WP we_PRP know_VBP we_PRP can_MD produce_VB ,_COMMA but_CC as_IN we_PRP chart_VBP our_PRPDOLLAR goals_NNS we_PRP shall_MD be_VB lifted_VBN by_IN our_PRPDOLLAR dreams_NNS ._PERIOD
+SENTPOS 1969-Nixon.txt NLTK  A   68   12 No man can be fully free while his neighbor is not .
+SENTPOS 1969-Nixon.txt NLTK  B   68  12 No_DT man_NN can_MD be_VB fully_RB free_JJ while_IN his_PRPDOLLAR neighbor_NN is_VBZ not_RB ._PERIOD
+SENTPOS 1969-Nixon.txt NLTK  A   69   11 To go forward at all is to go forward together .
+SENTPOS 1969-Nixon.txt NLTK  B   69  11 To_TO go_VB forward_RB at_IN all_DT is_VBZ to_TO go_VB forward_RB together_RB ._PERIOD
+SENTPOS 1969-Nixon.txt NLTK  A   70   14 This means black and white together , as one nation , not two .
+SENTPOS 1969-Nixon.txt NLTK  B   70  14 This_DT means_VBZ black_JJ and_CC white_JJ together_RB ,_COMMA as_IN one_CD nation_NN ,_COMMA not_RB two_CD ._PERIOD
+SENTPOS 1969-Nixon.txt NLTK  A   71    9 The laws have caught up with our conscience .
+SENTPOS 1969-Nixon.txt NLTK  B   71   9 The_DT laws_NNS have_VBP caught_VBN up_RP with_IN our_PRPDOLLAR conscience_NN ._PERIOD
+SENTPOS 1969-Nixon.txt NLTK  A   72   37 What remains is to give life to what is in the law : to ensure at last that as all are born equal in dignity before God , all are born equal in dignity before man .
+SENTPOS 1969-Nixon.txt NLTK  B   72  37 What_WP remains_VBZ is_VBZ to_TO give_VB life_NN to_TO what_WP is_VBZ in_IN the_DT law_NN :_COLON to_TO ensure_VB at_IN last_JJ that_IN as_IN all_DT are_VBP born_VBN equal_JJ in_IN dignity_NN before_IN God_NNP ,_COMMA all_DT are_VBP born_VBN equal_JJ in_IN dignity_NN before_IN man_NN ._PERIOD
+SENTPOS 1969-Nixon.txt NLTK  A   73   22 As we learn to go forward together at home , let us also seek to go forward together with all mankind .
+SENTPOS 1969-Nixon.txt NLTK  B   73  22 As_IN we_PRP learn_VBP to_TO go_VB forward_RB together_RB at_IN home_NN ,_COMMA let_VB us_PRP also_RB seek_VBP to_TO go_VB forward_RB together_RB with_IN all_DT mankind_NN ._PERIOD
+SENTPOS 1969-Nixon.txt NLTK  A   74   34 Let us take as our goal : where peace is unknown , make it welcome ; where peace is fragile , make it strong ; where peace is temporary , make it permanent .
+SENTPOS 1969-Nixon.txt NLTK  B   74  34 Let_VB us_PRP take_VB as_IN our_PRPDOLLAR goal_NN :_COLON where_WRB peace_NN is_VBZ unknown_JJ ,_COMMA make_VB it_PRP welcome_VB ;_SEMICOLON where_WRB peace_NN is_VBZ fragile_JJ ,_COMMA make_VB it_PRP strong_JJ ;_SEMICOLON where_WRB peace_NN is_VBZ temporary_JJ ,_COMMA make_VB it_PRP permanent_JJ ._PERIOD
+SENTPOS 1969-Nixon.txt NLTK  A   75   14 After a period of confrontation , we are entering an era of negotiation .
+SENTPOS 1969-Nixon.txt NLTK  B   75  14 After_IN a_DT period_NN of_IN confrontation_NN ,_COMMA we_PRP are_VBP entering_VBG an_DT era_NN of_IN negotiation_NN ._PERIOD
+SENTPOS 1969-Nixon.txt NLTK  A   76   16 Let all nations know that during this administration our lines of communication will be open .
+SENTPOS 1969-Nixon.txt NLTK  B   76  16 Let_VB all_DT nations_NNS know_VBP that_IN during_IN this_DT administration_NN our_PRPDOLLAR lines_NNS of_IN communication_NN will_MD be_VB open_JJ ._PERIOD
+SENTPOS 1969-Nixon.txt NLTK  A   77   36 We seek an open world -- open to ideas , open to the exchange of goods and people -- a world in which no people , great or small , will live in angry isolation .
+SENTPOS 1969-Nixon.txt NLTK  B   77  36 We_PRP seek_VBP an_DT open_JJ world_NN --_COLON open_JJ to_TO ideas_NNS ,_COMMA open_JJ to_TO the_DT exchange_NN of_IN goods_NNS and_CC people_NNS --_COLON a_DT world_NN in_IN which_WDT no_DT people_NNS ,_COMMA great_JJ or_CC small_JJ ,_COMMA will_MD live_VB in_IN angry_JJ isolation_NN ._PERIOD
+SENTPOS 1969-Nixon.txt NLTK  A   78   20 We cannot expect to make everyone our friend , but we can try to make no one our enemy .
+SENTPOS 1969-Nixon.txt NLTK  B   78  20 We_PRP cannot_VBP expect_VB to_TO make_VB everyone_NN our_PRPDOLLAR friend_NN ,_COMMA but_CC we_PRP can_MD try_VB to_TO make_VB no_DT one_CD our_PRPDOLLAR enemy_NN ._PERIOD
+SENTPOS 1969-Nixon.txt NLTK  A   79   30 Those who would be our adversaries , we invite to a peaceful competition -- not in conquering territory or extending dominion , but in enriching the life of man .
+SENTPOS 1969-Nixon.txt NLTK  B   79  30 Those_DT who_WP would_MD be_VB our_PRPDOLLAR adversaries_NNS ,_COMMA we_PRP invite_VBP to_TO a_DT peaceful_JJ competition_NN --_COLON not_RB in_IN conquering_VBG territory_NN or_CC extending_VBG dominion_NN ,_COMMA but_CC in_IN enriching_VBG the_DT life_NN of_IN man_NN ._PERIOD
+SENTPOS 1969-Nixon.txt NLTK  A   80   34 As we explore the reaches of space , let us go to the new worlds together -- not as new worlds to be conquered , but as a new adventure to be shared .
+SENTPOS 1969-Nixon.txt NLTK  B   80  34 As_IN we_PRP explore_VBP the_DT reaches_NNS of_IN space_NN ,_COMMA let_VB us_PRP go_VB to_TO the_DT new_JJ worlds_NNS together_RB --_COLON not_RB as_IN new_JJ worlds_NNS to_TO be_VB conquered_VBN ,_COMMA but_CC as_IN a_DT new_JJ adventure_NN to_TO be_VB shared_VBN ._PERIOD
+SENTPOS 1969-Nixon.txt NLTK  A   81   34 With those who are willing to join , let us cooperate to reduce the burden of arms , to strengthen the structure of peace , to lift up the poor and the hungry .
+SENTPOS 1969-Nixon.txt NLTK  B   81  34 With_IN those_DT who_WP are_VBP willing_JJ to_TO join_VB ,_COMMA let_VB us_PRP cooperate_VB to_TO reduce_VB the_DT burden_NN of_IN arms_NNS ,_COMMA to_TO strengthen_VB the_DT structure_NN of_IN peace_NN ,_COMMA to_TO lift_VB up_RP the_DT poor_JJ and_CC the_DT hungry_NN ._PERIOD
+SENTPOS 1969-Nixon.txt NLTK  A   82   36 But to all those who would be tempted by weakness , let us leave no doubt that we will be as strong as we need to be for as long as we need to be .
+SENTPOS 1969-Nixon.txt NLTK  B   82  36 But_CC to_TO all_PDT those_DT who_WP would_MD be_VB tempted_VBN by_IN weakness_NN ,_COMMA let_VB us_PRP leave_VB no_DT doubt_NN that_IN we_PRP will_MD be_VB as_RB strong_JJ as_IN we_PRP need_VBP to_TO be_VB for_IN as_RB long_RB as_IN we_PRP need_VBP to_TO be_VB ._PERIOD
+SENTPOS 1969-Nixon.txt NLTK  A   83   29 Over the past twenty years , since I first came to this Capital as a freshman Congressman , I have visited most of the nations of the world .
+SENTPOS 1969-Nixon.txt NLTK  B   83  29 Over_IN the_DT past_JJ twenty_NN years_NNS ,_COMMA since_IN I_PRP first_RB came_VBD to_TO this_DT Capital_NN as_IN a_DT freshman_JJ Congressman_NNP ,_COMMA I_PRP have_VBP visited_VBN most_JJS of_IN the_DT nations_NNS of_IN the_DT world_NN ._PERIOD
+SENTPOS 1969-Nixon.txt NLTK  A   84   26 I have come to know the leaders of the world , and the great forces , the hatreds , the fears that divide the world .
+SENTPOS 1969-Nixon.txt NLTK  B   84  26 I_PRP have_VBP come_VBN to_TO know_VB the_DT leaders_NNS of_IN the_DT world_NN ,_COMMA and_CC the_DT great_JJ forces_NNS ,_COMMA the_DT hatreds_NNS ,_COMMA the_DT fears_NNS that_WDT divide_VBP the_DT world_NN ._PERIOD
+SENTPOS 1969-Nixon.txt NLTK  A   85   28 I know that peace does not come through wishing for it -- that there is no substitute for days and even years of patient and prolonged diplomacy .
+SENTPOS 1969-Nixon.txt NLTK  B   85  28 I_PRP know_VBP that_DT peace_NN does_VBZ not_RB come_VBN through_IN wishing_VBG for_IN it_PRP --_COLON that_IN there_EX is_VBZ no_DT substitute_NN for_IN days_NNS and_CC even_RB years_NNS of_IN patient_NN and_CC prolonged_JJ diplomacy_NN ._PERIOD
+SENTPOS 1969-Nixon.txt NLTK  A   86    9 I also know the people of the world .
+SENTPOS 1969-Nixon.txt NLTK  B   86   9 I_PRP also_RB know_VBP the_DT people_NNS of_IN the_DT world_NN ._PERIOD
+SENTPOS 1969-Nixon.txt NLTK  A   87   30 I have seen the hunger of a homeless child , the pain of a man wounded in battle , the grief of a mother who has lost her son .
+SENTPOS 1969-Nixon.txt NLTK  B   87  30 I_PRP have_VBP seen_VBN the_DT hunger_NN of_IN a_DT homeless_NN child_NN ,_COMMA the_DT pain_NN of_IN a_DT man_NN wounded_VBN in_IN battle_NN ,_COMMA the_DT grief_NN of_IN a_DT mother_NN who_WP has_VBZ lost_VBN her_PRPDOLLAR son_NN ._PERIOD
+SENTPOS 1969-Nixon.txt NLTK  A   88   10 I know these have no ideology , no race .
+SENTPOS 1969-Nixon.txt NLTK  B   88  10 I_PRP know_VBP these_DT have_VBP no_DT ideology_NN ,_COMMA no_DT race_NN ._PERIOD
+SENTPOS 1969-Nixon.txt NLTK  A   89    4 I know America .
+SENTPOS 1969-Nixon.txt NLTK  B   89   4 I_PRP know_VBP America_NNP ._PERIOD
+SENTPOS 1969-Nixon.txt NLTK  A   90    9 I know the heart of America is good .
+SENTPOS 1969-Nixon.txt NLTK  B   90   9 I_PRP know_VBP the_DT heart_NN of_IN America_NNP is_VBZ good_JJ ._PERIOD
+SENTPOS 1969-Nixon.txt NLTK  A   91   29 I speak from my own heart , and the heart of my country , the deep concern we have for those who suffer , and those who sorrow .
+SENTPOS 1969-Nixon.txt NLTK  B   91  29 I_PRP speak_VBP from_IN my_PRPDOLLAR own_JJ heart_NN ,_COMMA and_CC the_DT heart_NN of_IN my_PRPDOLLAR country_NN ,_COMMA the_DT deep_JJ concern_NN we_PRP have_VBP for_IN those_DT who_WP suffer_VBP ,_COMMA and_CC those_DT who_WP sorrow_VBP ._PERIOD
+SENTPOS 1969-Nixon.txt NLTK  A   92   25 I have taken an oath today in the presence of God and my countrymen to uphold and defend the Constitution of the United States .
+SENTPOS 1969-Nixon.txt NLTK  B   92  25 I_PRP have_VBP taken_VBN an_DT oath_NN today_NN in_IN the_DT presence_NN of_IN God_NNP and_CC my_PRPDOLLAR countrymen_NNS to_TO uphold_VB and_CC defend_VB the_DT Constitution_NNP of_IN the_DT United_NNP States_NNPS ._PERIOD
+SENTPOS 1969-Nixon.txt NLTK  A   93   35 To that oath I now add this sacred commitment : I shall consecrate my office , my energies , and all the wisdom I can summon , to the cause of peace among nations .
+SENTPOS 1969-Nixon.txt NLTK  B   93  35 To_TO that_DT oath_NN I_PRP now_RB add_VBP this_DT sacred_JJ commitment_NN :_COLON I_PRP shall_MD consecrate_VB my_PRPDOLLAR office_NN ,_COMMA my_PRPDOLLAR energies_NNS ,_COMMA and_CC all_PDT the_DT wisdom_NN I_PRP can_MD summon_VB ,_COMMA to_TO the_DT cause_NN of_IN peace_NN among_IN nations_NNS ._PERIOD
+SENTPOS 1969-Nixon.txt NLTK  A   94   11 Let this message be heard by strong and weak alike :
+SENTPOS 1969-Nixon.txt NLTK  B   94  11 Let_VB this_DT message_NN be_VB heard_VBN by_IN strong_JJ and_CC weak_JJ alike_NN :_COLON
+SENTPOS 1969-Nixon.txt NLTK  A   95   59 The peace we seek to win is not victory over any other people , but the peace that comes " with healing in its wings "; with compassion for those who have suffered ; with understanding for those who have opposed us ; with the opportunity for all the peoples of this earth to choose their own destiny .
+SENTPOS 1969-Nixon.txt NLTK  B   95  59 The_DT peace_NN we_PRP seek_VBP to_TO win_VB is_VBZ not_RB victory_JJ over_IN any_DT other_JJ people_NNS ,_COMMA but_CC the_DT peace_NN that_WDT comes_VBZ "_QUOTE with_IN healing_VBG in_IN its_PRPDOLLAR wings_NNS ";_VBP with_IN compassion_NN for_IN those_DT who_WP have_VBP suffered_VBN ;_SEMICOLON with_IN understanding_NN for_IN those_DT who_WP have_VBP opposed_VBN us_PRP ;_SEMICOLON with_IN the_DT opportunity_NN for_IN all_PDT the_DT peoples_NNS of_IN this_DT earth_NN to_TO choose_VB their_PRPDOLLAR own_JJ destiny_NN ._PERIOD
+SENTPOS 1969-Nixon.txt NLTK  A   96   35 Only a few short weeks ago , we shared the glory of man ' s first sight of the world as God sees it , as a single sphere reflecting light in the darkness .
+SENTPOS 1969-Nixon.txt NLTK  B   96  35 Only_RB a_DT few_JJ short_JJ weeks_NNS ago_RB ,_COMMA we_PRP shared_VBD the_DT glory_NN of_IN man_NN '_QUOTE s_JJ first_JJ sight_NN of_IN the_DT world_NN as_IN God_NNP sees_VBZ it_PRP ,_COMMA as_IN a_DT single_JJ sphere_JJ reflecting_VBG light_NN in_IN the_DT darkness_NN ._PERIOD
+SENTPOS 1969-Nixon.txt NLTK  A   97   49 As the Apollo astronauts flew over the moon ' s gray surface on Christmas Eve , they spoke to us of the beauty of earth -- and in that voice so clear across the lunar distance , we heard them invoke God ' s blessing on its goodness .
+SENTPOS 1969-Nixon.txt NLTK  B   97  49 As_IN the_DT Apollo_NNP astronauts_NNS flew_VBD over_IN the_DT moon_NN '_POS s_NN gray_JJ surface_NN on_IN Christmas_NNP Eve_NNP ,_COMMA they_PRP spoke_VBD to_TO us_PRP of_IN the_DT beauty_NN of_IN earth_NN --_COLON and_CC in_IN that_DT voice_NN so_RB clear_JJ across_IN the_DT lunar_NN distance_NN ,_COMMA we_PRP heard_VBD them_PRP invoke_VB God_NNP '_POS s_NNS blessing_VBG on_IN its_PRPDOLLAR goodness_NN ._PERIOD
+SENTPOS 1969-Nixon.txt NLTK  A   98   16 In that moment , their view from the moon moved poet Archibald MacLeish to write :
+SENTPOS 1969-Nixon.txt NLTK  B   98  16 In_IN that_DT moment_NN ,_COMMA their_PRPDOLLAR view_NN from_IN the_DT moon_NN moved_VBD poet_JJ Archibald_NNP MacLeish_NNP to_TO write_VB :_COLON
+SENTPOS 1969-Nixon.txt NLTK  A   99   53 " To see the earth as it truly is , small and blue and beautiful in that eternal silence where it floats , is to see ourselves as riders on the earth together , brothers on that bright loveliness in the eternal cold -- brothers who know now they are truly brothers ."
+SENTPOS 1969-Nixon.txt NLTK  B   99  53 "_QUOTE To_TO see_VB the_DT earth_NN as_IN it_PRP truly_RB is_VBZ ,_COMMA small_JJ and_CC blue_JJ and_CC beautiful_JJ in_IN that_DT eternal_JJ silence_NN where_WRB it_PRP floats_VBZ ,_COMMA is_VBZ to_TO see_VB ourselves_PRP as_IN riders_NNS on_IN the_DT earth_NN together_RB ,_COMMA brothers_NNS on_IN that_DT bright_JJ loveliness_NN in_IN the_DT eternal_JJ cold_NN --_COLON brothers_NNS who_WP know_VBP now_RB they_PRP are_VBP truly_JJ brothers_NNS ."_VBP
+SENTPOS 1969-Nixon.txt NLTK  A  100   66 In that moment of surpassing technological triumph , men turned their thoughts toward home and humanity -- seeing in that far perspective that man ' s destiny on earth is not divisible ; telling us that however far we reach into the cosmos , our destiny lies not in the stars but on Earth itself , in our own hands , in our own hearts .
+SENTPOS 1969-Nixon.txt NLTK  B  100  66 In_IN that_DT moment_NN of_IN surpassing_VBG technological_JJ triumph_NN ,_COMMA men_NNS turned_VBD their_PRPDOLLAR thoughts_NNS toward_IN home_NN and_CC humanity_NN --_COLON seeing_VBG in_IN that_DT far_RB perspective_NN that_IN man_NN '_QUOTE s_JJ destiny_NN on_IN earth_NN is_VBZ not_RB divisible_JJ ;_SEMICOLON telling_VBG us_PRP that_IN however_RB far_RB we_PRP reach_VBP into_IN the_DT cosmos_NN ,_COMMA our_PRPDOLLAR destiny_NN lies_VBZ not_RB in_IN the_DT stars_NNS but_CC on_IN Earth_NNP itself_PRP ,_COMMA in_IN our_PRPDOLLAR own_JJ hands_NNS ,_COMMA in_IN our_PRPDOLLAR own_JJ hearts_NNS ._PERIOD
+SENTPOS 1969-Nixon.txt NLTK  A  101   11 We have endured a long night of the American spirit .
+SENTPOS 1969-Nixon.txt NLTK  B  101  11 We_PRP have_VBP endured_VBN a_DT long_JJ night_NN of_IN the_DT American_JJ spirit_NN ._PERIOD
+SENTPOS 1969-Nixon.txt NLTK  A  102   22 But as our eyes catch the dimness of the first rays of dawn , let us not curse the remaining dark .
+SENTPOS 1969-Nixon.txt NLTK  B  102  22 But_CC as_IN our_PRPDOLLAR eyes_NNS catch_VB the_DT dimness_NN of_IN the_DT first_JJ rays_NNS of_IN dawn_NN ,_COMMA let_VB us_PRP not_RB curse_VB the_DT remaining_VBG dark_NN ._PERIOD
+SENTPOS 1969-Nixon.txt NLTK  A  103    6 Let us gather the light .
+SENTPOS 1969-Nixon.txt NLTK  B  103   6 Let_VB us_PRP gather_VB the_DT light_NN ._PERIOD
+SENTPOS 1969-Nixon.txt NLTK  A  104   16 Our destiny offers , not the cup of despair , but the chalice of opportunity .
+SENTPOS 1969-Nixon.txt NLTK  B  104  16 Our_PRPDOLLAR destiny_NN offers_NNS ,_COMMA not_RB the_DT cup_NN of_IN despair_NN ,_COMMA but_CC the_DT chalice_NN of_IN opportunity_NN ._PERIOD
+SENTPOS 1969-Nixon.txt NLTK  A  105   59 So let us seize it , not in fear , but in gladness -- and , " riders on the earth together ," let us go forward , firm in our faith , steadfast in our purpose , cautious of the dangers ; but sustained by our confidence in the will of God and the promise of man .
+SENTPOS 1969-Nixon.txt NLTK  B  105  59 So_RB let_VB us_PRP seize_VB it_PRP ,_COMMA not_RB in_IN fear_NN ,_COMMA but_CC in_IN gladness_NN --_COLON and_CC ,_COMMA "_QUOTE riders_NNS on_IN the_DT earth_NN together_RB ,"_NNP let_VB us_PRP go_VB forward_RB ,_COMMA firm_NN in_IN our_PRPDOLLAR faith_NN ,_COMMA steadfast_NN in_IN our_PRPDOLLAR purpose_NN ,_COMMA cautious_JJ of_IN the_DT dangers_NNS ;_SEMICOLON but_CC sustained_VBN by_IN our_PRPDOLLAR confidence_NN in_IN the_DT will_MD of_IN God_NNP and_CC the_DT promise_NN of_IN man_NN ._PERIOD

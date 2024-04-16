@@ -1,0 +1,224 @@
+SENTPOS 1997-Clinton.txt NLTK  A    0   30 My fellow citizens : At this last presidential inauguration of the 20th century , let us lift our eyes toward the challenges that await us in the next century .
+SENTPOS 1997-Clinton.txt NLTK  B    0  30 My_PRPDOLLAR fellow_JJ citizens_NNS :_COLON At_IN this_DT last_JJ presidential_JJ inauguration_NN of_IN the_DT 20th_JJ century_NN ,_COMMA let_VB us_PRP lift_VB our_PRPDOLLAR eyes_NNS toward_IN the_DT challenges_NNS that_WDT await_VBP us_PRP in_IN the_DT next_JJ century_NN ._PERIOD
+SENTPOS 1997-Clinton.txt NLTK  A    1   58 It is our great good fortune that time and chance have put us not only at the edge of a new century , in a new millennium , but on the edge of a bright new prospect in human affairs -- a moment that will define our course , and our character , for decades to come .
+SENTPOS 1997-Clinton.txt NLTK  B    1  58 It_PRP is_VBZ our_PRPDOLLAR great_JJ good_JJ fortune_NN that_IN time_NN and_CC chance_NN have_VBP put_VBN us_PRP not_RB only_RB at_IN the_DT edge_NN of_IN a_DT new_JJ century_NN ,_COMMA in_IN a_DT new_JJ millennium_NN ,_COMMA but_CC on_IN the_DT edge_NN of_IN a_DT bright_JJ new_JJ prospect_NN in_IN human_JJ affairs_NNS --_COLON a_DT moment_NN that_WDT will_MD define_VB our_PRPDOLLAR course_NN ,_COMMA and_CC our_PRPDOLLAR character_NN ,_COMMA for_IN decades_NNS to_TO come_VB ._PERIOD
+SENTPOS 1997-Clinton.txt NLTK  A    2    9 We must keep our old democracy forever young .
+SENTPOS 1997-Clinton.txt NLTK  B    2   9 We_PRP must_MD keep_VB our_PRPDOLLAR old_JJ democracy_NN forever_RB young_JJ ._PERIOD
+SENTPOS 1997-Clinton.txt NLTK  A    3   22 Guided by the ancient vision of a promised land , let us set our sights upon a land of new promise .
+SENTPOS 1997-Clinton.txt NLTK  B    3  22 Guided_VBN by_IN the_DT ancient_JJ vision_NN of_IN a_DT promised_JJ land_NN ,_COMMA let_VB us_PRP set_VB our_PRPDOLLAR sights_NNS upon_IN a_DT land_NN of_IN new_JJ promise_NN ._PERIOD
+SENTPOS 1997-Clinton.txt NLTK  A    4   22 The promise of America was born in the 18th century out of the bold conviction that we are all created equal .
+SENTPOS 1997-Clinton.txt NLTK  B    4  22 The_DT promise_NN of_IN America_NNP was_VBD born_VBN in_IN the_DT 18th_JJ century_NN out_IN of_IN the_DT bold_JJ conviction_NN that_IN we_PRP are_VBP all_DT created_VBN equal_JJ ._PERIOD
+SENTPOS 1997-Clinton.txt NLTK  A    5   30 It was extended and preserved in the 19th century , when our nation spread across the continent , saved the union , and abolished the awful scourge of slavery .
+SENTPOS 1997-Clinton.txt NLTK  B    5  30 It_PRP was_VBD extended_VBN and_CC preserved_VBN in_IN the_DT 19th_JJ century_NN ,_COMMA when_WRB our_PRPDOLLAR nation_NN spread_NN across_IN the_DT continent_NN ,_COMMA saved_VBD the_DT union_NN ,_COMMA and_CC abolished_VBD the_DT awful_JJ scourge_NN of_IN slavery_NN ._PERIOD
+SENTPOS 1997-Clinton.txt NLTK  A    6   21 Then , in turmoil and triumph , that promise exploded onto the world stage to make this the American Century .
+SENTPOS 1997-Clinton.txt NLTK  B    6  21 Then_RB ,_COMMA in_IN turmoil_NN and_CC triumph_NN ,_COMMA that_WDT promise_VBP exploded_VBN onto_IN the_DT world_NN stage_NN to_TO make_VB this_DT the_DT American_JJ Century_NNP ._PERIOD
+SENTPOS 1997-Clinton.txt NLTK  A    7    8 And what a century it has been .
+SENTPOS 1997-Clinton.txt NLTK  B    7   8 And_CC what_WP a_DT century_NN it_PRP has_VBZ been_VBN ._PERIOD
+SENTPOS 1997-Clinton.txt NLTK  A    8   49 America became the world ' s mightiest industrial power ; saved the world from tyranny in two world wars and a long cold war ; and time and again , reached out across the globe to millions who , like us , longed for the blessings of liberty .
+SENTPOS 1997-Clinton.txt NLTK  B    8  49 America_NNP became_VBD the_DT world_NN '_POS s_JJ mightiest_JJS industrial_JJ power_NN ;_SEMICOLON saved_VBD the_DT world_NN from_IN tyranny_NN in_IN two_CD world_NN wars_NNS and_CC a_DT long_JJ cold_JJ war_NN ;_SEMICOLON and_CC time_NN and_CC again_RB ,_COMMA reached_VBD out_RP across_IN the_DT globe_NN to_TO millions_NNS who_WP ,_COMMA like_IN us_PRP ,_COMMA longed_VBD for_IN the_DT blessings_NNS of_IN liberty_NN ._PERIOD
+SENTPOS 1997-Clinton.txt NLTK  A    9   76 Along the way , Americans produced a great middle class and security in old age ; built unrivaled centers of learning and opened public schools to all ; split the atom and explored the heavens ; invented the computer and the microchip ; and deepened the wellspring of justice by making a revolution in civil rights for African Americans and all minorities , and extending the circle of citizenship , opportunity and dignity to women .
+SENTPOS 1997-Clinton.txt NLTK  B    9  76 Along_IN the_DT way_NN ,_COMMA Americans_NNPS produced_VBD a_DT great_JJ middle_JJ class_NN and_CC security_NN in_IN old_JJ age_NN ;_SEMICOLON built_VBN unrivaled_JJ centers_NNS of_IN learning_NN and_CC opened_VBN public_JJ schools_NNS to_TO all_DT ;_SEMICOLON split_VBD the_DT atom_NN and_CC explored_VBD the_DT heavens_NNS ;_SEMICOLON invented_VBD the_DT computer_NN and_CC the_DT microchip_NN ;_SEMICOLON and_CC deepened_VBD the_DT wellspring_NN of_IN justice_NN by_IN making_VBG a_DT revolution_NN in_IN civil_JJ rights_NNS for_IN African_JJ Americans_NNPS and_CC all_DT minorities_NNS ,_COMMA and_CC extending_VBG the_DT circle_NN of_IN citizenship_NN ,_COMMA opportunity_NN and_CC dignity_NN to_TO women_NNS ._PERIOD
+SENTPOS 1997-Clinton.txt NLTK  A   10   20 Now , for the third time , a new century is upon us , and another time to choose .
+SENTPOS 1997-Clinton.txt NLTK  B   10  20 Now_RB ,_COMMA for_IN the_DT third_JJ time_NN ,_COMMA a_DT new_JJ century_NN is_VBZ upon_IN us_PRP ,_COMMA and_CC another_DT time_NN to_TO choose_VB ._PERIOD
+SENTPOS 1997-Clinton.txt NLTK  A   11   18 We began the 19th century with a choice , to spread our nation from coast to coast .
+SENTPOS 1997-Clinton.txt NLTK  B   11  18 We_PRP began_VBD the_DT 19th_JJ century_NN with_IN a_DT choice_NN ,_COMMA to_TO spread_VB our_PRPDOLLAR nation_NN from_IN coast_NN to_TO coast_NN ._PERIOD
+SENTPOS 1997-Clinton.txt NLTK  A   12   27 We began the 20th century with a choice , to harness the Industrial Revolution to our values of free enterprise , conservation , and human decency .
+SENTPOS 1997-Clinton.txt NLTK  B   12  27 We_PRP began_VBD the_DT 20th_JJ century_NN with_IN a_DT choice_NN ,_COMMA to_TO harness_VB the_DT Industrial_NNP Revolution_NNP to_TO our_PRPDOLLAR values_NNS of_IN free_JJ enterprise_NN ,_COMMA conservation_NN ,_COMMA and_CC human_JJ decency_NN ._PERIOD
+SENTPOS 1997-Clinton.txt NLTK  A   13    7 Those choices made all the difference .
+SENTPOS 1997-Clinton.txt NLTK  B   13   7 Those_DT choices_NNS made_VBN all_PDT the_DT difference_NN ._PERIOD
+SENTPOS 1997-Clinton.txt NLTK  A   14   47 At the dawn of the 21st century a free people must now choose to shape the forces of the Information Age and the global society , to unleash the limitless potential of all our people , and , yes , to form a more perfect union .
+SENTPOS 1997-Clinton.txt NLTK  B   14  47 At_IN the_DT dawn_NN of_IN the_DT 21st_JJ century_NN a_DT free_JJ people_NNS must_MD now_RB choose_VB to_TO shape_VB the_DT forces_NNS of_IN the_DT Information_NNP Age_NNP and_CC the_DT global_JJ society_NN ,_COMMA to_TO unleash_VB the_DT limitless_JJ potential_NN of_IN all_DT our_PRPDOLLAR people_NNS ,_COMMA and_CC ,_COMMA yes_UH ,_COMMA to_TO form_VB a_DT more_RBR perfect_JJ union_NN ._PERIOD
+SENTPOS 1997-Clinton.txt NLTK  A   15   19 When last we gathered , our march to this new future seemed less certain than it does today .
+SENTPOS 1997-Clinton.txt NLTK  B   15  19 When_WRB last_JJ we_PRP gathered_VBD ,_COMMA our_PRPDOLLAR march_NN to_TO this_DT new_JJ future_NN seemed_VBD less_JJR certain_JJ than_IN it_PRP does_VBZ today_NN ._PERIOD
+SENTPOS 1997-Clinton.txt NLTK  A   16   13 We vowed then to set a clear course to renew our nation .
+SENTPOS 1997-Clinton.txt NLTK  B   16  13 We_PRP vowed_VBD then_RB to_TO set_VB a_DT clear_JJ course_NN to_TO renew_VB our_PRPDOLLAR nation_NN ._PERIOD
+SENTPOS 1997-Clinton.txt NLTK  A   17   20 In these four years , we have been touched by tragedy , exhilarated by challenge , strengthened by achievement .
+SENTPOS 1997-Clinton.txt NLTK  B   17  20 In_IN these_DT four_CD years_NNS ,_COMMA we_PRP have_VBP been_VBN touched_VBN by_IN tragedy_NN ,_COMMA exhilarated_VBN by_IN challenge_NN ,_COMMA strengthened_VBN by_IN achievement_NN ._PERIOD
+SENTPOS 1997-Clinton.txt NLTK  A   18   11 America stands alone as the world ' s indispensable nation .
+SENTPOS 1997-Clinton.txt NLTK  B   18  11 America_NNP stands_VBZ alone_RB as_IN the_DT world_NN '_POS s_NN indispensable_JJ nation_NN ._PERIOD
+SENTPOS 1997-Clinton.txt NLTK  A   19   11 Once again , our economy is the strongest on Earth .
+SENTPOS 1997-Clinton.txt NLTK  B   19  11 Once_RB again_RB ,_COMMA our_PRPDOLLAR economy_NN is_VBZ the_DT strongest_JJS on_IN Earth_NN ._PERIOD
+SENTPOS 1997-Clinton.txt NLTK  A   20   20 Once again , we are building stronger families , thriving communities , better educational opportunities , a cleaner environment .
+SENTPOS 1997-Clinton.txt NLTK  B   20  20 Once_RB again_RB ,_COMMA we_PRP are_VBP building_VBG stronger_JJR families_NNS ,_COMMA thriving_VBG communities_NNS ,_COMMA better_JJR educational_JJ opportunities_NNS ,_COMMA a_DT cleaner_NN environment_NN ._PERIOD
+SENTPOS 1997-Clinton.txt NLTK  A   21   31 Problems that once seemed destined to deepen now bend to our efforts : our streets are safer and record numbers of our fellow citizens have moved from welfare to work .
+SENTPOS 1997-Clinton.txt NLTK  B   21  31 Problems_NNS that_WDT once_RB seemed_VBD destined_VBN to_TO deepen_VB now_RB bend_VBP to_TO our_PRPDOLLAR efforts_NNS :_COLON our_PRPDOLLAR streets_NNS are_VBP safer_JJR and_CC record_NN numbers_NNS of_IN our_PRPDOLLAR fellow_JJ citizens_NNS have_VBP moved_VBN from_IN welfare_NN to_TO work_VB ._PERIOD
+SENTPOS 1997-Clinton.txt NLTK  A   22   19 And once again , we have resolved for our time a great debate over the role of government .
+SENTPOS 1997-Clinton.txt NLTK  B   22  19 And_CC once_RB again_RB ,_COMMA we_PRP have_VBP resolved_VBN for_IN our_PRPDOLLAR time_NN a_DT great_JJ debate_NN over_IN the_DT role_NN of_IN government_NN ._PERIOD
+SENTPOS 1997-Clinton.txt NLTK  A   23   18 Today we can declare : Government is not the problem , and government is not the solution .
+SENTPOS 1997-Clinton.txt NLTK  B   23  18 Today_NN we_PRP can_MD declare_VB :_COLON Government_NN is_VBZ not_RB the_DT problem_NN ,_COMMA and_CC government_NN is_VBZ not_RB the_DT solution_NN ._PERIOD
+SENTPOS 1997-Clinton.txt NLTK  A   24   11 We -- the American people -- we are the solution .
+SENTPOS 1997-Clinton.txt NLTK  B   24  11 We_PRP --_COLON the_DT American_JJ people_NNS --_COLON we_PRP are_VBP the_DT solution_NN ._PERIOD
+SENTPOS 1997-Clinton.txt NLTK  A   25   34 Our founders understood that well and gave us a democracy strong enough to endure for centuries , flexible enough to face our common challenges and advance our common dreams in each new day .
+SENTPOS 1997-Clinton.txt NLTK  B   25  34 Our_PRPDOLLAR founders_NNS understood_VBD that_DT well_NN and_CC gave_VBD us_PRP a_DT democracy_NN strong_JJ enough_RB to_TO endure_VB for_IN centuries_NNS ,_COMMA flexible_JJ enough_RB to_TO face_VB our_PRPDOLLAR common_JJ challenges_NNS and_CC advance_VB our_PRPDOLLAR common_JJ dreams_NNS in_IN each_DT new_JJ day_NN ._PERIOD
+SENTPOS 1997-Clinton.txt NLTK  A   26    9 As times change , so government must change .
+SENTPOS 1997-Clinton.txt NLTK  B   26   9 As_IN times_NNS change_VBP ,_COMMA so_JJ government_NN must_MD change_VB ._PERIOD
+SENTPOS 1997-Clinton.txt NLTK  A   27   55 We need a new government for a new century -- humble enough not to try to solve all our problems for us , but strong enough to give us the tools to solve our problems for ourselves ; a government that is smaller , lives within its means , and does more with less .
+SENTPOS 1997-Clinton.txt NLTK  B   27  55 We_PRP need_VBP a_DT new_JJ government_NN for_IN a_DT new_JJ century_NN --_COLON humble_JJ enough_RB not_RB to_TO try_VB to_TO solve_VB all_DT our_PRPDOLLAR problems_NNS for_IN us_PRP ,_COMMA but_CC strong_JJ enough_RB to_TO give_VB us_PRP the_DT tools_NNS to_TO solve_VB our_PRPDOLLAR problems_NNS for_IN ourselves_NNS ;_SEMICOLON a_DT government_NN that_WDT is_VBZ smaller_JJR ,_COMMA lives_VBZ within_IN its_PRPDOLLAR means_NNS ,_COMMA and_CC does_VBZ more_RBR with_IN less_JJR ._PERIOD
+SENTPOS 1997-Clinton.txt NLTK  A   28   41 Yet where it can stand up for our values and interests in the world , and where it can give Americans the power to make a real difference in their everyday lives , government should do more , not less .
+SENTPOS 1997-Clinton.txt NLTK  B   28  41 Yet_RB where_WRB it_PRP can_MD stand_VB up_RP for_IN our_PRPDOLLAR values_NNS and_CC interests_NNS in_IN the_DT world_NN ,_COMMA and_CC where_WRB it_PRP can_MD give_VB Americans_NNPS the_DT power_NN to_TO make_VB a_DT real_JJ difference_NN in_IN their_PRPDOLLAR everyday_JJ lives_NNS ,_COMMA government_NN should_MD do_VB more_JJR ,_COMMA not_RB less_RBR ._PERIOD
+SENTPOS 1997-Clinton.txt NLTK  A   29   29 The preeminent mission of our new government is to give all Americans an opportunity -- not a guarantee , but a real opportunity -- to build better lives .
+SENTPOS 1997-Clinton.txt NLTK  B   29  29 The_DT preeminent_JJ mission_NN of_IN our_PRPDOLLAR new_JJ government_NN is_VBZ to_TO give_VB all_DT Americans_NNPS an_DT opportunity_NN --_COLON not_RB a_DT guarantee_NN ,_COMMA but_CC a_DT real_JJ opportunity_NN --_COLON to_TO build_VB better_JJR lives_NNS ._PERIOD
+SENTPOS 1997-Clinton.txt NLTK  A   30   14 Beyond that , my fellow citizens , the future is up to us .
+SENTPOS 1997-Clinton.txt NLTK  B   30  14 Beyond_NN that_IN ,_COMMA my_PRPDOLLAR fellow_JJ citizens_NNS ,_COMMA the_DT future_NN is_VBZ up_RP to_TO us_PRP ._PERIOD
+SENTPOS 1997-Clinton.txt NLTK  A   31   18 Our founders taught us that the preservation of our liberty and our union depends upon responsible citizenship .
+SENTPOS 1997-Clinton.txt NLTK  B   31  18 Our_PRPDOLLAR founders_NNS taught_VBD us_PRP that_IN the_DT preservation_NN of_IN our_PRPDOLLAR liberty_NN and_CC our_PRPDOLLAR union_NN depends_VBZ upon_IN responsible_JJ citizenship_NN ._PERIOD
+SENTPOS 1997-Clinton.txt NLTK  A   32   13 And we need a new sense of responsibility for a new century .
+SENTPOS 1997-Clinton.txt NLTK  B   32  13 And_CC we_PRP need_VBP a_DT new_JJ sense_NN of_IN responsibility_NN for_IN a_DT new_JJ century_NN ._PERIOD
+SENTPOS 1997-Clinton.txt NLTK  A   33   56 There is work to do , work that government alone cannot do : teaching children to read ; hiring people off welfare rolls ; coming out from behind locked doors and shuttered windows to help reclaim our streets from drugs and gangs and crime ; taking time out of our own lives to serve others .
+SENTPOS 1997-Clinton.txt NLTK  B   33  56 There_EX is_VBZ work_NN to_TO do_VB ,_COMMA work_VB that_DT government_NN alone_RB cannot_JJ do_VB :_COLON teaching_NN children_NNS to_TO read_VB ;_SEMICOLON hiring_VBG people_NNS off_IN welfare_NN rolls_NNS ;_SEMICOLON coming_VBG out_RP from_IN behind_IN locked_JJ doors_NNS and_CC shuttered_VBD windows_NNS to_TO help_VB reclaim_VB our_PRPDOLLAR streets_NNS from_IN drugs_NNS and_CC gangs_NNS and_CC crime_NN ;_SEMICOLON taking_VBG time_NN out_IN of_IN our_PRPDOLLAR own_JJ lives_NNS to_TO serve_VB others_NNS ._PERIOD
+SENTPOS 1997-Clinton.txt NLTK  A   34   33 Each and every one of us , in our own way , must assume personal responsibility -- not only for ourselves and our families , but for our neighbors and our nation .
+SENTPOS 1997-Clinton.txt NLTK  B   34  33 Each_DT and_CC every_DT one_CD of_IN us_PRP ,_COMMA in_IN our_PRPDOLLAR own_JJ way_NN ,_COMMA must_MD assume_VB personal_JJ responsibility_NN --_COLON not_RB only_RB for_IN ourselves_NNS and_CC our_PRPDOLLAR families_NNS ,_COMMA but_CC for_IN our_PRPDOLLAR neighbors_NNS and_CC our_PRPDOLLAR nation_NN ._PERIOD
+SENTPOS 1997-Clinton.txt NLTK  A   35   16 Our greatest responsibility is to embrace a new spirit of community for a new century .
+SENTPOS 1997-Clinton.txt NLTK  B   35  16 Our_PRPDOLLAR greatest_JJS responsibility_NN is_VBZ to_TO embrace_VB a_DT new_JJ spirit_NN of_IN community_NN for_IN a_DT new_JJ century_NN ._PERIOD
+SENTPOS 1997-Clinton.txt NLTK  A   36   15 For any one of us to succeed , we must succeed as one America .
+SENTPOS 1997-Clinton.txt NLTK  B   36  15 For_IN any_DT one_CD of_IN us_PRP to_TO succeed_VB ,_COMMA we_PRP must_MD succeed_VB as_IN one_CD America_NNP ._PERIOD
+SENTPOS 1997-Clinton.txt NLTK  A   37   29 The challenge of our past remains the challenge of our future -- will we be one nation , one people , with one common destiny , or not ?
+SENTPOS 1997-Clinton.txt NLTK  B   37  29 The_DT challenge_NN of_IN our_PRPDOLLAR past_NN remains_VBZ the_DT challenge_NN of_IN our_PRPDOLLAR future_NN --_COLON will_MD we_PRP be_VB one_CD nation_NN ,_COMMA one_CD people_NNS ,_COMMA with_IN one_CD common_JJ destiny_NN ,_COMMA or_CC not_RB ?_QUERY
+SENTPOS 1997-Clinton.txt NLTK  A   38   10 Will we all come together , or come apart ?
+SENTPOS 1997-Clinton.txt NLTK  B   38  10 Will_MD we_PRP all_DT come_VBP together_RB ,_COMMA or_CC come_VB apart_RB ?_QUERY
+SENTPOS 1997-Clinton.txt NLTK  A   39   12 The divide of race has been America ' s constant curse .
+SENTPOS 1997-Clinton.txt NLTK  B   39  12 The_DT divide_NN of_IN race_NN has_VBZ been_VBN America_NNP '_POS s_NN constant_JJ curse_NN ._PERIOD
+SENTPOS 1997-Clinton.txt NLTK  A   40   13 And each new wave of immigrants gives new targets to old prejudices .
+SENTPOS 1997-Clinton.txt NLTK  B   40  13 And_CC each_DT new_JJ wave_NN of_IN immigrants_NNS gives_VBZ new_JJ targets_NNS to_TO old_JJ prejudices_NNS ._PERIOD
+SENTPOS 1997-Clinton.txt NLTK  A   41   17 Prejudice and contempt , cloaked in the pretense of religious or political conviction are no different .
+SENTPOS 1997-Clinton.txt NLTK  B   41  17 Prejudice_NNP and_CC contempt_NN ,_COMMA cloaked_VBN in_IN the_DT pretense_NN of_IN religious_JJ or_CC political_JJ conviction_NN are_VBP no_DT different_JJ ._PERIOD
+SENTPOS 1997-Clinton.txt NLTK  A   42   11 These forces have nearly destroyed our nation in the past .
+SENTPOS 1997-Clinton.txt NLTK  B   42  11 These_DT forces_NNS have_VBP nearly_RB destroyed_VBN our_PRPDOLLAR nation_NN in_IN the_DT past_NN ._PERIOD
+SENTPOS 1997-Clinton.txt NLTK  A   43    5 They plague us still .
+SENTPOS 1997-Clinton.txt NLTK  B   43   5 They_PRP plague_VBP us_PRP still_RB ._PERIOD
+SENTPOS 1997-Clinton.txt NLTK  A   44    7 They fuel the fanaticism of terror .
+SENTPOS 1997-Clinton.txt NLTK  B   44   7 They_PRP fuel_VBP the_DT fanaticism_NN of_IN terror_NN ._PERIOD
+SENTPOS 1997-Clinton.txt NLTK  A   45   15 And they torment the lives of millions in fractured nations all around the world .
+SENTPOS 1997-Clinton.txt NLTK  B   45  15 And_CC they_PRP torment_VBP the_DT lives_NNS of_IN millions_NNS in_IN fractured_JJ nations_NNS all_DT around_IN the_DT world_NN ._PERIOD
+SENTPOS 1997-Clinton.txt NLTK  A   46   25 These obsessions cripple both those who hate and , of course , those who are hated , robbing both of what they might become .
+SENTPOS 1997-Clinton.txt NLTK  B   46  25 These_DT obsessions_NNS cripple_VBP both_DT those_DT who_WP hate_VBP and_CC ,_COMMA of_IN course_NN ,_COMMA those_DT who_WP are_VBP hated_VBN ,_COMMA robbing_VBG both_DT of_IN what_WP they_PRP might_MD become_VB ._PERIOD
+SENTPOS 1997-Clinton.txt NLTK  A   47   23 We cannot , we will not , succumb to the dark impulses that lurk in the far regions of the soul everywhere .
+SENTPOS 1997-Clinton.txt NLTK  B   47  23 We_PRP cannot_VBP ,_COMMA we_PRP will_MD not_RB ,_COMMA succumb_VBZ to_TO the_DT dark_NN impulses_VBZ that_IN lurk_NN in_IN the_DT far_RB regions_NNS of_IN the_DT soul_NN everywhere_RB ._PERIOD
+SENTPOS 1997-Clinton.txt NLTK  A   48    5 We shall overcome them .
+SENTPOS 1997-Clinton.txt NLTK  B   48   5 We_PRP shall_MD overcome_VB them_PRP ._PERIOD
+SENTPOS 1997-Clinton.txt NLTK  A   49   20 And we shall replace them with the generous spirit of a people who feel at home with one another .
+SENTPOS 1997-Clinton.txt NLTK  B   49  20 And_CC we_PRP shall_MD replace_VB them_PRP with_IN the_DT generous_JJ spirit_NN of_IN a_DT people_NNS who_WP feel_VBP at_IN home_NN with_IN one_CD another_DT ._PERIOD
+SENTPOS 1997-Clinton.txt NLTK  A   50   19 Our rich texture of racial , religious and political diversity will be a Godsend in the 21st century .
+SENTPOS 1997-Clinton.txt NLTK  B   50  19 Our_PRPDOLLAR rich_JJ texture_NN of_IN racial_JJ ,_COMMA religious_JJ and_CC political_JJ diversity_NN will_MD be_VB a_DT Godsend_NNP in_IN the_DT 21st_JJ century_NN ._PERIOD
+SENTPOS 1997-Clinton.txt NLTK  A   51   24 Great rewards will come to those who can live together , learn together , work together , forge new ties that bind together .
+SENTPOS 1997-Clinton.txt NLTK  B   51  24 Great_NNP rewards_NNS will_MD come_VB to_TO those_DT who_WP can_MD live_VB together_RB ,_COMMA learn_VB together_RB ,_COMMA work_NN together_RB ,_COMMA forge_VB new_JJ ties_NNS that_WDT bind_VBP together_RB ._PERIOD
+SENTPOS 1997-Clinton.txt NLTK  A   52   13 As this new era approaches we can already see its broad outlines .
+SENTPOS 1997-Clinton.txt NLTK  B   52  13 As_IN this_DT new_JJ era_NN approaches_VBZ we_PRP can_MD already_RB see_VB its_PRPDOLLAR broad_JJ outlines_NNS ._PERIOD
+SENTPOS 1997-Clinton.txt NLTK  A   53   25 Ten years ago , the Internet was the mystical province of physicists ; today , it is a commonplace encyclopedia for millions of schoolchildren .
+SENTPOS 1997-Clinton.txt NLTK  B   53  25 Ten_CD years_NNS ago_RB ,_COMMA the_DT Internet_NNP was_VBD the_DT mystical_JJ province_NN of_IN physicists_NNS ;_SEMICOLON today_NN ,_COMMA it_PRP is_VBZ a_DT commonplace_NN encyclopedia_NN for_IN millions_NNS of_IN schoolchildren_NN ._PERIOD
+SENTPOS 1997-Clinton.txt NLTK  A   54   10 Scientists now are decoding the blueprint of human life .
+SENTPOS 1997-Clinton.txt NLTK  B   54  10 Scientists_NNS now_RB are_VBP decoding_VBG the_DT blueprint_NN of_IN human_JJ life_NN ._PERIOD
+SENTPOS 1997-Clinton.txt NLTK  A   55   11 Cures for our most feared illnesses seem close at hand .
+SENTPOS 1997-Clinton.txt NLTK  B   55  11 Cures_NNS for_IN our_PRPDOLLAR most_JJS feared_JJ illnesses_NNS seem_VBP close_RB at_IN hand_NN ._PERIOD
+SENTPOS 1997-Clinton.txt NLTK  A   56   11 The world is no longer divided into two hostile camps .
+SENTPOS 1997-Clinton.txt NLTK  B   56  11 The_DT world_NN is_VBZ no_DT longer_RB divided_VBN into_IN two_CD hostile_JJ camps_NNS ._PERIOD
+SENTPOS 1997-Clinton.txt NLTK  A   57   15 Instead , now we are building bonds with nations that once were our adversaries .
+SENTPOS 1997-Clinton.txt NLTK  B   57  15 Instead_RB ,_COMMA now_RB we_PRP are_VBP building_VBG bonds_NNS with_IN nations_NNS that_WDT once_RB were_VBD our_PRPDOLLAR adversaries_NNS ._PERIOD
+SENTPOS 1997-Clinton.txt NLTK  A   58   22 Growing connections of commerce and culture give us a chance to lift the fortunes and spirits of people the world over .
+SENTPOS 1997-Clinton.txt NLTK  B   58  22 Growing_VBG connections_NNS of_IN commerce_NN and_CC culture_NN give_VBP us_PRP a_DT chance_NN to_TO lift_VB the_DT fortunes_NNS and_CC spirits_NNS of_IN people_NNS the_DT world_NN over_IN ._PERIOD
+SENTPOS 1997-Clinton.txt NLTK  A   59   22 And for the very first time in all of history , more people on this planet live under democracy than dictatorship .
+SENTPOS 1997-Clinton.txt NLTK  B   59  22 And_CC for_IN the_DT very_RB first_JJ time_NN in_IN all_DT of_IN history_NN ,_COMMA more_JJR people_NNS on_IN this_DT planet_NN live_JJ under_IN democracy_NN than_IN dictatorship_NN ._PERIOD
+SENTPOS 1997-Clinton.txt NLTK  A   60   48 My fellow Americans , as we look back at this remarkable century , we may ask , can we hope not just to follow , but even to surpass the achievements of the 20th century in America and to avoid the awful bloodshed that stained its legacy ?
+SENTPOS 1997-Clinton.txt NLTK  B   60  48 My_PRPDOLLAR fellow_JJ Americans_NNPS ,_COMMA as_IN we_PRP look_VBP back_RB at_IN this_DT remarkable_JJ century_NN ,_COMMA we_PRP may_MD ask_VB ,_COMMA can_MD we_PRP hope_VB not_RB just_RB to_TO follow_VB ,_COMMA but_CC even_RB to_TO surpass_VB the_DT achievements_NNS of_IN the_DT 20th_JJ century_NN in_IN America_NNP and_CC to_TO avoid_VB the_DT awful_JJ bloodshed_VBD that_IN stained_VBD its_PRPDOLLAR legacy_NN ?_QUERY
+SENTPOS 1997-Clinton.txt NLTK  A   61   21 To that question , every American here and every American in our land today must answer a resounding " Yes ."
+SENTPOS 1997-Clinton.txt NLTK  B   61  21 To_TO that_DT question_NN ,_COMMA every_DT American_NNP here_RB and_CC every_DT American_JJ in_IN our_PRPDOLLAR land_NN today_NN must_MD answer_VB a_DT resounding_JJ "_QUOTE Yes_NNP ."_NN
+SENTPOS 1997-Clinton.txt NLTK  A   62    8 This is the heart of our task .
+SENTPOS 1997-Clinton.txt NLTK  B   62   8 This_DT is_VBZ the_DT heart_NN of_IN our_PRPDOLLAR task_NN ._PERIOD
+SENTPOS 1997-Clinton.txt NLTK  A   63   27 With a new vision of government , a new sense of responsibility , a new spirit of community , we will sustain America ' s journey .
+SENTPOS 1997-Clinton.txt NLTK  B   63  27 With_IN a_DT new_JJ vision_NN of_IN government_NN ,_COMMA a_DT new_JJ sense_NN of_IN responsibility_NN ,_COMMA a_DT new_JJ spirit_NN of_IN community_NN ,_COMMA we_PRP will_MD sustain_VB America_NNP '_POS s_NN journey_NN ._PERIOD
+SENTPOS 1997-Clinton.txt NLTK  A   64   19 The promise we sought in a new land we will find again in a land of new promise .
+SENTPOS 1997-Clinton.txt NLTK  B   64  19 The_DT promise_NN we_PRP sought_VBD in_IN a_DT new_JJ land_NN we_PRP will_MD find_VB again_RB in_IN a_DT land_NN of_IN new_JJ promise_NN ._PERIOD
+SENTPOS 1997-Clinton.txt NLTK  A   65   16 In this new land , education will be every citizen ' s most prized possession .
+SENTPOS 1997-Clinton.txt NLTK  B   65  16 In_IN this_DT new_JJ land_NN ,_COMMA education_NN will_MD be_VB every_DT citizen_NN '_POS s_NN most_RBS prized_JJ possession_NN ._PERIOD
+SENTPOS 1997-Clinton.txt NLTK  A   66   26 Our schools will have the highest standards in the world , igniting the spark of possibility in the eyes of every girl and every boy .
+SENTPOS 1997-Clinton.txt NLTK  B   66  26 Our_PRPDOLLAR schools_NNS will_MD have_VB the_DT highest_JJS standards_NNS in_IN the_DT world_NN ,_COMMA igniting_VBG the_DT spark_NN of_IN possibility_NN in_IN the_DT eyes_NNS of_IN every_DT girl_NN and_CC every_DT boy_NN ._PERIOD
+SENTPOS 1997-Clinton.txt NLTK  A   67   12 And the doors of higher education will be open to all .
+SENTPOS 1997-Clinton.txt NLTK  B   67  12 And_CC the_DT doors_NNS of_IN higher_JJR education_NN will_MD be_VB open_JJ to_TO all_DT ._PERIOD
+SENTPOS 1997-Clinton.txt NLTK  A   68   29 The knowledge and power of the Information Age will be within reach not just of the few , but of every classroom , every library , every child .
+SENTPOS 1997-Clinton.txt NLTK  B   68  29 The_DT knowledge_NN and_CC power_NN of_IN the_DT Information_NNP Age_NNP will_MD be_VB within_IN reach_NN not_RB just_RB of_IN the_DT few_JJ ,_COMMA but_CC of_IN every_DT classroom_NN ,_COMMA every_DT library_NN ,_COMMA every_DT child_NN ._PERIOD
+SENTPOS 1997-Clinton.txt NLTK  A   69   18 Parents and children will have time not only to work , but to read and play together .
+SENTPOS 1997-Clinton.txt NLTK  B   69  18 Parents_NNS and_CC children_NNS will_MD have_VB time_NN not_RB only_RB to_TO work_VB ,_COMMA but_CC to_TO read_VB and_CC play_VB together_RB ._PERIOD
+SENTPOS 1997-Clinton.txt NLTK  A   70   29 And the plans they make at their kitchen table will be those of a better home , a better job , the certain chance to go to college ,
+SENTPOS 1997-Clinton.txt NLTK  B   70  29 And_CC the_DT plans_NNS they_PRP make_VBP at_IN their_PRPDOLLAR kitchen_NN table_NN will_MD be_VB those_DT of_IN a_DT better_JJR home_NN ,_COMMA a_DT better_JJR job_NN ,_COMMA the_DT certain_JJ chance_NN to_TO go_VB to_TO college_NN ,_COMMA
+SENTPOS 1997-Clinton.txt NLTK  A   71   26 Our streets will echo again with the laughter of our children , because no one will try to shoot them or sell them drugs anymore .
+SENTPOS 1997-Clinton.txt NLTK  B   71  26 Our_PRPDOLLAR streets_NNS will_MD echo_VB again_RB with_IN the_DT laughter_NN of_IN our_PRPDOLLAR children_NNS ,_COMMA because_IN no_DT one_NN will_MD try_VB to_TO shoot_VB them_PRP or_CC sell_VB them_PRP drugs_NNS anymore_RB ._PERIOD
+SENTPOS 1997-Clinton.txt NLTK  A   72   24 Everyone who can work , will work , with today ' s permanent under class part of tomorrow ' s growing middle class .
+SENTPOS 1997-Clinton.txt NLTK  B   72  24 Everyone_NN who_WP can_MD work_VB ,_COMMA will_MD work_VB ,_COMMA with_IN today_NN '_POS s_JJ permanent_JJ under_IN class_NN part_NN of_IN tomorrow_NN '_POS s_NN growing_VBG middle_JJ class_NN ._PERIOD
+SENTPOS 1997-Clinton.txt NLTK  A   73   27 New miracles of medicine at last will reach not only those who can claim care now , but the children and hardworking families too long denied .
+SENTPOS 1997-Clinton.txt NLTK  B   73  27 New_NNP miracles_NNS of_IN medicine_NN at_IN last_JJ will_MD reach_VB not_RB only_RB those_DT who_WP can_MD claim_VB care_NN now_RB ,_COMMA but_CC the_DT children_NNS and_CC hardworking_VBG families_NNS too_RB long_RB denied_JJ ._PERIOD
+SENTPOS 1997-Clinton.txt NLTK  A   74   19 We will stand mighty for peace and freedom , and maintain a strong defense against terror and destruction .
+SENTPOS 1997-Clinton.txt NLTK  B   74  19 We_PRP will_MD stand_VB mighty_NN for_IN peace_NN and_CC freedom_NN ,_COMMA and_CC maintain_VB a_DT strong_JJ defense_NN against_IN terror_NN and_CC destruction_NN ._PERIOD
+SENTPOS 1997-Clinton.txt NLTK  A   75   16 Our children will sleep free from the threat of nuclear , chemical or biological weapons .
+SENTPOS 1997-Clinton.txt NLTK  B   75  16 Our_PRPDOLLAR children_NNS will_MD sleep_VB free_JJ from_IN the_DT threat_NN of_IN nuclear_JJ ,_COMMA chemical_NN or_CC biological_JJ weapons_NNS ._PERIOD
+SENTPOS 1997-Clinton.txt NLTK  A   76   16 Ports and airports , farms and factories will thrive with trade and innovation and ideas .
+SENTPOS 1997-Clinton.txt NLTK  B   76  16 Ports_NNS and_CC airports_NNS ,_COMMA farms_NNS and_CC factories_NNS will_MD thrive_VB with_IN trade_NN and_CC innovation_NN and_CC ideas_NNS ._PERIOD
+SENTPOS 1997-Clinton.txt NLTK  A   77   15 And the world ' s greatest democracy will lead a whole world of democracies .
+SENTPOS 1997-Clinton.txt NLTK  B   77  15 And_CC the_DT world_NN '_POS s_NN greatest_JJS democracy_NN will_MD lead_VB a_DT whole_JJ world_NN of_IN democracies_NNS ._PERIOD
+SENTPOS 1997-Clinton.txt NLTK  A   78   30 Our land of new promise will be a nation that meets its obligations -- a nation that balances its budget , but never loses the balance of its values .
+SENTPOS 1997-Clinton.txt NLTK  B   78  30 Our_PRPDOLLAR land_NN of_IN new_JJ promise_NN will_MD be_VB a_DT nation_NN that_WDT meets_VBZ its_PRPDOLLAR obligations_NNS --_COLON a_DT nation_NN that_WDT balances_VBZ its_PRPDOLLAR budget_NN ,_COMMA but_CC never_RB loses_VBZ the_DT balance_NN of_IN its_PRPDOLLAR values_NNS ._PERIOD
+SENTPOS 1997-Clinton.txt NLTK  A   79   30 A nation where our grandparents have secure retirement and health care , and their grandchildren know we have made the reforms necessary to sustain those benefits for their time .
+SENTPOS 1997-Clinton.txt NLTK  B   79  30 A_DT nation_NN where_WRB our_PRPDOLLAR grandparents_NNS have_VBP secure_VBN retirement_NN and_CC health_NN care_NN ,_COMMA and_CC their_PRPDOLLAR grandchildren_NNS know_VBP we_PRP have_VBP made_VBN the_DT reforms_NNS necessary_JJ to_TO sustain_VB those_DT benefits_NNS for_IN their_PRPDOLLAR time_NN ._PERIOD
+SENTPOS 1997-Clinton.txt NLTK  A   80   29 A nation that fortifies the world ' s most productive economy even as it protects the great natural bounty of our water , air , and majestic land .
+SENTPOS 1997-Clinton.txt NLTK  B   80  29 A_DT nation_NN that_WDT fortifies_VBZ the_DT world_NN '_POS s_NN most_RBS productive_JJ economy_NN even_RB as_IN it_PRP protects_VBZ the_DT great_JJ natural_JJ bounty_NN of_IN our_PRPDOLLAR water_NN ,_COMMA air_NN ,_COMMA and_CC majestic_JJ land_NN ._PERIOD
+SENTPOS 1997-Clinton.txt NLTK  A   81   43 And in this land of new promise , we will have reformed our politics so that the voice of the people will always speak louder than the din of narrow interests -- regaining the participation and deserving the trust of all Americans .
+SENTPOS 1997-Clinton.txt NLTK  B   81  43 And_CC in_IN this_DT land_NN of_IN new_JJ promise_NN ,_COMMA we_PRP will_MD have_VB reformed_VBN our_PRPDOLLAR politics_NNS so_IN that_IN the_DT voice_NN of_IN the_DT people_NNS will_MD always_RB speak_VB louder_JJR than_IN the_DT din_NN of_IN narrow_JJ interests_NNS --_COLON regaining_VBG the_DT participation_NN and_CC deserving_VBG the_DT trust_NN of_IN all_DT Americans_NNPS ._PERIOD
+SENTPOS 1997-Clinton.txt NLTK  A   82   24 Fellow citizens , let us build that America , a nation ever moving forward toward realizing the full potential of all its citizens .
+SENTPOS 1997-Clinton.txt NLTK  B   82  24 Fellow_NNP citizens_NNS ,_COMMA let_VB us_PRP build_VB that_DT America_NNP ,_COMMA a_DT nation_NN ever_RB moving_VBG forward_RB toward_IN realizing_VBG the_DT full_JJ potential_NN of_IN all_DT its_PRPDOLLAR citizens_NNS ._PERIOD
+SENTPOS 1997-Clinton.txt NLTK  A   83   16 Prosperity and power -- yes , they are important , and we must maintain them .
+SENTPOS 1997-Clinton.txt NLTK  B   83  16 Prosperity_NN and_CC power_NN --_COLON yes_UH ,_COMMA they_PRP are_VBP important_JJ ,_COMMA and_CC we_PRP must_MD maintain_VB them_PRP ._PERIOD
+SENTPOS 1997-Clinton.txt NLTK  A   84   29 But let us never forget : The greatest progress we have made , and the greatest progress we have yet to make , is in the human heart .
+SENTPOS 1997-Clinton.txt NLTK  B   84  29 But_CC let_VB us_PRP never_RB forget_VB :_COLON The_DT greatest_JJS progress_NN we_PRP have_VBP made_VBN ,_COMMA and_CC the_DT greatest_JJS progress_NN we_PRP have_VBP yet_RB to_TO make_VB ,_COMMA is_VBZ in_IN the_DT human_JJ heart_NN ._PERIOD
+SENTPOS 1997-Clinton.txt NLTK  A   85   27 In the end , all the world ' s wealth and a thousand armies are no match for the strength and decency of the human spirit .
+SENTPOS 1997-Clinton.txt NLTK  B   85  27 In_IN the_DT end_NN ,_COMMA all_PDT the_DT world_NN '_POS s_JJ wealth_NN and_CC a_DT thousand_NN armies_NNS are_VBP no_DT match_NN for_IN the_DT strength_NN and_CC decency_NN of_IN the_DT human_JJ spirit_NN ._PERIOD
+SENTPOS 1997-Clinton.txt NLTK  A   86   37 Thirty - four years ago , the man whose life we celebrate today spoke to us down there , at the other end of this Mall , in words that moved the conscience of a nation .
+SENTPOS 1997-Clinton.txt NLTK  B   86  37 Thirty_NNP -_HYPHEN four_CD years_NNS ago_RB ,_COMMA the_DT man_NN whose_WPDOLLAR life_NN we_PRP celebrate_VBP today_NN spoke_VBD to_TO us_PRP down_RP there_RB ,_COMMA at_IN the_DT other_JJ end_NN of_IN this_DT Mall_NNP ,_COMMA in_IN words_NNS that_WDT moved_VBD the_DT conscience_NN of_IN a_DT nation_NN ._PERIOD
+SENTPOS 1997-Clinton.txt NLTK  A   87   33 Like a prophet of old , he told of his dream that one day America would rise up and treat all its citizens as equals before the law and in the heart .
+SENTPOS 1997-Clinton.txt NLTK  B   87  33 Like_IN a_DT prophet_NN of_IN old_JJ ,_COMMA he_PRP told_VBD of_IN his_PRPDOLLAR dream_NN that_IN one_CD day_NN America_NNP would_MD rise_VB up_RB and_CC treat_VB all_DT its_PRPDOLLAR citizens_NNS as_IN equals_NNS before_IN the_DT law_NN and_CC in_IN the_DT heart_NN ._PERIOD
+SENTPOS 1997-Clinton.txt NLTK  A   88   11 Martin Luther King ' s dream was the American Dream .
+SENTPOS 1997-Clinton.txt NLTK  B   88  11 Martin_NNP Luther_NNP King_NNP '_POS s_JJ dream_NN was_VBD the_DT American_JJ Dream_NNP ._PERIOD
+SENTPOS 1997-Clinton.txt NLTK  A   89   16 His quest is our quest : the ceaseless striving to live out our true creed .
+SENTPOS 1997-Clinton.txt NLTK  B   89  16 His_PRPDOLLAR quest_NN is_VBZ our_PRPDOLLAR quest_NN :_COLON the_DT ceaseless_NN striving_VBG to_TO live_VB out_RP our_PRPDOLLAR true_JJ creed_NN ._PERIOD
+SENTPOS 1997-Clinton.txt NLTK  A   90   11 Our history has been built on such dreams and labors .
+SENTPOS 1997-Clinton.txt NLTK  B   90  11 Our_PRPDOLLAR history_NN has_VBZ been_VBN built_VBN on_IN such_JJ dreams_NNS and_CC labors_NNS ._PERIOD
+SENTPOS 1997-Clinton.txt NLTK  A   91   18 And by our dreams and labors we will redeem the promise of America in the 21st century .
+SENTPOS 1997-Clinton.txt NLTK  B   91  18 And_CC by_IN our_PRPDOLLAR dreams_NNS and_CC labors_NNS we_PRP will_MD redeem_VB the_DT promise_NN of_IN America_NNP in_IN the_DT 21st_JJ century_NN ._PERIOD
+SENTPOS 1997-Clinton.txt NLTK  A   92   15 To that effort I pledge all my strength and every power of my office .
+SENTPOS 1997-Clinton.txt NLTK  B   92  15 To_TO that_DT effort_NN I_PRP pledge_VBP all_DT my_PRPDOLLAR strength_NN and_CC every_DT power_NN of_IN my_PRPDOLLAR office_NN ._PERIOD
+SENTPOS 1997-Clinton.txt NLTK  A   93   13 I ask the members of Congress here to join in that pledge .
+SENTPOS 1997-Clinton.txt NLTK  B   93  13 I_PRP ask_VBP the_DT members_NNS of_IN Congress_NNP here_RB to_TO join_VB in_IN that_DT pledge_NN ._PERIOD
+SENTPOS 1997-Clinton.txt NLTK  A   94   17 The American people returned to office a President of one party and a Congress of another .
+SENTPOS 1997-Clinton.txt NLTK  B   94  17 The_DT American_JJ people_NNS returned_VBD to_TO office_NN a_DT President_NNP of_IN one_CD party_NN and_CC a_DT Congress_NNP of_IN another_DT ._PERIOD
+SENTPOS 1997-Clinton.txt NLTK  A   95   21 Surely , they did not do this to advance the politics of petty bickering and extreme partisanship they plainly deplore .
+SENTPOS 1997-Clinton.txt NLTK  B   95  21 Surely_RB ,_COMMA they_PRP did_VBD not_RB do_VB this_DT to_TO advance_VB the_DT politics_NNS of_IN petty_JJ bickering_NN and_CC extreme_JJ partisanship_NN they_PRP plainly_RB deplore_VBP ._PERIOD
+SENTPOS 1997-Clinton.txt NLTK  A   96   24 No , they call on us instead to be repairers of the breach , and to move on with America ' s mission .
+SENTPOS 1997-Clinton.txt NLTK  B   96  24 No_DT ,_COMMA they_PRP call_VBP on_IN us_PRP instead_RB to_TO be_VB repairers_NNS of_IN the_DT breach_NN ,_COMMA and_CC to_TO move_VB on_IN with_IN America_NNP '_POS s_JJ mission_NN ._PERIOD
+SENTPOS 1997-Clinton.txt NLTK  A   97   18 America demands and deserves big things from us -- and nothing big ever came from being small .
+SENTPOS 1997-Clinton.txt NLTK  B   97  18 America_NNP demands_NNS and_CC deserves_VBZ big_JJ things_NNS from_IN us_PRP --_COLON and_CC nothing_NN big_JJ ever_RB came_VBD from_IN being_VBG small_JJ ._PERIOD
+SENTPOS 1997-Clinton.txt NLTK  A   98   19 Let us remember the timeless wisdom of Cardinal Bernardin , when facing the end of his own life .
+SENTPOS 1997-Clinton.txt NLTK  B   98  19 Let_VB us_PRP remember_VB the_DT timeless_JJ wisdom_NN of_IN Cardinal_NNP Bernardin_NNP ,_COMMA when_WRB facing_VBG the_DT end_NN of_IN his_PRPDOLLAR own_JJ life_NN ._PERIOD
+SENTPOS 1997-Clinton.txt NLTK  A   99   20 He said : " It is wrong to waste the precious gift of time , on acrimony and division ."
+SENTPOS 1997-Clinton.txt NLTK  B   99  20 He_PRP said_VBD :_COLON "_QUOTE It_PRP is_VBZ wrong_JJ to_TO waste_VB the_DT precious_JJ gift_NN of_IN time_NN ,_COMMA on_IN acrimony_NN and_CC division_NN ."_NN
+SENTPOS 1997-Clinton.txt NLTK  A  100   14 Fellow citizens , we must not waste the precious gift of this time .
+SENTPOS 1997-Clinton.txt NLTK  B  100  14 Fellow_NNP citizens_NNS ,_COMMA we_PRP must_MD not_RB waste_VB the_DT precious_JJ gift_NN of_IN this_DT time_NN ._PERIOD
+SENTPOS 1997-Clinton.txt NLTK  A  101   25 For all of us are on that same journey of our lives , and our journey , too , will come to an end .
+SENTPOS 1997-Clinton.txt NLTK  B  101  25 For_IN all_DT of_IN us_PRP are_VBP on_IN that_DT same_JJ journey_NN of_IN our_PRPDOLLAR lives_NNS ,_COMMA and_CC our_PRPDOLLAR journey_NN ,_COMMA too_RB ,_COMMA will_MD come_VB to_TO an_DT end_NN ._PERIOD
+SENTPOS 1997-Clinton.txt NLTK  A  102   10 But the journey of our America must go on .
+SENTPOS 1997-Clinton.txt NLTK  B  102  10 But_CC the_DT journey_NN of_IN our_PRPDOLLAR America_NNP must_MD go_VB on_IN ._PERIOD
+SENTPOS 1997-Clinton.txt NLTK  A  103   19 And so , my fellow Americans , we must be strong , for there is much to dare .
+SENTPOS 1997-Clinton.txt NLTK  B  103  19 And_CC so_RB ,_COMMA my_PRPDOLLAR fellow_JJ Americans_NNPS ,_COMMA we_PRP must_MD be_VB strong_JJ ,_COMMA for_IN there_EX is_VBZ much_JJ to_TO dare_VB ._PERIOD
+SENTPOS 1997-Clinton.txt NLTK  A  104   12 The demands of our time are great and they are different .
+SENTPOS 1997-Clinton.txt NLTK  B  104  12 The_DT demands_NNS of_IN our_PRPDOLLAR time_NN are_VBP great_JJ and_CC they_PRP are_VBP different_JJ ._PERIOD
+SENTPOS 1997-Clinton.txt NLTK  A  105   18 Let us meet them with faith and courage , with patience and a grateful and happy heart .
+SENTPOS 1997-Clinton.txt NLTK  B  105  18 Let_VB us_PRP meet_VB them_PRP with_IN faith_NN and_CC courage_NN ,_COMMA with_IN patience_NN and_CC a_DT grateful_JJ and_CC happy_JJ heart_NN ._PERIOD
+SENTPOS 1997-Clinton.txt NLTK  A  106   16 Let us shape the hope of this day into the noblest chapter in our history .
+SENTPOS 1997-Clinton.txt NLTK  B  106  16 Let_VB us_PRP shape_VB the_DT hope_NN of_IN this_DT day_NN into_IN the_DT noblest_JJS chapter_NN in_IN our_PRPDOLLAR history_NN ._PERIOD
+SENTPOS 1997-Clinton.txt NLTK  A  107    8 Yes , let us build our bridge .
+SENTPOS 1997-Clinton.txt NLTK  B  107   8 Yes_UH ,_COMMA let_VB us_PRP build_VB our_PRPDOLLAR bridge_NN ._PERIOD
+SENTPOS 1997-Clinton.txt NLTK  A  108   21 A bridge wide enough and strong enough for every American to cross over to a blessed land of new promise .
+SENTPOS 1997-Clinton.txt NLTK  B  108  21 A_DT bridge_NN wide_JJ enough_RB and_CC strong_JJ enough_RB for_IN every_DT American_NNP to_TO cross_VB over_IN to_TO a_DT blessed_JJ land_NN of_IN new_JJ promise_NN ._PERIOD
+SENTPOS 1997-Clinton.txt NLTK  A  109   71 May those generations whose faces we cannot yet see , whose names we may never know , say of us here that we led our beloved land into a new century with the American Dream alive for all her children ; with the American promise of a more perfect union a reality for all her people ; with America ' s bright flame of freedom spreading throughout all the world .
+SENTPOS 1997-Clinton.txt NLTK  B  109  71 May_NNP those_DT generations_NNS whose_WPDOLLAR faces_VBZ we_PRP cannot_VBP yet_RB see_VBN ,_COMMA whose_WPDOLLAR names_NNS we_PRP may_MD never_RB know_VB ,_COMMA say_VB of_IN us_PRP here_RB that_IN we_PRP led_VBD our_PRPDOLLAR beloved_JJ land_NN into_IN a_DT new_JJ century_NN with_IN the_DT American_JJ Dream_NNP alive_NN for_IN all_DT her_PRPDOLLAR children_NNS ;_SEMICOLON with_IN the_DT American_JJ promise_NN of_IN a_DT more_RBR perfect_JJ union_NN a_DT reality_NN for_IN all_DT her_PRPDOLLAR people_NNS ;_SEMICOLON with_IN America_NNP '_POS s_NN bright_VBD flame_NN of_IN freedom_NN spreading_VBG throughout_IN all_PDT the_DT world_NN ._PERIOD
+SENTPOS 1997-Clinton.txt NLTK  A  110   18 From the height of this place and the summit of this century , let us go forth .
+SENTPOS 1997-Clinton.txt NLTK  B  110  18 From_IN the_DT height_NN of_IN this_DT place_NN and_CC the_DT summit_NN of_IN this_DT century_NN ,_COMMA let_VB us_PRP go_VB forth_RB ._PERIOD
+SENTPOS 1997-Clinton.txt NLTK  A  111   19 May God strengthen our hands for the good work ahead -- and always , always bless our America .
+SENTPOS 1997-Clinton.txt NLTK  B  111  19 May_NNP God_NNP strengthen_VB our_PRPDOLLAR hands_NNS for_IN the_DT good_JJ work_NN ahead_RB --_COLON and_CC always_RB ,_COMMA always_RB bless_VB our_PRPDOLLAR America_NNP ._PERIOD

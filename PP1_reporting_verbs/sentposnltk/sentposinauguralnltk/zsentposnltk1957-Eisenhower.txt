@@ -1,0 +1,184 @@
+SENTPOS 1957-Eisenhower.txt NLTK  A    0   70 The Price of Peace Mr . Chairman , Mr . Vice President , Mr . Chief Justice , Mr . Speaker , members of my family and friends , my countrymen , and the friends of my country , wherever they may be , we meet again , as upon a like moment four years ago , and again you have witnessed my solemn oath of service to you .
+SENTPOS 1957-Eisenhower.txt NLTK  B    0  70 The_DT Price_NNP of_IN Peace_NNP Mr_NNP ._PERIOD Chairman_NNP ,_COMMA Mr_NNP ._PERIOD Vice_NNP President_NNP ,_COMMA Mr_NNP ._PERIOD Chief_NNP Justice_NNP ,_COMMA Mr_NNP ._PERIOD Speaker_NNP ,_COMMA members_NNS of_IN my_PRPDOLLAR family_NN and_CC friends_NNS ,_COMMA my_PRPDOLLAR countrymen_NNS ,_COMMA and_CC the_DT friends_NNS of_IN my_PRPDOLLAR country_NN ,_COMMA wherever_IN they_PRP may_MD be_VB ,_COMMA we_PRP meet_VBP again_RB ,_COMMA as_IN upon_IN a_DT like_JJ moment_NN four_CD years_NNS ago_RB ,_COMMA and_CC again_RB you_PRP have_VBP witnessed_VBN my_PRPDOLLAR solemn_JJ oath_NN of_IN service_NN to_TO you_PRP ._PERIOD
+SENTPOS 1957-Eisenhower.txt NLTK  A    1   29 I , too , am a witness , today testifying in your name to the principles and purposes to which we , as a people , are pledged .
+SENTPOS 1957-Eisenhower.txt NLTK  B    1  29 I_PRP ,_COMMA too_RB ,_COMMA am_VBP a_DT witness_NN ,_COMMA today_NN testifying_VBG in_IN your_PRPDOLLAR name_NN to_TO the_DT principles_NNS and_CC purposes_NNS to_TO which_WDT we_PRP ,_COMMA as_IN a_DT people_NNS ,_COMMA are_VBP pledged_VBN ._PERIOD
+SENTPOS 1957-Eisenhower.txt NLTK  A    2   21 Before all else , we seek , upon our common labor as a nation , the blessings of Almighty God .
+SENTPOS 1957-Eisenhower.txt NLTK  B    2  21 Before_IN all_DT else_RB ,_COMMA we_PRP seek_VBP ,_COMMA upon_IN our_PRPDOLLAR common_JJ labor_NN as_IN a_DT nation_NN ,_COMMA the_DT blessings_NNS of_IN Almighty_NNP God_NNP ._PERIOD
+SENTPOS 1957-Eisenhower.txt NLTK  A    3   15 And the hopes in our hearts fashion the deepest prayers of our whole people .
+SENTPOS 1957-Eisenhower.txt NLTK  B    3  15 And_CC the_DT hopes_NNS in_IN our_PRPDOLLAR hearts_NNS fashion_NN the_DT deepest_JJS prayers_NNS of_IN our_PRPDOLLAR whole_JJ people_NNS ._PERIOD
+SENTPOS 1957-Eisenhower.txt NLTK  A    4   11 May we pursue the right -- without self - righteousness .
+SENTPOS 1957-Eisenhower.txt NLTK  B    4  11 May_NNP we_PRP pursue_VBP the_DT right_NN --_COLON without_IN self_PRP -_HYPHEN righteousness_NN ._PERIOD
+SENTPOS 1957-Eisenhower.txt NLTK  A    5    8 May we know unity -- without conformity .
+SENTPOS 1957-Eisenhower.txt NLTK  B    5   8 May_NNP we_PRP know_VBP unity_JJ --_COLON without_IN conformity_NN ._PERIOD
+SENTPOS 1957-Eisenhower.txt NLTK  A    6   11 May we grow in strength -- without pride in self .
+SENTPOS 1957-Eisenhower.txt NLTK  B    6  11 May_NNP we_PRP grow_VBP in_IN strength_NN --_COLON without_IN pride_NN in_IN self_NN ._PERIOD
+SENTPOS 1957-Eisenhower.txt NLTK  A    7   20 May we , in our dealings with all peoples of the earth , ever speak truth and serve justice .
+SENTPOS 1957-Eisenhower.txt NLTK  B    7  20 May_NNP we_PRP ,_COMMA in_IN our_PRPDOLLAR dealings_NNS with_IN all_DT peoples_NNS of_IN the_DT earth_NN ,_COMMA ever_RB speak_JJ truth_NN and_CC serve_NN justice_NN ._PERIOD
+SENTPOS 1957-Eisenhower.txt NLTK  A    8   40 And so shall America -- in the sight of all men of good will -- prove true to the honorable purposes that bind and rule us as a people in all this time of trial through which we pass .
+SENTPOS 1957-Eisenhower.txt NLTK  B    8  40 And_CC so_RB shall_MD America_NNP --_COLON in_IN the_DT sight_NN of_IN all_DT men_NNS of_IN good_JJ will_MD --_COLON prove_VB true_JJ to_TO the_DT honorable_JJ purposes_NNS that_WDT bind_VBP and_CC rule_VBP us_PRP as_IN a_DT people_NNS in_IN all_DT this_DT time_NN of_IN trial_NN through_IN which_WDT we_PRP pass_VBP ._PERIOD
+SENTPOS 1957-Eisenhower.txt NLTK  A    9   19 We live in a land of plenty , but rarely has this earth known such peril as today .
+SENTPOS 1957-Eisenhower.txt NLTK  B    9  19 We_PRP live_VBP in_IN a_DT land_NN of_IN plenty_NN ,_COMMA but_CC rarely_RB has_VBZ this_DT earth_NN known_VBN such_JJ peril_NN as_IN today_NN ._PERIOD
+SENTPOS 1957-Eisenhower.txt NLTK  A   10    8 In our nation work and wealth abound .
+SENTPOS 1957-Eisenhower.txt NLTK  B   10   8 In_IN our_PRPDOLLAR nation_NN work_NN and_CC wealth_NN abound_NN ._PERIOD
+SENTPOS 1957-Eisenhower.txt NLTK  A   11    4 Our population grows .
+SENTPOS 1957-Eisenhower.txt NLTK  B   11   4 Our_PRPDOLLAR population_NN grows_NNS ._PERIOD
+SENTPOS 1957-Eisenhower.txt NLTK  A   12   15 Commerce crowds our rivers and rails , our skies , harbors , and highways .
+SENTPOS 1957-Eisenhower.txt NLTK  B   12  15 Commerce_NNP crowds_VBZ our_PRPDOLLAR rivers_NNS and_CC rails_NNS ,_COMMA our_PRPDOLLAR skies_NNS ,_COMMA harbors_NNS ,_COMMA and_CC highways_NNS ._PERIOD
+SENTPOS 1957-Eisenhower.txt NLTK  A   13    9 Our soil is fertile , our agriculture productive .
+SENTPOS 1957-Eisenhower.txt NLTK  B   13   9 Our_PRPDOLLAR soil_NN is_VBZ fertile_JJ ,_COMMA our_PRPDOLLAR agriculture_NN productive_NN ._PERIOD
+SENTPOS 1957-Eisenhower.txt NLTK  A   14   31 The air rings with the song of our industry -- rolling mills and blast furnaces , dynamos , dams , and assembly lines -- the chorus of America the bountiful .
+SENTPOS 1957-Eisenhower.txt NLTK  B   14  31 The_DT air_NN rings_NNS with_IN the_DT song_NN of_IN our_PRPDOLLAR industry_NN --_COLON rolling_VBG mills_NNS and_CC blast_NN furnaces_NNS ,_COMMA dynamos_NN ,_COMMA dams_NN ,_COMMA and_CC assembly_RB lines_NNS --_COLON the_DT chorus_NN of_IN America_NNP the_DT bountiful_NN ._PERIOD
+SENTPOS 1957-Eisenhower.txt NLTK  A   15   15 This is our home -- yet this is not the whole of our world .
+SENTPOS 1957-Eisenhower.txt NLTK  B   15  15 This_DT is_VBZ our_PRPDOLLAR home_NN --_COLON yet_RB this_DT is_VBZ not_RB the_DT whole_NN of_IN our_PRPDOLLAR world_NN ._PERIOD
+SENTPOS 1957-Eisenhower.txt NLTK  A   16   28 For our world is where our full destiny lies -- with men , of all people , and all nations , who are or would be free .
+SENTPOS 1957-Eisenhower.txt NLTK  B   16  28 For_IN our_PRPDOLLAR world_NN is_VBZ where_WRB our_PRPDOLLAR full_JJ destiny_NN lies_NNS --_COLON with_IN men_NNS ,_COMMA of_IN all_DT people_NNS ,_COMMA and_CC all_DT nations_NNS ,_COMMA who_WP are_VBP or_CC would_MD be_VB free_JJ ._PERIOD
+SENTPOS 1957-Eisenhower.txt NLTK  A   17   19 And for them -- and so for us -- this is no time of ease or of rest .
+SENTPOS 1957-Eisenhower.txt NLTK  B   17  19 And_CC for_IN them_PRP --_COLON and_CC so_RB for_IN us_PRP --_COLON this_DT is_VBZ no_DT time_NN of_IN ease_NN or_CC of_IN rest_NN ._PERIOD
+SENTPOS 1957-Eisenhower.txt NLTK  A   18   14 In too much of the earth there is want , discord , danger .
+SENTPOS 1957-Eisenhower.txt NLTK  B   18  14 In_IN too_RB much_JJ of_IN the_DT earth_NN there_EX is_VBZ want_JJ ,_COMMA discord_NN ,_COMMA danger_NN ._PERIOD
+SENTPOS 1957-Eisenhower.txt NLTK  A   19   34 New forces and new nations stir and strive across the earth , with power to bring , by their fate , great good or great evil to the free world ' s future .
+SENTPOS 1957-Eisenhower.txt NLTK  B   19  34 New_NNP forces_NNS and_CC new_JJ nations_NNS stir_NN and_CC strive_JJ across_IN the_DT earth_NN ,_COMMA with_IN power_NN to_TO bring_VB ,_COMMA by_IN their_PRPDOLLAR fate_NN ,_COMMA great_JJ good_JJ or_CC great_JJ evil_NN to_TO the_DT free_JJ world_NN '_QUOTE s_JJ future_NN ._PERIOD
+SENTPOS 1957-Eisenhower.txt NLTK  A   20   34 From the deserts of North Africa to the islands of the South Pacific one third of all mankind has entered upon an historic struggle for a new freedom ; freedom from grinding poverty .
+SENTPOS 1957-Eisenhower.txt NLTK  B   20  34 From_IN the_DT deserts_NNS of_IN North_NNP Africa_NNP to_TO the_DT islands_NNS of_IN the_DT South_NNP Pacific_NNP one_CD third_NN of_IN all_DT mankind_NN has_VBZ entered_VBN upon_IN an_DT historic_JJ struggle_NN for_IN a_DT new_JJ freedom_NN ;_SEMICOLON freedom_NN from_IN grinding_VBG poverty_NN ._PERIOD
+SENTPOS 1957-Eisenhower.txt NLTK  A   21   40 Across all continents , nearly a billion people seek , sometimes almost in desperation , for the skills and knowledge and assistance by which they may satisfy from their own resources , the material wants common to all mankind .
+SENTPOS 1957-Eisenhower.txt NLTK  B   21  40 Across_IN all_DT continents_NNS ,_COMMA nearly_RB a_DT billion_CD people_NNS seek_VBP ,_COMMA sometimes_RB almost_RB in_IN desperation_NN ,_COMMA for_IN the_DT skills_NNS and_CC knowledge_NN and_CC assistance_NN by_IN which_WDT they_PRP may_MD satisfy_VB from_IN their_PRPDOLLAR own_JJ resources_NNS ,_COMMA the_DT material_NN wants_VBZ common_JJ to_TO all_DT mankind_NN ._PERIOD
+SENTPOS 1957-Eisenhower.txt NLTK  A   22   16 No nation , however old or great , escapes this tempest of change and turmoil .
+SENTPOS 1957-Eisenhower.txt NLTK  B   22  16 No_DT nation_NN ,_COMMA however_RB old_JJ or_CC great_JJ ,_COMMA escapes_VBZ this_DT tempest_NN of_IN change_NN and_CC turmoil_NN ._PERIOD
+SENTPOS 1957-Eisenhower.txt NLTK  A   23   17 Some , impoverished by the recent World War , seek to restore their means of livelihood .
+SENTPOS 1957-Eisenhower.txt NLTK  B   23  17 Some_DT ,_COMMA impoverished_VBN by_IN the_DT recent_JJ World_NNP War_NNP ,_COMMA seek_NN to_TO restore_VB their_PRPDOLLAR means_NNS of_IN livelihood_NN ._PERIOD
+SENTPOS 1957-Eisenhower.txt NLTK  A   24   12 In the heart of Europe , Germany still stands tragically divided .
+SENTPOS 1957-Eisenhower.txt NLTK  B   24  12 In_IN the_DT heart_NN of_IN Europe_NNP ,_COMMA Germany_NNP still_RB stands_VBZ tragically_RB divided_VBN ._PERIOD
+SENTPOS 1957-Eisenhower.txt NLTK  A   25    7 So is the whole continent divided .
+SENTPOS 1957-Eisenhower.txt NLTK  B   25   7 So_RB is_VBZ the_DT whole_JJ continent_NN divided_VBD ._PERIOD
+SENTPOS 1957-Eisenhower.txt NLTK  A   26   10 And so , too , is all the world .
+SENTPOS 1957-Eisenhower.txt NLTK  B   26  10 And_CC so_RB ,_COMMA too_RB ,_COMMA is_VBZ all_PDT the_DT world_NN ._PERIOD
+SENTPOS 1957-Eisenhower.txt NLTK  A   27   13 The divisive force is International Communism and the power that it controls .
+SENTPOS 1957-Eisenhower.txt NLTK  B   27  13 The_DT divisive_JJ force_NN is_VBZ International_NNP Communism_NNP and_CC the_DT power_NN that_IN it_PRP controls_VBZ ._PERIOD
+SENTPOS 1957-Eisenhower.txt NLTK  A   28   15 The designs of that power , dark in purpose , are clear in practice .
+SENTPOS 1957-Eisenhower.txt NLTK  B   28  15 The_DT designs_NNS of_IN that_DT power_NN ,_COMMA dark_NN in_IN purpose_NN ,_COMMA are_VBP clear_JJ in_IN practice_NN ._PERIOD
+SENTPOS 1957-Eisenhower.txt NLTK  A   29   13 It strives to seal forever the fate of those it has enslaved .
+SENTPOS 1957-Eisenhower.txt NLTK  B   29  13 It_PRP strives_VBZ to_TO seal_VB forever_RB the_DT fate_NN of_IN those_DT it_PRP has_VBZ enslaved_VBN ._PERIOD
+SENTPOS 1957-Eisenhower.txt NLTK  A   30   11 It strives to break the ties that unite the free .
+SENTPOS 1957-Eisenhower.txt NLTK  B   30  11 It_PRP strives_VBZ to_TO break_VB the_DT ties_NNS that_WDT unite_VBP the_DT free_JJ ._PERIOD
+SENTPOS 1957-Eisenhower.txt NLTK  A   31   35 And it strives to capture -- to exploit for its own greater power -- all forces of change in the world , especially the needs of the hungry and the hopes of the oppressed .
+SENTPOS 1957-Eisenhower.txt NLTK  B   31  35 And_CC it_PRP strives_VBZ to_TO capture_VB --_COLON to_TO exploit_VB for_IN its_PRPDOLLAR own_JJ greater_JJR power_NN --_COLON all_DT forces_NNS of_IN change_NN in_IN the_DT world_NN ,_COMMA especially_RB the_DT needs_NNS of_IN the_DT hungry_NN and_CC the_DT hopes_NNS of_IN the_DT oppressed_VBN ._PERIOD
+SENTPOS 1957-Eisenhower.txt NLTK  A   32   32 Yet the world of International Communism has itself been shaken by a fierce and mighty force : the readiness of men who love freedom to pledge their lives to that love .
+SENTPOS 1957-Eisenhower.txt NLTK  B   32  32 Yet_RB the_DT world_NN of_IN International_NNP Communism_NNP has_VBZ itself_PRP been_VBN shaken_VBN by_IN a_DT fierce_JJ and_CC mighty_JJ force_NN :_COLON the_DT readiness_NN of_IN men_NNS who_WP love_VBP freedom_NN to_TO pledge_VB their_PRPDOLLAR lives_NNS to_TO that_DT love_NN ._PERIOD
+SENTPOS 1957-Eisenhower.txt NLTK  A   33   23 Through the night of their bondage , the unconquerable will of heroes has struck with the swift , sharp thrust of lightning .
+SENTPOS 1957-Eisenhower.txt NLTK  B   33  23 Through_IN the_DT night_NN of_IN their_PRPDOLLAR bondage_NN ,_COMMA the_DT unconquerable_JJ will_MD of_IN heroes_NNS has_VBZ struck_VBN with_IN the_DT swift_NN ,_COMMA sharp_JJ thrust_NN of_IN lightning_NN ._PERIOD
+SENTPOS 1957-Eisenhower.txt NLTK  A   34   28 Budapest is no longer merely the name of a city ; henceforth it is a new and shining symbol of man ' s yearning to be free .
+SENTPOS 1957-Eisenhower.txt NLTK  B   34  28 Budapest_NNP is_VBZ no_RB longer_RBR merely_RB the_DT name_NN of_IN a_DT city_NN ;_SEMICOLON henceforth_NN it_PRP is_VBZ a_DT new_JJ and_CC shining_JJ symbol_NN of_IN man_NN '_QUOTE s_JJ yearning_NN to_TO be_VB free_JJ ._PERIOD
+SENTPOS 1957-Eisenhower.txt NLTK  A   35   13 Thus across all the globe there harshly blow the winds of change .
+SENTPOS 1957-Eisenhower.txt NLTK  B   35  13 Thus_RB across_IN all_PDT the_DT globe_NN there_EX harshly_RB blow_IN the_DT winds_NNS of_IN change_NN ._PERIOD
+SENTPOS 1957-Eisenhower.txt NLTK  A   36   21 And , we -- though fortunate be our lot -- know that we can never turn our backs to them .
+SENTPOS 1957-Eisenhower.txt NLTK  B   36  21 And_CC ,_COMMA we_PRP --_COLON though_IN fortunate_JJ be_VB our_PRPDOLLAR lot_NN --_COLON know_VBP that_IN we_PRP can_MD never_RB turn_VB our_PRPDOLLAR backs_NNS to_TO them_PRP ._PERIOD
+SENTPOS 1957-Eisenhower.txt NLTK  A   37   31 We look upon this shaken earth , and we declare our firm and fixed purpose -- the building of a peace with justice in a world where moral law prevails .
+SENTPOS 1957-Eisenhower.txt NLTK  B   37  31 We_PRP look_VBP upon_IN this_DT shaken_JJ earth_NN ,_COMMA and_CC we_PRP declare_VBP our_PRPDOLLAR firm_NN and_CC fixed_VBN purpose_NN --_COLON the_DT building_NN of_IN a_DT peace_NN with_IN justice_NN in_IN a_DT world_NN where_WRB moral_JJ law_NN prevails_VBZ ._PERIOD
+SENTPOS 1957-Eisenhower.txt NLTK  A   38   13 The building of such a peace is a bold and solemn purpose .
+SENTPOS 1957-Eisenhower.txt NLTK  B   38  13 The_DT building_NN of_IN such_JJ a_DT peace_NN is_VBZ a_DT bold_JJ and_CC solemn_JJ purpose_NN ._PERIOD
+SENTPOS 1957-Eisenhower.txt NLTK  A   39    6 To proclaim it is easy .
+SENTPOS 1957-Eisenhower.txt NLTK  B   39   6 To_TO proclaim_VB it_PRP is_VBZ easy_JJ ._PERIOD
+SENTPOS 1957-Eisenhower.txt NLTK  A   40    7 To serve it will be hard .
+SENTPOS 1957-Eisenhower.txt NLTK  B   40   7 To_TO serve_VB it_PRP will_MD be_VB hard_RB ._PERIOD
+SENTPOS 1957-Eisenhower.txt NLTK  A   41   22 And to attain it , we must be aware of its full meaning -- and ready to pay its full price .
+SENTPOS 1957-Eisenhower.txt NLTK  B   41  22 And_CC to_TO attain_VB it_PRP ,_COMMA we_PRP must_MD be_VB aware_JJ of_IN its_PRPDOLLAR full_JJ meaning_NN --_COLON and_CC ready_JJ to_TO pay_VB its_PRPDOLLAR full_JJ price_NN ._PERIOD
+SENTPOS 1957-Eisenhower.txt NLTK  A   42   10 We know clearly what we seek , and why .
+SENTPOS 1957-Eisenhower.txt NLTK  B   42  10 We_PRP know_VBP clearly_RB what_WP we_PRP seek_VBP ,_COMMA and_CC why_WRB ._PERIOD
+SENTPOS 1957-Eisenhower.txt NLTK  A   43   13 We seek peace , knowing that peace is the climate of freedom .
+SENTPOS 1957-Eisenhower.txt NLTK  B   43  13 We_PRP seek_VBP peace_NN ,_COMMA knowing_VBG that_IN peace_NN is_VBZ the_DT climate_NN of_IN freedom_NN ._PERIOD
+SENTPOS 1957-Eisenhower.txt NLTK  A   44   38 And now , as in no other age , we seek it because we have been warned , by the power of modern weapons , that peace may be the only climate possible for human life itself .
+SENTPOS 1957-Eisenhower.txt NLTK  B   44  38 And_CC now_RB ,_COMMA as_IN in_IN no_DT other_JJ age_NN ,_COMMA we_PRP seek_VBP it_PRP because_IN we_PRP have_VBP been_VBN warned_VBN ,_COMMA by_IN the_DT power_NN of_IN modern_JJ weapons_NNS ,_COMMA that_IN peace_NN may_MD be_VB the_DT only_JJ climate_NN possible_JJ for_IN human_JJ life_NN itself_PRP ._PERIOD
+SENTPOS 1957-Eisenhower.txt NLTK  A   45   22 Yet this peace we seek cannot be born of fear alone : it must be rooted in the lives of nations .
+SENTPOS 1957-Eisenhower.txt NLTK  B   45  22 Yet_RB this_DT peace_NN we_PRP seek_VBP cannot_JJ be_VB born_VBN of_IN fear_NN alone_RB :_COLON it_PRP must_MD be_VB rooted_VBN in_IN the_DT lives_NNS of_IN nations_NNS ._PERIOD
+SENTPOS 1957-Eisenhower.txt NLTK  A   46   27 There must be justice , sensed and shared by all peoples , for , without justice the world can know only a tense and unstable truce .
+SENTPOS 1957-Eisenhower.txt NLTK  B   46  27 There_EX must_MD be_VB justice_NN ,_COMMA sensed_VBN and_CC shared_VBN by_IN all_DT peoples_NNS ,_COMMA for_IN ,_COMMA without_IN justice_NN the_DT world_NN can_MD know_VB only_RB a_DT tense_NN and_CC unstable_JJ truce_NN ._PERIOD
+SENTPOS 1957-Eisenhower.txt NLTK  A   47   34 There must be law , steadily invoked and respected by all nations , for without law , the world promises only such meager justice as the pity of the strong upon the weak .
+SENTPOS 1957-Eisenhower.txt NLTK  B   47  34 There_EX must_MD be_VB law_NN ,_COMMA steadily_RB invoked_VBN and_CC respected_VBN by_IN all_DT nations_NNS ,_COMMA for_IN without_IN law_NN ,_COMMA the_DT world_NN promises_VBZ only_RB such_JJ meager_JJ justice_NN as_IN the_DT pity_NN of_IN the_DT strong_JJ upon_IN the_DT weak_JJ ._PERIOD
+SENTPOS 1957-Eisenhower.txt NLTK  A   48   25 But the law of which we speak , comprehending the values of freedom , affirms the equality of all nations , great and small .
+SENTPOS 1957-Eisenhower.txt NLTK  B   48  25 But_CC the_DT law_NN of_IN which_WDT we_PRP speak_VBP ,_COMMA comprehending_VBG the_DT values_NNS of_IN freedom_NN ,_COMMA affirms_VBZ the_DT equality_NN of_IN all_DT nations_NNS ,_COMMA great_JJ and_CC small_JJ ._PERIOD
+SENTPOS 1957-Eisenhower.txt NLTK  A   49   32 Splendid as can be the blessings of such a peace , high will be its cost : in toil patiently sustained , in help honorably given , in sacrifice calmly borne .
+SENTPOS 1957-Eisenhower.txt NLTK  B   49  32 Splendid_NNP as_IN can_MD be_VB the_DT blessings_NNS of_IN such_JJ a_DT peace_NN ,_COMMA high_JJ will_MD be_VB its_PRPDOLLAR cost_NN :_COLON in_IN toil_NN patiently_RB sustained_VBN ,_COMMA in_IN help_NN honorably_RB given_VBN ,_COMMA in_IN sacrifice_NN calmly_RB borne_NN ._PERIOD
+SENTPOS 1957-Eisenhower.txt NLTK  A   50   11 We are called to meet the price of this peace .
+SENTPOS 1957-Eisenhower.txt NLTK  B   50  11 We_PRP are_VBP called_VBN to_TO meet_VB the_DT price_NN of_IN this_DT peace_NN ._PERIOD
+SENTPOS 1957-Eisenhower.txt NLTK  A   51   34 To counter the threat of those who seek to rule by force , we must pay the costs of our own needed military strength , and help to build the security of others .
+SENTPOS 1957-Eisenhower.txt NLTK  B   51  34 To_TO counter_VB the_DT threat_NN of_IN those_DT who_WP seek_VBP to_TO rule_VB by_IN force_NN ,_COMMA we_PRP must_MD pay_VB the_DT costs_NNS of_IN our_PRPDOLLAR own_JJ needed_VBN military_JJ strength_NN ,_COMMA and_CC help_VB to_TO build_VB the_DT security_NN of_IN others_NNS ._PERIOD
+SENTPOS 1957-Eisenhower.txt NLTK  A   52   34 We must use our skills and knowledge and , at times , our substance , to help others rise from misery , however far the scene of suffering may be from our shores .
+SENTPOS 1957-Eisenhower.txt NLTK  B   52  34 We_PRP must_MD use_VB our_PRPDOLLAR skills_NNS and_CC knowledge_NN and_CC ,_COMMA at_IN times_NNS ,_COMMA our_PRPDOLLAR substance_NN ,_COMMA to_TO help_VB others_NNS rise_VB from_IN misery_NN ,_COMMA however_RB far_RB the_DT scene_NN of_IN suffering_NN may_MD be_VB from_IN our_PRPDOLLAR shores_NNS ._PERIOD
+SENTPOS 1957-Eisenhower.txt NLTK  A   53   38 For wherever in the world a people knows desperate want , there must appear at least the spark of hope , the hope of progress -- or there will surely rise at last the flames of conflict .
+SENTPOS 1957-Eisenhower.txt NLTK  B   53  38 For_IN wherever_NN in_IN the_DT world_NN a_DT people_NNS knows_VBP desperate_JJ want_NN ,_COMMA there_EX must_MD appear_VB at_IN least_JJS the_DT spark_NN of_IN hope_NN ,_COMMA the_DT hope_NN of_IN progress_NN --_COLON or_CC there_EX will_MD surely_RB rise_VB at_IN last_JJ the_DT flames_NNS of_IN conflict_NN ._PERIOD
+SENTPOS 1957-Eisenhower.txt NLTK  A   54   15 We recognize and accept our own deep involvement in the destiny of men everywhere .
+SENTPOS 1957-Eisenhower.txt NLTK  B   54  15 We_PRP recognize_VBP and_CC accept_VB our_PRPDOLLAR own_JJ deep_JJ involvement_NN in_IN the_DT destiny_NN of_IN men_NNS everywhere_RB ._PERIOD
+SENTPOS 1957-Eisenhower.txt NLTK  A   55   20 We are accordingly pledged to honor , and to strive to fortify , the authority of the United Nations .
+SENTPOS 1957-Eisenhower.txt NLTK  B   55  20 We_PRP are_VBP accordingly_RB pledged_VBN to_TO honor_VB ,_COMMA and_CC to_TO strive_VB to_TO fortify_VB ,_COMMA the_DT authority_NN of_IN the_DT United_NNP Nations_NNPS ._PERIOD
+SENTPOS 1957-Eisenhower.txt NLTK  A   56   26 For in that body rests the best hope of our age for the assertion of that law by which all nations may live in dignity .
+SENTPOS 1957-Eisenhower.txt NLTK  B   56  26 For_IN in_IN that_DT body_NN rests_VBZ the_DT best_JJS hope_NN of_IN our_PRPDOLLAR age_NN for_IN the_DT assertion_NN of_IN that_DT law_NN by_IN which_WDT all_DT nations_NNS may_MD live_VB in_IN dignity_NN ._PERIOD
+SENTPOS 1957-Eisenhower.txt NLTK  A   57   56 And , beyond this general resolve , we are called to act a responsible role in the world ' s great concerns or conflicts -- whether they touch upon the affairs of a vast region , the fate of an island in the Pacific , or the use of a canal in the Middle East .
+SENTPOS 1957-Eisenhower.txt NLTK  B   57  56 And_CC ,_COMMA beyond_IN this_DT general_JJ resolve_NN ,_COMMA we_PRP are_VBP called_VBN to_TO act_VB a_DT responsible_JJ role_NN in_IN the_DT world_NN '_POS s_JJ great_JJ concerns_NNS or_CC conflicts_NNS --_COLON whether_IN they_PRP touch_VBP upon_IN the_DT affairs_NNS of_IN a_DT vast_JJ region_NN ,_COMMA the_DT fate_NN of_IN an_DT island_NN in_IN the_DT Pacific_NNP ,_COMMA or_CC the_DT use_NN of_IN a_DT canal_NN in_IN the_DT Middle_NNP East_NNP ._PERIOD
+SENTPOS 1957-Eisenhower.txt NLTK  A   58   18 Only in respecting the hopes and cultures of others will we practice the equality of all nations .
+SENTPOS 1957-Eisenhower.txt NLTK  B   58  18 Only_RB in_IN respecting_VBG the_DT hopes_NNS and_CC cultures_NNS of_IN others_NNS will_MD we_PRP practice_NN the_DT equality_NN of_IN all_DT nations_NNS ._PERIOD
+SENTPOS 1957-Eisenhower.txt NLTK  A   59   29 Only as we show willingness and wisdom in giving counsel -- in receiving counsel -- and in sharing burdens , will we wisely perform the work of peace .
+SENTPOS 1957-Eisenhower.txt NLTK  B   59  29 Only_RB as_IN we_PRP show_VBP willingness_JJ and_CC wisdom_NN in_IN giving_VBG counsel_NN --_COLON in_IN receiving_VBG counsel_NN --_COLON and_CC in_IN sharing_VBG burdens_NNS ,_COMMA will_MD we_PRP wisely_RB perform_VBP the_DT work_NN of_IN peace_NN ._PERIOD
+SENTPOS 1957-Eisenhower.txt NLTK  A   60   13 For one truth must rule all we think and all we do .
+SENTPOS 1957-Eisenhower.txt NLTK  B   60  13 For_IN one_CD truth_NN must_MD rule_VB all_DT we_PRP think_VBP and_CC all_DT we_PRP do_VBP ._PERIOD
+SENTPOS 1957-Eisenhower.txt NLTK  A   61    8 No people can live to itself alone .
+SENTPOS 1957-Eisenhower.txt NLTK  B   61   8 No_DT people_NNS can_MD live_VB to_TO itself_PRP alone_RB ._PERIOD
+SENTPOS 1957-Eisenhower.txt NLTK  A   62   14 The unity of all who dwell in freedom is their only sure defense .
+SENTPOS 1957-Eisenhower.txt NLTK  B   62  14 The_DT unity_NN of_IN all_DT who_WP dwell_VBP in_IN freedom_NN is_VBZ their_PRPDOLLAR only_JJ sure_JJ defense_NN ._PERIOD
+SENTPOS 1957-Eisenhower.txt NLTK  A   63   33 The economic need of all nations -- in mutual dependence -- makes isolation an impossibility ; not even America ' s prosperity could long survive if other nations did not also prosper .
+SENTPOS 1957-Eisenhower.txt NLTK  B   63  33 The_DT economic_JJ need_NN of_IN all_DT nations_NNS --_COLON in_IN mutual_JJ dependence_NN --_COLON makes_VBZ isolation_NN an_DT impossibility_NN ;_SEMICOLON not_RB even_RB America_NNP '_POS s_NN prosperity_NN could_MD long_RB survive_VB if_IN other_JJ nations_NNS did_VBD not_RB also_RB prosper_NN ._PERIOD
+SENTPOS 1957-Eisenhower.txt NLTK  A   64   14 No nation can longer be a fortress , lone and strong and safe .
+SENTPOS 1957-Eisenhower.txt NLTK  B   64  14 No_DT nation_NN can_MD longer_RB be_VB a_DT fortress_NN ,_COMMA lone_NN and_CC strong_JJ and_CC safe_JJ ._PERIOD
+SENTPOS 1957-Eisenhower.txt NLTK  A   65   18 And any people , seeking such shelter for themselves , can now build only their own prison .
+SENTPOS 1957-Eisenhower.txt NLTK  B   65  18 And_CC any_DT people_NNS ,_COMMA seeking_VBG such_JJ shelter_NN for_IN themselves_PRP ,_COMMA can_MD now_RB build_VB only_RB their_PRPDOLLAR own_JJ prison_NN ._PERIOD
+SENTPOS 1957-Eisenhower.txt NLTK  A   66   15 Our pledge to these principles is constant , because we believe in their rightness .
+SENTPOS 1957-Eisenhower.txt NLTK  B   66  15 Our_PRPDOLLAR pledge_NN to_TO these_DT principles_NNS is_VBZ constant_JJ ,_COMMA because_IN we_PRP believe_VBP in_IN their_PRPDOLLAR rightness_NN ._PERIOD
+SENTPOS 1957-Eisenhower.txt NLTK  A   67    9 We do not fear this world of change .
+SENTPOS 1957-Eisenhower.txt NLTK  B   67   9 We_PRP do_VBP not_RB fear_VB this_DT world_NN of_IN change_NN ._PERIOD
+SENTPOS 1957-Eisenhower.txt NLTK  A   68   10 America is no stranger to much of its spirit .
+SENTPOS 1957-Eisenhower.txt NLTK  B   68  10 America_NNP is_VBZ no_DT stranger_NN to_TO much_RB of_IN its_PRPDOLLAR spirit_NN ._PERIOD
+SENTPOS 1957-Eisenhower.txt NLTK  A   69   15 Everywhere we see the seeds of the same growth that America itself has known .
+SENTPOS 1957-Eisenhower.txt NLTK  B   69  15 Everywhere_RB we_PRP see_VBP the_DT seeds_NNS of_IN the_DT same_JJ growth_NN that_IN America_NNP itself_PRP has_VBZ known_VBN ._PERIOD
+SENTPOS 1957-Eisenhower.txt NLTK  A   70   25 The American experiment has , for generations , fired the passion and the courage of millions elsewhere seeking freedom , equality , and opportunity .
+SENTPOS 1957-Eisenhower.txt NLTK  B   70  25 The_DT American_JJ experiment_NN has_VBZ ,_COMMA for_IN generations_NNS ,_COMMA fired_VBD the_DT passion_NN and_CC the_DT courage_NN of_IN millions_NNS elsewhere_RB seeking_VBG freedom_NN ,_COMMA equality_NN ,_COMMA and_CC opportunity_NN ._PERIOD
+SENTPOS 1957-Eisenhower.txt NLTK  A   71   24 And the American story of material progress has helped excite the longing of all needy peoples for some satisfaction of their human wants .
+SENTPOS 1957-Eisenhower.txt NLTK  B   71  24 And_CC the_DT American_JJ story_NN of_IN material_NN progress_NN has_VBZ helped_VBN excite_VB the_DT longing_NN of_IN all_DT needy_JJ peoples_NNS for_IN some_DT satisfaction_NN of_IN their_PRPDOLLAR human_JJ wants_VBZ ._PERIOD
+SENTPOS 1957-Eisenhower.txt NLTK  A   72   15 These hopes that we have helped to inspire , we can help to fulfill .
+SENTPOS 1957-Eisenhower.txt NLTK  B   72  15 These_DT hopes_VBZ that_IN we_PRP have_VBP helped_VBN to_TO inspire_VB ,_COMMA we_PRP can_MD help_VB to_TO fulfill_VB ._PERIOD
+SENTPOS 1957-Eisenhower.txt NLTK  A   73   11 In this confidence , we speak plainly to all peoples .
+SENTPOS 1957-Eisenhower.txt NLTK  B   73  11 In_IN this_DT confidence_NN ,_COMMA we_PRP speak_VBP plainly_RB to_TO all_DT peoples_NNS ._PERIOD
+SENTPOS 1957-Eisenhower.txt NLTK  A   74   14 We cherish our friendship with all nations that are or would be free .
+SENTPOS 1957-Eisenhower.txt NLTK  B   74  14 We_PRP cherish_VBP our_PRPDOLLAR friendship_NN with_IN all_DT nations_NNS that_WDT are_VBP or_CC would_MD be_VB free_JJ ._PERIOD
+SENTPOS 1957-Eisenhower.txt NLTK  A   75    9 We respect , no less , their independence .
+SENTPOS 1957-Eisenhower.txt NLTK  B   75   9 We_PRP respect_VBP ,_COMMA no_DT less_JJR ,_COMMA their_PRPDOLLAR independence_NN ._PERIOD
+SENTPOS 1957-Eisenhower.txt NLTK  A   76   37 And when , in time of want or peril , they ask our help , they may honorably receive it ; for we no more seek to buy their sovereignty than we would sell our own .
+SENTPOS 1957-Eisenhower.txt NLTK  B   76  37 And_CC when_WRB ,_COMMA in_IN time_NN of_IN want_NN or_CC peril_NN ,_COMMA they_PRP ask_VBP our_PRPDOLLAR help_NN ,_COMMA they_PRP may_MD honorably_RB receive_VB it_PRP ;_SEMICOLON for_IN we_PRP no_DT more_RBR seek_JJ to_TO buy_VB their_PRPDOLLAR sovereignty_NN than_IN we_PRP would_MD sell_VB our_PRPDOLLAR own_JJ ._PERIOD
+SENTPOS 1957-Eisenhower.txt NLTK  A   77    7 Sovereignty is never bartered among freemen .
+SENTPOS 1957-Eisenhower.txt NLTK  B   77   7 Sovereignty_NN is_VBZ never_RB bartered_VBN among_IN freemen_NNS ._PERIOD
+SENTPOS 1957-Eisenhower.txt NLTK  A   78   16 We honor the aspirations of those nations which , now captive , long for freedom .
+SENTPOS 1957-Eisenhower.txt NLTK  B   78  16 We_PRP honor_VBP the_DT aspirations_NNS of_IN those_DT nations_NNS which_WDT ,_COMMA now_RB captive_JJ ,_COMMA long_RB for_IN freedom_NN ._PERIOD
+SENTPOS 1957-Eisenhower.txt NLTK  A   79   14 We seek neither their military alliance nor any artificial imitation of our society .
+SENTPOS 1957-Eisenhower.txt NLTK  B   79  14 We_PRP seek_VBP neither_DT their_PRPDOLLAR military_JJ alliance_NN nor_CC any_DT artificial_JJ imitation_NN of_IN our_PRPDOLLAR society_NN ._PERIOD
+SENTPOS 1957-Eisenhower.txt NLTK  A   80   26 And they can know the warmth of the welcome that awaits them when , as must be , they join again the ranks of freedom .
+SENTPOS 1957-Eisenhower.txt NLTK  B   80  26 And_CC they_PRP can_MD know_VB the_DT warmth_NN of_IN the_DT welcome_NN that_IN awaits_VBZ them_PRP when_WRB ,_COMMA as_IN must_MD be_VB ,_COMMA they_PRP join_VBP again_RB the_DT ranks_NNS of_IN freedom_NN ._PERIOD
+SENTPOS 1957-Eisenhower.txt NLTK  A   81   21 We honor , no less in this divided world than in a less tormented time , the people of Russia .
+SENTPOS 1957-Eisenhower.txt NLTK  B   81  21 We_PRP honor_VBP ,_COMMA no_DT less_NN in_IN this_DT divided_JJ world_NN than_IN in_IN a_DT less_RBR tormented_JJ time_NN ,_COMMA the_DT people_NNS of_IN Russia_NNP ._PERIOD
+SENTPOS 1957-Eisenhower.txt NLTK  A   82   17 We do not dread , rather do we welcome , their progress in education and industry .
+SENTPOS 1957-Eisenhower.txt NLTK  B   82  17 We_PRP do_VBP not_RB dread_VB ,_COMMA rather_RB do_VBP we_PRP welcome_VB ,_COMMA their_PRPDOLLAR progress_NN in_IN education_NN and_CC industry_NN ._PERIOD
+SENTPOS 1957-Eisenhower.txt NLTK  A   83   29 We wish them success in their demands for more intellectual freedom , greater security before their own laws , fuller enjoyment of the rewards of their own toil .
+SENTPOS 1957-Eisenhower.txt NLTK  B   83  29 We_PRP wish_VBP them_PRP success_NN in_IN their_PRPDOLLAR demands_NNS for_IN more_JJR intellectual_JJ freedom_NN ,_COMMA greater_JJR security_NN before_IN their_PRPDOLLAR own_JJ laws_NNS ,_COMMA fuller_NN enjoyment_NN of_IN the_DT rewards_NNS of_IN their_PRPDOLLAR own_JJ toil_NN ._PERIOD
+SENTPOS 1957-Eisenhower.txt NLTK  A   84   27 For as such things come to pass , the more certain will be the coming of that day when our peoples may freely meet in friendship .
+SENTPOS 1957-Eisenhower.txt NLTK  B   84  27 For_IN as_IN such_JJ things_NNS come_VBP to_TO pass_VB ,_COMMA the_DT more_JJR certain_JJ will_MD be_VB the_DT coming_VBG of_IN that_DT day_NN when_WRB our_PRPDOLLAR peoples_NNS may_MD freely_RB meet_VB in_IN friendship_NN ._PERIOD
+SENTPOS 1957-Eisenhower.txt NLTK  A   85   18 So we voice our hope and our belief that we can help to heal this divided world .
+SENTPOS 1957-Eisenhower.txt NLTK  B   85  18 So_IN we_PRP voice_VBP our_PRPDOLLAR hope_NN and_CC our_PRPDOLLAR belief_NN that_IN we_PRP can_MD help_VB to_TO heal_VB this_DT divided_JJ world_NN ._PERIOD
+SENTPOS 1957-Eisenhower.txt NLTK  A   86   15 Thus may the nations cease to live in trembling before the menace of force .
+SENTPOS 1957-Eisenhower.txt NLTK  B   86  15 Thus_RB may_MD the_DT nations_NNS cease_VBP to_TO live_VB in_IN trembling_VBG before_IN the_DT menace_NN of_IN force_NN ._PERIOD
+SENTPOS 1957-Eisenhower.txt NLTK  A   87   20 Thus may the weight of fear and the weight of arms be taken from the burdened shoulders of mankind .
+SENTPOS 1957-Eisenhower.txt NLTK  B   87  20 Thus_RB may_MD the_DT weight_NN of_IN fear_NN and_CC the_DT weight_NN of_IN arms_NNS be_VB taken_VBN from_IN the_DT burdened_JJ shoulders_NNS of_IN mankind_NN ._PERIOD
+SENTPOS 1957-Eisenhower.txt NLTK  A   88   18 This , nothing less , is the labor to which we are called and our strength dedicated .
+SENTPOS 1957-Eisenhower.txt NLTK  B   88  18 This_DT ,_COMMA nothing_NN less_JJR ,_COMMA is_VBZ the_DT labor_NN to_TO which_WDT we_PRP are_VBP called_VBN and_CC our_PRPDOLLAR strength_NN dedicated_VBN ._PERIOD
+SENTPOS 1957-Eisenhower.txt NLTK  A   89   25 And so the prayer of our people carries far beyond our own frontiers , to the wide world of our duty and our destiny .
+SENTPOS 1957-Eisenhower.txt NLTK  B   89  25 And_CC so_RB the_DT prayer_NN of_IN our_PRPDOLLAR people_NNS carries_VBZ far_RB beyond_IN our_PRPDOLLAR own_JJ frontiers_NNS ,_COMMA to_TO the_DT wide_JJ world_NN of_IN our_PRPDOLLAR duty_NN and_CC our_PRPDOLLAR destiny_NN ._PERIOD
+SENTPOS 1957-Eisenhower.txt NLTK  A   90   24 May the light of freedom , coming to all darkened lands , flame brightly -- until at last the darkness is no more .
+SENTPOS 1957-Eisenhower.txt NLTK  B   90  24 May_NNP the_DT light_NN of_IN freedom_NN ,_COMMA coming_VBG to_TO all_DT darkened_VBN lands_NNS ,_COMMA flame_NN brightly_RB --_COLON until_IN at_IN last_JJ the_DT darkness_NN is_VBZ no_DT more_RBR ._PERIOD
+SENTPOS 1957-Eisenhower.txt NLTK  A   91   34 May the turbulence of our age yield to a true time of peace , when men and nations shall share a life that honors the dignity of each , the brotherhood of all .
+SENTPOS 1957-Eisenhower.txt NLTK  B   91  34 May_NNP the_DT turbulence_NN of_IN our_PRPDOLLAR age_NN yield_NN to_TO a_DT true_JJ time_NN of_IN peace_NN ,_COMMA when_WRB men_NNS and_CC nations_NNS shall_MD share_NN a_DT life_NN that_WDT honors_VBZ the_DT dignity_NN of_IN each_DT ,_COMMA the_DT brotherhood_NN of_IN all_DT ._PERIOD
