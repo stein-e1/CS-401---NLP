@@ -1,0 +1,12 @@
+This program utilizes Naive Bayes classification on the Million Song Dataset(http://millionsongdataset.com/) to classify songs that are either metal or rock. It displays to the console the top 10 classifying words and the classifer's accuracy on the test portion of the dataset (80%).
+
+This program takes one optional command line argument, which specifies the number of records in the final table. I find that the number of tracks included for a given record limit is roughly 2 orders of magnitude less than the limit. This is used to optimize performance. On a ~2018 Dell Laptop with 4 cores and 8 threas, running with all rock and metal songs in the MSD took 665 seconds, or ~11 minutes. It resulted in a model with ~82% accuracy, but with a limit of, say, 100000 you can achieve ~ 77% classification accuracy in 16-24 seconds.
+
+The program attaches several databases from the MSD, extracts relevent columns, and then extracts vector models of the lyrics for each song, with 1 when a lyric is in the song and 0 when it is not. Stop words are ignored. The data is then formatted for nltk's naive bayes methods, and passed through. From this we glean the accuracy and top 10 most informative words. 
+
+Finally, the program looks at 5 chatgpt generated alt rock and metal songs each. It stems the songs (MSD data is stemmed) and then attempts to classify them. Since the performance of our model is generally pretty good, we can get an idea if chatgpt can make distinctions between the lyrical themes of these musical genres. This is subjective, but I chose alt-rock because I find the lyrical themes more similar to metal than other sub-genres, so I thought making the distinction would be a more difficult problem.
+
+The prompt used for chatgpt: "write me the lyrics for 5 approximately 5-minute-long alt-rock songs. Separate the songs with 2 new line characters. Write the first song about a duck. Write the second song about a grieving man. Write the third song about Christmas. Write the fourth song about sexism. Write the final song about a forest." The same prompt with 'alt-rock' replaced with 'metal' was used to generate metal songs. I copied and pasted the output into text files, getting rid of useless information such as chorus or verse number tags. This was viable because we only use 5 songs from each genre.
+
+You must download the MSD databases and install in the appropriate directory to run this program.
+  
